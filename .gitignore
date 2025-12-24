@@ -2,3 +2,5 @@
 
 # Data files
 data/*.csv
+
+model.json
