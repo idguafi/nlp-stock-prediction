@@ -1,0 +1,53 @@
+name: Daily Data Fetch and Inference
+
+on:
+  schedule:
+    # Run at 9:00 AM UTC (after market close) every weekday
+    - cron: '0 9 * * 1-5'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  daily-inference:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install jupyter nbconvert
+    
+    - name: Run daily data fetch notebook
+      env:
+        HOPSWORKS_API_KEY: ${{ secrets.HOPSWORKS_API_KEY }}
+      run: |
+        jupyter nbconvert --to notebook --execute notebooks/daily_data.ipynb --output daily_data_executed.ipynb
+    
+    - name: Run inference notebook
+      env:
+        HOPSWORKS_API_KEY: ${{ secrets.HOPSWORKS_API_KEY }}
+      run: |
+        jupyter nbconvert --to notebook --execute notebooks/inference.ipynb --output inference_executed.ipynb
+    
+    - name: Archive execution results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: execution-results-${{ github.run_number }}
+        path: |
+          notebooks/*_executed.ipynb
+        retention-days: 30
+    
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "Daily inference pipeline failed. Check the logs for details."
