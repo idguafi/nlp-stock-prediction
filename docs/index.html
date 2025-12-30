@@ -103,16 +103,18 @@
                 const recentData = data.slice(-90); 
 
                 const dates = recentData.map(d => d.date);
-                const actualPrices = recentData.map(d => d.actual_open);
+                // Use 'current_open' for the price on that day. 
+                // 'future_open' is the target (next day), which is NaN for the last entry.
+                const actualPrices = recentData.map(d => d.current_open);
                 const predictedPrices = recentData.map(d => d.predicted_open);
                 const sentiments = recentData.map(d => d.sentiment);
 
                 // Update Stats
                 const last = recentData[recentData.length - 1];
-                const prev = recentData[recentData.length - 2];
                 
-                document.getElementById('latestPrice').textContent = last.actual_open ? 
-                    `$${last.actual_open.toFixed(2)}` : (prev ? `$${prev.actual_open.toFixed(2)}` : 'N/A');
+                // Display the price on the LATEST date (current_open)
+                document.getElementById('latestPrice').textContent = last.current_open ? 
+                    `$${last.current_open.toFixed(2)}` : 'N/A';
                 
                 document.getElementById('latestPred').textContent = `$${last.predicted_open.toFixed(2)}`;
                 
