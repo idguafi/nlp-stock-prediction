@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAPL Stock Prediction Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .chart-container {
+            position: relative;
+            height: 60vh;
+            width: 100%;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+        .stat-box {
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2196F3;
+        }
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+        }
+        .update-time {
+            text-align: center;
+            color: #888;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AAPL Stock Price Prediction & Sentiment Analysis</h1>
+        
+        <div class="chart-container">
+            <canvas id="predictionChart"></canvas>
+        </div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-value" id="latestPrice">--</div>
+                <div class="stat-label">Latest Actual Open</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="latestPred">--</div>
+                <div class="stat-label">Next Day Prediction</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="latestSentiment">--</div>
+                <div class="stat-label">Latest Sentiment</div>
+            </div>
+        </div>
+
+        <div class="update-time" id="lastUpdated"></div>
+    </div>
+
+    <script>
+        async function loadData() {
+            try {
+                const response = await fetch('predictions.json');
+                const data = await response.json();
+                
+                // Sort data by date
+                data.sort((a, b) => new Date(a.date) - new Date(b.date));
+
+                // Filter for 2025 data only (as requested) or show all if sparse
+                // Let's show last 90 days by default to keep it readable
+                const recentData = data.slice(-90); 
+
+                const dates = recentData.map(d => d.date);
+                const actualPrices = recentData.map(d => d.actual_open);
+                const predictedPrices = recentData.map(d => d.predicted_open);
+                const sentiments = recentData.map(d => d.sentiment);
+
+                // Update Stats
+                const last = recentData[recentData.length - 1];
+                const prev = recentData[recentData.length - 2];
+                
+                document.getElementById('latestPrice').textContent = last.actual_open ? 
+                    `$${last.actual_open.toFixed(2)}` : (prev ? `$${prev.actual_open.toFixed(2)}` : 'N/A');
+                
+                document.getElementById('latestPred').textContent = `$${last.predicted_open.toFixed(2)}`;
+                
+                const sentVal = last.sentiment;
+                const sentText = sentVal > 0.1 ? 'Positive' : (sentVal < -0.1 ? 'Negative' : 'Neutral');
+                const sentColor = sentVal > 0.1 ? 'green' : (sentVal < -0.1 ? 'red' : 'gray');
+                
+                const sentEl = document.getElementById('latestSentiment');
+                sentEl.textContent = `${sentText} (${sentVal.toFixed(2)})`;
+                sentEl.style.color = sentColor;
+
+                document.getElementById('lastUpdated').textContent = `Last Updated: ${new Date().toLocaleString()}`;
+
+                // Chart
+                const ctx = document.getElementById('predictionChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: dates,
+                        datasets: [
+                            {
+                                label: 'Actual Opening Price',
+                                data: actualPrices,
+                                borderColor: '#2196F3',
+                                backgroundColor: 'rgba(33, 150, 243, 0.1)',
+                                borderWidth: 2,
+                                tension: 0.1,
+                                yAxisID: 'y'
+                            },
+                            {
+                                label: 'Predicted Opening Price',
+                                data: predictedPrices,
+                                borderColor: '#FF9800',
+                                borderDash: [5, 5],
+                                borderWidth: 2,
+                                tension: 0.1,
+                                yAxisID: 'y'
+                            },
+                            {
+                                label: 'Sentiment Polarity',
+                                data: sentiments,
+                                type: 'bar',
+                                backgroundColor: (context) => {
+                                    const value = context.raw;
+                                    return value >= 0 ? 'rgba(76, 175, 80, 0.3)' : 'rgba(244, 67, 54, 0.3)';
+                                },
+                                yAxisID: 'y1',
+                                barThickness: 5
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        interaction: {
+                            mode: 'index',
+                            intersect: false,
+                        },
+                        scales: {
+                            x: {
+                                type: 'time',
+                                time: {
+                                    unit: 'day'
+                                },
+                                title: {
+                                    display: true,
+                                    text: 'Date'
+                                }
+                            },
+                            y: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                title: {
+                                    display: true,
+                                    text: 'Price ($)'
+                                }
+                            },
+                            y1: {
+                                type: 'linear',
+                                display: true,
+                                position: 'right',
+                                title: {
+                                    display: true,
+                                    text: 'Sentiment Score'
+                                },
+                                grid: {
+                                    drawOnChartArea: false
+                                },
+                                min: -1,
+                                max: 1
+                            }
+                        }
+                    }
+                });
+
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.querySelector('.container').innerHTML += `<p style="color:red; text-align:center">Error loading predictions.json. Make sure the file exists.</p>`;
+            }
+        }
+
+        loadData();
+    </script>
+</body>
+</html>

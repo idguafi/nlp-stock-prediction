@@ -1,0 +1,6812 @@
+[
+  {
+    "date": "2016-02-19",
+    "actual_open": 21.832739547258633,
+    "predicted_open": 22.1042537689209,
+    "sentiment": 0.994
+  },
+  {
+    "date": "2017-10-05",
+    "actual_open": 36.16271628489837,
+    "predicted_open": 36.218231201171875,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2017-11-27",
+    "actual_open": 40.81965603905941,
+    "predicted_open": 40.92573547363281,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2017-11-30",
+    "actual_open": 39.80089361602775,
+    "predicted_open": 39.769840240478516,
+    "sentiment": 0.989
+  },
+  {
+    "date": "2018-01-31",
+    "actual_open": 39.149855976180945,
+    "predicted_open": 39.197105407714844,
+    "sentiment": 0.995
+  },
+  {
+    "date": "2018-03-16",
+    "actual_open": 41.696219316598324,
+    "predicted_open": 42.06148910522461,
+    "sentiment": 0.991
+  },
+  {
+    "date": "2018-03-27",
+    "actual_open": 39.32827690592115,
+    "predicted_open": 39.30613708496094,
+    "sentiment": -0.244
+  },
+  {
+    "date": "2018-04-16",
+    "actual_open": 41.50104890483007,
+    "predicted_open": 41.47294616699219,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2018-06-22",
+    "actual_open": 43.29219866020999,
+    "predicted_open": 43.28437042236328,
+    "sentiment": -0.807
+  },
+  {
+    "date": "2018-10-23",
+    "actual_open": 52.72977496604514,
+    "predicted_open": 52.86062240600586,
+    "sentiment": 0.995
+  },
+  {
+    "date": "2018-11-30",
+    "actual_open": 43.847576303897945,
+    "predicted_open": 43.72002029418945,
+    "sentiment": 0.998
+  },
+  {
+    "date": "2019-01-03",
+    "actual_open": 34.35590843708306,
+    "predicted_open": 34.2806510925293,
+    "sentiment": 0.9795
+  },
+  {
+    "date": "2019-02-22",
+    "actual_open": 41.57675106475054,
+    "predicted_open": 41.39580535888672,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2019-04-01",
+    "actual_open": 45.61839822070278,
+    "predicted_open": 45.56852340698242,
+    "sentiment": 0.994
+  },
+  {
+    "date": "2019-04-16",
+    "actual_open": 47.635642038208694,
+    "predicted_open": 47.45069885253906,
+    "sentiment": 0.906
+  },
+  {
+    "date": "2019-04-18",
+    "actual_open": 48.42106474997594,
+    "predicted_open": 48.315364837646484,
+    "sentiment": -0.949
+  },
+  {
+    "date": "2019-04-22",
+    "actual_open": 48.803020377452285,
+    "predicted_open": 47.468345642089844,
+    "sentiment": -0.924
+  },
+  {
+    "date": "2019-04-25",
+    "actual_open": 48.91520680522645,
+    "predicted_open": 48.96327209472656,
+    "sentiment": 0.7543333333333333
+  },
+  {
+    "date": "2019-04-29",
+    "actual_open": 48.47596891449491,
+    "predicted_open": 48.23793029785156,
+    "sentiment": -0.987
+  },
+  {
+    "date": "2019-05-01",
+    "actual_open": 50.094547286842186,
+    "predicted_open": 50.16891098022461,
+    "sentiment": 0.36200000000000004
+  },
+  {
+    "date": "2019-05-07",
+    "actual_open": 48.19903973218028,
+    "predicted_open": 48.400691986083984,
+    "sentiment": 0.906
+  },
+  {
+    "date": "2019-05-10",
+    "actual_open": 44.98407744370745,
+    "predicted_open": 45.73955535888672,
+    "sentiment": -0.987
+  },
+  {
+    "date": "2019-05-13",
+    "actual_open": 44.67253361534113,
+    "predicted_open": 44.886680603027344,
+    "sentiment": 0.906
+  },
+  {
+    "date": "2019-05-14",
+    "actual_open": 44.63897123783222,
+    "predicted_open": 45.39521408081055,
+    "sentiment": -0.924
+  },
+  {
+    "date": "2019-05-15",
+    "actual_open": 45.51129679315685,
+    "predicted_open": 45.38304138183594,
+    "sentiment": 0.03649999999999998
+  },
+  {
+    "date": "2019-05-16",
+    "actual_open": 44.79715015909945,
+    "predicted_open": 44.71257781982422,
+    "sentiment": -0.985
+  },
+  {
+    "date": "2019-05-17",
+    "actual_open": 43.979961140510966,
+    "predicted_open": 44.142173767089844,
+    "sentiment": -0.422
+  },
+  {
+    "date": "2019-05-20",
+    "actual_open": 44.387353616001334,
+    "predicted_open": 44.08518981933594,
+    "sentiment": -0.924
+  },
+  {
+    "date": "2019-05-21",
+    "actual_open": 44.25314144747498,
+    "predicted_open": 43.72871398925781,
+    "sentiment": 0.906
+  },
+  {
+    "date": "2019-05-22",
+    "actual_open": 43.08846676529334,
+    "predicted_open": 43.265628814697266,
+    "sentiment": 0.863
+  },
+  {
+    "date": "2019-05-23",
+    "actual_open": 43.184332733174735,
+    "predicted_open": 43.2448616027832,
+    "sentiment": -0.993
+  },
+  {
+    "date": "2019-05-24",
+    "actual_open": 42.877568344534325,
+    "predicted_open": 42.87276077270508,
+    "sentiment": 0.844
+  },
+  {
+    "date": "2019-05-29",
+    "actual_open": 42.64511849088788,
+    "predicted_open": 42.73507308959961,
+    "sentiment": 0.975
+  },
+  {
+    "date": "2019-05-30",
+    "actual_open": 42.23292045101401,
+    "predicted_open": 42.702980041503906,
+    "sentiment": -0.966
+  },
+  {
+    "date": "2019-05-31",
+    "actual_open": 42.08194583387988,
+    "predicted_open": 41.97407913208008,
+    "sentiment": -0.705
+  },
+  {
+    "date": "2019-06-03",
+    "actual_open": 42.04361362408563,
+    "predicted_open": 41.8426399230957,
+    "sentiment": 0.03149999999999997
+  },
+  {
+    "date": "2019-06-06",
+    "actual_open": 44.69648835711677,
+    "predicted_open": 44.59249496459961,
+    "sentiment": -0.989
+  },
+  {
+    "date": "2019-06-07",
+    "actual_open": 45.96662081555493,
+    "predicted_open": 45.98295974731445,
+    "sentiment": -0.988
+  },
+  {
+    "date": "2019-06-10",
+    "actual_open": 46.69754519733289,
+    "predicted_open": 47.468345642089844,
+    "sentiment": -0.924
+  },
+  {
+    "date": "2019-06-13",
+    "actual_open": 45.90431499766962,
+    "predicted_open": 46.142120361328125,
+    "sentiment": 0.906
+  },
+  {
+    "date": "2019-06-14",
+    "actual_open": 46.22782880502471,
+    "predicted_open": 46.03862380981445,
+    "sentiment": -0.988
+  },
+  {
+    "date": "2020-03-23",
+    "actual_open": 57.164135860349994,
+    "predicted_open": 57.000732421875,
+    "sentiment": 0.994
+  },
+  {
+    "date": "2020-03-24",
+    "actual_open": 60.644390107262105,
+    "predicted_open": 60.50362014770508,
+    "sentiment": 0.94
+  },
+  {
+    "date": "2020-03-27",
+    "actual_open": 60.6419727055928,
+    "predicted_open": 60.64963912963867,
+    "sentiment": 0.9795
+  },
+  {
+    "date": "2020-03-30",
+    "actual_open": 61.8173824008547,
+    "predicted_open": 61.73383712768555,
+    "sentiment": 0.15549999999999997
+  },
+  {
+    "date": "2020-04-07",
+    "actual_open": 63.54419983698464,
+    "predicted_open": 64.1178970336914,
+    "sentiment": 0.238
+  },
+  {
+    "date": "2020-04-08",
+    "actual_open": 64.98563166236876,
+    "predicted_open": 64.77781677246094,
+    "sentiment": 0.559
+  },
+  {
+    "date": "2020-04-09",
+    "actual_open": 64.89131008954301,
+    "predicted_open": 64.89046478271484,
+    "sentiment": 0.987
+  },
+  {
+    "date": "2020-04-23",
+    "actual_open": 67.04136830681426,
+    "predicted_open": 67.16773223876953,
+    "sentiment": -0.7806666666666667
+  },
+  {
+    "date": "2020-04-24",
+    "actual_open": 68.1538860746012,
+    "predicted_open": 68.14195251464844,
+    "sentiment": 0.999
+  },
+  {
+    "date": "2020-04-27",
+    "actual_open": 68.94715995733218,
+    "predicted_open": 69.03445434570312,
+    "sentiment": 0.8917999999999999
+  },
+  {
+    "date": "2020-04-28",
+    "actual_open": 68.86253288111276,
+    "predicted_open": 69.0008544921875,
+    "sentiment": 0.98
+  },
+  {
+    "date": "2020-04-30",
+    "actual_open": 69.23013833651491,
+    "predicted_open": 69.38880157470703,
+    "sentiment": 0.994
+  },
+  {
+    "date": "2020-05-01",
+    "actual_open": 69.93635703016494,
+    "predicted_open": 69.62178039550781,
+    "sentiment": 0.998
+  },
+  {
+    "date": "2020-05-05",
+    "actual_open": 72.66685920210755,
+    "predicted_open": 72.67443084716797,
+    "sentiment": 0.6475
+  },
+  {
+    "date": "2020-05-06",
+    "actual_open": 73.33436077692376,
+    "predicted_open": 73.03137969970703,
+    "sentiment": 0.991
+  },
+  {
+    "date": "2020-05-07",
+    "actual_open": 74.11974268821213,
+    "predicted_open": 73.97372436523438,
+    "sentiment": 0.9784999999999999
+  },
+  {
+    "date": "2020-05-12",
+    "actual_open": 75.69848100436312,
+    "predicted_open": 76.05940246582031,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2020-05-13",
+    "actual_open": 73.84570540703209,
+    "predicted_open": 73.7113037109375,
+    "sentiment": -0.02699999999999997
+  },
+  {
+    "date": "2020-05-14",
+    "actual_open": 72.83688885866347,
+    "predicted_open": 72.79955291748047,
+    "sentiment": 0.9715
+  },
+  {
+    "date": "2020-05-15",
+    "actual_open": 75.94581646414036,
+    "predicted_open": 75.86906433105469,
+    "sentiment": 0.984
+  },
+  {
+    "date": "2020-05-18",
+    "actual_open": 76.39686365238681,
+    "predicted_open": 76.44136810302734,
+    "sentiment": 0.996
+  },
+  {
+    "date": "2020-05-19",
+    "actual_open": 76.79702397462873,
+    "predicted_open": 76.61573028564453,
+    "sentiment": 0.998
+  },
+  {
+    "date": "2020-05-20",
+    "actual_open": 77.27719341349972,
+    "predicted_open": 77.17850494384766,
+    "sentiment": 0.85
+  },
+  {
+    "date": "2020-05-28",
+    "actual_open": 77.42027570132166,
+    "predicted_open": 77.73531341552734,
+    "sentiment": 0.973
+  },
+  {
+    "date": "2020-06-10",
+    "actual_open": 84.71000802945393,
+    "predicted_open": 84.56221771240234,
+    "sentiment": 0.996
+  },
+  {
+    "date": "2020-06-15",
+    "actual_open": 85.23139143477016,
+    "predicted_open": 85.21980285644531,
+    "sentiment": 0.953
+  },
+  {
+    "date": "2020-06-19",
+    "actual_open": 85.20228371964926,
+    "predicted_open": 85.10222625732422,
+    "sentiment": 0.995
+  },
+  {
+    "date": "2020-06-24",
+    "actual_open": 87.47216145830379,
+    "predicted_open": 87.50445556640625,
+    "sentiment": -0.908
+  },
+  {
+    "date": "2020-06-29",
+    "actual_open": 87.32180641103123,
+    "predicted_open": 87.40792083740234,
+    "sentiment": 0.3025
+  },
+  {
+    "date": "2020-07-02",
+    "actual_open": 89.72748052152446,
+    "predicted_open": 89.6795883178711,
+    "sentiment": 0.34400000000000003
+  },
+  {
+    "date": "2020-07-07",
+    "actual_open": 91.35712467862727,
+    "predicted_open": 90.93666076660156,
+    "sentiment": 0.9006666666666666
+  },
+  {
+    "date": "2020-07-08",
+    "actual_open": 93.37720806711494,
+    "predicted_open": 93.10552978515625,
+    "sentiment": -0.676
+  },
+  {
+    "date": "2020-07-14",
+    "actual_open": 96.02293577834864,
+    "predicted_open": 95.80904388427734,
+    "sentiment": 0.992
+  },
+  {
+    "date": "2020-07-15",
+    "actual_open": 93.66821174965895,
+    "predicted_open": 93.98208618164062,
+    "sentiment": 0.999
+  },
+  {
+    "date": "2020-07-16",
+    "actual_open": 94.0804677579499,
+    "predicted_open": 94.4736099243164,
+    "sentiment": 0.927
+  },
+  {
+    "date": "2020-07-17",
+    "actual_open": 93.527569101271,
+    "predicted_open": 93.61052703857422,
+    "sentiment": 0.819
+  },
+  {
+    "date": "2020-07-20",
+    "actual_open": 96.19998173978415,
+    "predicted_open": 96.19493865966797,
+    "sentiment": 0.987
+  },
+  {
+    "date": "2020-07-30",
+    "actual_open": 99.80120250061277,
+    "predicted_open": 99.34793853759766,
+    "sentiment": 0.976
+  },
+  {
+    "date": "2020-08-03",
+    "actual_open": 105.8614502635959,
+    "predicted_open": 106.01549530029297,
+    "sentiment": 0.93875
+  },
+  {
+    "date": "2020-08-05",
+    "actual_open": 107.095798287908,
+    "predicted_open": 107.02727508544922,
+    "sentiment": 0.906
+  },
+  {
+    "date": "2020-08-06",
+    "actual_open": 110.00985676474956,
+    "predicted_open": 109.82402038574219,
+    "sentiment": 0.984
+  },
+  {
+    "date": "2020-08-07",
+    "actual_open": 109.42194125871023,
+    "predicted_open": 109.82527923583984,
+    "sentiment": 0.989
+  },
+  {
+    "date": "2020-08-10",
+    "actual_open": 108.80971510575287,
+    "predicted_open": 108.88011932373047,
+    "sentiment": 0.991
+  },
+  {
+    "date": "2020-08-11",
+    "actual_open": 107.37879010908718,
+    "predicted_open": 107.38651275634766,
+    "sentiment": 0.998
+  },
+  {
+    "date": "2020-08-13",
+    "actual_open": 111.58901749702606,
+    "predicted_open": 111.41153717041016,
+    "sentiment": 0.882
+  },
+  {
+    "date": "2020-08-18",
+    "actual_open": 112.7089894111577,
+    "predicted_open": 112.59819030761719,
+    "sentiment": 0.9213333333333332
+  },
+  {
+    "date": "2020-08-19",
+    "actual_open": 112.48304002227763,
+    "predicted_open": 112.79585266113281,
+    "sentiment": 0.988
+  },
+  {
+    "date": "2020-08-20",
+    "actual_open": 115.89640603696287,
+    "predicted_open": 115.57290649414062,
+    "sentiment": -0.908
+  },
+  {
+    "date": "2020-08-21",
+    "actual_open": 125.06512256831381,
+    "predicted_open": 125.05101013183594,
+    "sentiment": 0.998
+  },
+  {
+    "date": "2020-08-24",
+    "actual_open": 121.1780064067377,
+    "predicted_open": 121.66453552246094,
+    "sentiment": 0.0032000000000000028
+  },
+  {
+    "date": "2020-08-25",
+    "actual_open": 122.61868313885017,
+    "predicted_open": 122.53140258789062,
+    "sentiment": 0.991
+  },
+  {
+    "date": "2020-08-27",
+    "actual_open": 122.45589632606433,
+    "predicted_open": 122.67039489746094,
+    "sentiment": -0.103
+  },
+  {
+    "date": "2020-08-28",
+    "actual_open": 123.97914215160894,
+    "predicted_open": 123.55317687988281,
+    "sentiment": 0.6736666666666666
+  },
+  {
+    "date": "2020-08-31",
+    "actual_open": 129.01293310588505,
+    "predicted_open": 129.08700561523438,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2020-09-02",
+    "actual_open": 123.32806028413174,
+    "predicted_open": 123.64715576171875,
+    "sentiment": 0.46925
+  },
+  {
+    "date": "2020-09-03",
+    "actual_open": 116.68110262085477,
+    "predicted_open": 117.04401397705078,
+    "sentiment": 0.5505
+  },
+  {
+    "date": "2020-09-04",
+    "actual_open": 110.73384613966655,
+    "predicted_open": 111.37398529052734,
+    "sentiment": 0.3525
+  },
+  {
+    "date": "2020-09-08",
+    "actual_open": 113.95044673268514,
+    "predicted_open": 113.85993194580078,
+    "sentiment": 0.649
+  },
+  {
+    "date": "2020-09-09",
+    "actual_open": 116.96294529880299,
+    "predicted_open": 116.8188705444336,
+    "sentiment": 0.9996666666666667
+  },
+  {
+    "date": "2020-09-10",
+    "actual_open": 111.33633798711266,
+    "predicted_open": 112.026611328125,
+    "sentiment": 0.982
+  },
+  {
+    "date": "2020-09-11",
+    "actual_open": 111.48211380367826,
+    "predicted_open": 111.58588409423828,
+    "sentiment": 0.78
+  },
+  {
+    "date": "2020-09-14",
+    "actual_open": 114.99022398928534,
+    "predicted_open": 114.45450592041016,
+    "sentiment": 0.866
+  },
+  {
+    "date": "2020-09-15",
+    "actual_open": 111.97772849620063,
+    "predicted_open": 112.34551239013672,
+    "sentiment": 0.993
+  },
+  {
+    "date": "2020-09-16",
+    "actual_open": 106.6232270995851,
+    "predicted_open": 107.3000717163086,
+    "sentiment": 0.975
+  },
+  {
+    "date": "2020-09-17",
+    "actual_open": 107.28403508185545,
+    "predicted_open": 107.49313354492188,
+    "sentiment": 0.9002000000000001
+  },
+  {
+    "date": "2020-09-22",
+    "actual_open": 108.46962532813541,
+    "predicted_open": 108.65977478027344,
+    "sentiment": 0.703
+  },
+  {
+    "date": "2020-09-24",
+    "actual_open": 105.3696421159189,
+    "predicted_open": 105.36380767822266,
+    "sentiment": 0.7298
+  },
+  {
+    "date": "2020-09-28",
+    "actual_open": 111.3169269814266,
+    "predicted_open": 111.28970336914062,
+    "sentiment": 0.984
+  },
+  {
+    "date": "2020-09-29",
+    "actual_open": 110.57836749432273,
+    "predicted_open": 110.75623321533203,
+    "sentiment": 0.5606666666666666
+  },
+  {
+    "date": "2020-10-01",
+    "actual_open": 109.70376520376246,
+    "predicted_open": 109.68821716308594,
+    "sentiment": 0.6635
+  },
+  {
+    "date": "2020-10-06",
+    "actual_open": 111.3849466001731,
+    "predicted_open": 111.46868133544922,
+    "sentiment": 0.968
+  },
+  {
+    "date": "2020-10-07",
+    "actual_open": 112.96893128687452,
+    "predicted_open": 112.72071075439453,
+    "sentiment": 0.98
+  },
+  {
+    "date": "2020-10-08",
+    "actual_open": 112.02630624423392,
+    "predicted_open": 112.12034606933594,
+    "sentiment": 0.9899999999999999
+  },
+  {
+    "date": "2020-10-09",
+    "actual_open": 116.67140501342882,
+    "predicted_open": 116.61514282226562,
+    "sentiment": 1.0
+  },
+  {
+    "date": "2020-10-12",
+    "actual_open": 121.73436397339965,
+    "predicted_open": 121.42948150634766,
+    "sentiment": 0.6533333333333333
+  },
+  {
+    "date": "2020-10-13",
+    "actual_open": 117.58488382722,
+    "predicted_open": 117.749267578125,
+    "sentiment": -0.05
+  },
+  {
+    "date": "2020-10-16",
+    "actual_open": 116.57422168009768,
+    "predicted_open": 116.64415740966797,
+    "sentiment": 0.9894000000000001
+  },
+  {
+    "date": "2020-10-20",
+    "actual_open": 113.37708965617799,
+    "predicted_open": 113.06781768798828,
+    "sentiment": 0.979
+  },
+  {
+    "date": "2020-10-21",
+    "actual_open": 114.13504787679302,
+    "predicted_open": 113.8110122680664,
+    "sentiment": 0.994
+  },
+  {
+    "date": "2020-10-22",
+    "actual_open": 113.10497897085499,
+    "predicted_open": 113.39642333984375,
+    "sentiment": 0.202
+  },
+  {
+    "date": "2020-10-23",
+    "actual_open": 110.79214024867784,
+    "predicted_open": 110.55421447753906,
+    "sentiment": 0.994
+  },
+  {
+    "date": "2020-10-26",
+    "actual_open": 112.2303873896094,
+    "predicted_open": 112.13304901123047,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2020-10-27",
+    "actual_open": 111.8027892521436,
+    "predicted_open": 112.0567398071289,
+    "sentiment": 0.971
+  },
+  {
+    "date": "2020-10-28",
+    "actual_open": 109.19843501901767,
+    "predicted_open": 109.32035827636719,
+    "sentiment": 0.956
+  },
+  {
+    "date": "2020-10-29",
+    "actual_open": 107.92540973464747,
+    "predicted_open": 108.08797454833984,
+    "sentiment": 0.986
+  },
+  {
+    "date": "2020-10-30",
+    "actual_open": 106.03045032760409,
+    "predicted_open": 105.9699935913086,
+    "sentiment": 0.3782
+  },
+  {
+    "date": "2020-11-02",
+    "actual_open": 106.56493023946784,
+    "predicted_open": 106.52888488769531,
+    "sentiment": 0.4584
+  },
+  {
+    "date": "2020-11-03",
+    "actual_open": 110.91847624915665,
+    "predicted_open": 110.6161117553711,
+    "sentiment": 0.986
+  },
+  {
+    "date": "2020-11-09",
+    "actual_open": 112.48240247680658,
+    "predicted_open": 112.71975708007812,
+    "sentiment": -0.5103333333333333
+  },
+  {
+    "date": "2020-11-10",
+    "actual_open": 114.07886680354521,
+    "predicted_open": 113.5837631225586,
+    "sentiment": 0.993
+  },
+  {
+    "date": "2020-11-11",
+    "actual_open": 116.44435364296932,
+    "predicted_open": 116.31686401367188,
+    "sentiment": 0.988
+  },
+  {
+    "date": "2020-11-13",
+    "actual_open": 115.76294667468657,
+    "predicted_open": 115.77567291259766,
+    "sentiment": 0.9924999999999999
+  },
+  {
+    "date": "2020-11-23",
+    "actual_open": 110.88597355527465,
+    "predicted_open": 110.9313735961914,
+    "sentiment": 0.993
+  },
+  {
+    "date": "2020-11-25",
+    "actual_open": 113.47534623148913,
+    "predicted_open": 113.8519515991211,
+    "sentiment": 0.865
+  },
+  {
+    "date": "2020-11-30",
+    "actual_open": 117.79747164276061,
+    "predicted_open": 117.72944641113281,
+    "sentiment": 0.06
+  },
+  {
+    "date": "2020-12-01",
+    "actual_open": 118.78065073270163,
+    "predicted_open": 118.86243438720703,
+    "sentiment": 0.987
+  },
+  {
+    "date": "2020-12-04",
+    "actual_open": 119.06296307750874,
+    "predicted_open": 118.69395446777344,
+    "sentiment": 0.987
+  },
+  {
+    "date": "2020-12-07",
+    "actual_open": 121.06826612455384,
+    "predicted_open": 120.72297668457031,
+    "sentiment": 0.9883333333333333
+  },
+  {
+    "date": "2020-12-09",
+    "actual_open": 117.30101190387383,
+    "predicted_open": 117.47235870361328,
+    "sentiment": 0.988
+  },
+  {
+    "date": "2020-12-10",
+    "actual_open": 119.17976698694284,
+    "predicted_open": 119.15693664550781,
+    "sentiment": 0.991
+  },
+  {
+    "date": "2020-12-11",
+    "actual_open": 119.34523518624412,
+    "predicted_open": 119.27220916748047,
+    "sentiment": 0.997
+  },
+  {
+    "date": "2020-12-14",
+    "actual_open": 121.03905488619017,
+    "predicted_open": 120.66967010498047,
+    "sentiment": -0.09950000000000002
+  },
+  {
+    "date": "2020-12-15",
+    "actual_open": 124.0275637947843,
+    "predicted_open": 123.95484161376953,
+    "sentiment": 0.21739999999999998
+  },
+  {
+    "date": "2020-12-16",
+    "actual_open": 125.47796686372932,
+    "predicted_open": 125.32638549804688,
+    "sentiment": 0.923
+  },
+  {
+    "date": "2020-12-17",
+    "actual_open": 125.53641332100761,
+    "predicted_open": 125.30559539794922,
+    "sentiment": -0.0015000000000000013
+  },
+  {
+    "date": "2020-12-21",
+    "actual_open": 128.11605471749206,
+    "predicted_open": 127.97578430175781,
+    "sentiment": -0.883
+  },
+  {
+    "date": "2020-12-22",
+    "actual_open": 128.65146195480474,
+    "predicted_open": 128.64234924316406,
+    "sentiment": 0.97125
+  },
+  {
+    "date": "2020-12-23",
+    "actual_open": 127.83375369258947,
+    "predicted_open": 127.65762329101562,
+    "sentiment": 0.9896666666666666
+  },
+  {
+    "date": "2020-12-24",
+    "actual_open": 130.43286969291617,
+    "predicted_open": 130.3621826171875,
+    "sentiment": -0.064
+  },
+  {
+    "date": "2020-12-28",
+    "actual_open": 134.38509099699746,
+    "predicted_open": 134.38839721679688,
+    "sentiment": 0.5071666666666667
+  },
+  {
+    "date": "2020-12-29",
+    "actual_open": 131.98065036313264,
+    "predicted_open": 131.92173767089844,
+    "sentiment": 0.875
+  },
+  {
+    "date": "2020-12-30",
+    "actual_open": 130.52047160916396,
+    "predicted_open": 130.4634552001953,
+    "sentiment": 0.9135
+  },
+  {
+    "date": "2021-01-04",
+    "actual_open": 125.46824574975814,
+    "predicted_open": 125.90973663330078,
+    "sentiment": 0.963
+  },
+  {
+    "date": "2021-01-05",
+    "actual_open": 124.3293440895093,
+    "predicted_open": 124.28305053710938,
+    "sentiment": 0.8213333333333334
+  },
+  {
+    "date": "2021-01-06",
+    "actual_open": 124.95233107817177,
+    "predicted_open": 125.01195526123047,
+    "sentiment": 0.9059999999999999
+  },
+  {
+    "date": "2021-01-07",
+    "actual_open": 128.9143049184012,
+    "predicted_open": 128.2464141845703,
+    "sentiment": 0.5426666666666666
+  },
+  {
+    "date": "2021-01-08",
+    "actual_open": 125.76029392736588,
+    "predicted_open": 125.99393463134766,
+    "sentiment": 0.94725
+  },
+  {
+    "date": "2021-01-12",
+    "actual_open": 125.34170314043133,
+    "predicted_open": 125.10657501220703,
+    "sentiment": 0.9179999999999999
+  },
+  {
+    "date": "2021-01-13",
+    "actual_open": 127.32753285090679,
+    "predicted_open": 127.26353454589844,
+    "sentiment": 0.1556
+  },
+  {
+    "date": "2021-01-14",
+    "actual_open": 125.3611781802463,
+    "predicted_open": 125.51712036132812,
+    "sentiment": 0.9979999999999999
+  },
+  {
+    "date": "2021-01-15",
+    "actual_open": 124.38774103736687,
+    "predicted_open": 124.71949768066406,
+    "sentiment": 0.8601333333333333
+  },
+  {
+    "date": "2021-01-19",
+    "actual_open": 125.24438780808299,
+    "predicted_open": 124.87123107910156,
+    "sentiment": 0.2394
+  },
+  {
+    "date": "2021-01-20",
+    "actual_open": 130.24791374177147,
+    "predicted_open": 129.861083984375,
+    "sentiment": 0.855
+  },
+  {
+    "date": "2021-01-21",
+    "actual_open": 132.66209590266996,
+    "predicted_open": 132.6655731201172,
+    "sentiment": 0.06720000000000001
+  },
+  {
+    "date": "2021-01-22",
+    "actual_open": 139.2718354812106,
+    "predicted_open": 139.06051635742188,
+    "sentiment": 0.994875
+  },
+  {
+    "date": "2021-01-25",
+    "actual_open": 139.78775742744395,
+    "predicted_open": 139.95509338378906,
+    "sentiment": 0.609875
+  },
+  {
+    "date": "2021-01-26",
+    "actual_open": 139.6222601892596,
+    "predicted_open": 139.39527893066406,
+    "sentiment": 0.9582857142857143
+  },
+  {
+    "date": "2021-01-27",
+    "actual_open": 135.81605814636788,
+    "predicted_open": 135.925048828125,
+    "sentiment": 0.996
+  },
+  {
+    "date": "2021-01-28",
+    "actual_open": 132.22402749273948,
+    "predicted_open": 132.64833068847656,
+    "sentiment": 0.5235
+  },
+  {
+    "date": "2021-01-29",
+    "actual_open": 130.19924214528973,
+    "predicted_open": 130.2095184326172,
+    "sentiment": 0.43220000000000003
+  },
+  {
+    "date": "2021-02-01",
+    "actual_open": 132.12668680443446,
+    "predicted_open": 131.9713134765625,
+    "sentiment": 0.991
+  },
+  {
+    "date": "2021-02-02",
+    "actual_open": 132.15589194554707,
+    "predicted_open": 132.21090698242188,
+    "sentiment": 0.37075
+  },
+  {
+    "date": "2021-02-03",
+    "actual_open": 132.68154013575978,
+    "predicted_open": 132.56491088867188,
+    "sentiment": 0.925
+  },
+  {
+    "date": "2021-02-04",
+    "actual_open": 133.90346870595903,
+    "predicted_open": 133.849609375,
+    "sentiment": 0.9987999999999999
+  },
+  {
+    "date": "2021-02-05",
+    "actual_open": 132.61656460059567,
+    "predicted_open": 132.77288818359375,
+    "sentiment": 0.76675
+  },
+  {
+    "date": "2021-02-08",
+    "actual_open": 133.19180084894626,
+    "predicted_open": 133.28819274902344,
+    "sentiment": 0.49441176470588233
+  },
+  {
+    "date": "2021-02-09",
+    "actual_open": 133.05529021983176,
+    "predicted_open": 133.12351989746094,
+    "sentiment": 0.3016666666666667
+  },
+  {
+    "date": "2021-02-10",
+    "actual_open": 132.4898338171174,
+    "predicted_open": 132.3302459716797,
+    "sentiment": 0.8654444444444445
+  },
+  {
+    "date": "2021-02-11",
+    "actual_open": 130.9787501870301,
+    "predicted_open": 131.14869689941406,
+    "sentiment": 0.9970000000000001
+  },
+  {
+    "date": "2021-02-12",
+    "actual_open": 132.0901279755408,
+    "predicted_open": 131.9937286376953,
+    "sentiment": 0.982
+  },
+  {
+    "date": "2021-02-16",
+    "actual_open": 127.95653915633494,
+    "predicted_open": 128.26441955566406,
+    "sentiment": 0.7665
+  },
+  {
+    "date": "2021-02-17",
+    "actual_open": 125.95799567786774,
+    "predicted_open": 126.32945251464844,
+    "sentiment": 0.8567
+  },
+  {
+    "date": "2021-02-18",
+    "actual_open": 126.97189361497381,
+    "predicted_open": 127.03026580810547,
+    "sentiment": 0.17609090909090908
+  },
+  {
+    "date": "2021-02-19",
+    "actual_open": 124.7978296513902,
+    "predicted_open": 125.01543426513672,
+    "sentiment": 0.06715384615384615
+  },
+  {
+    "date": "2021-02-22",
+    "actual_open": 120.6544792375418,
+    "predicted_open": 121.40623474121094,
+    "sentiment": 0.4157
+  },
+  {
+    "date": "2021-02-23",
+    "actual_open": 121.80488944958321,
+    "predicted_open": 121.90455627441406,
+    "sentiment": 0.27137500000000003
+  },
+  {
+    "date": "2021-02-24",
+    "actual_open": 121.55140392768223,
+    "predicted_open": 121.6619873046875,
+    "sentiment": 0.4972
+  },
+  {
+    "date": "2021-02-25",
+    "actual_open": 119.51382934353043,
+    "predicted_open": 120.06700897216797,
+    "sentiment": 0.7091000000000001
+  },
+  {
+    "date": "2021-02-26",
+    "actual_open": 120.64472644599832,
+    "predicted_open": 120.52255249023438,
+    "sentiment": 0.5993888888888889
+  },
+  {
+    "date": "2021-03-01",
+    "actual_open": 125.18780674062197,
+    "predicted_open": 125.070068359375,
+    "sentiment": 0.782125
+  },
+  {
+    "date": "2021-03-02",
+    "actual_open": 121.67813306792647,
+    "predicted_open": 122.12348175048828,
+    "sentiment": 0.8126428571428572
+  },
+  {
+    "date": "2021-03-03",
+    "actual_open": 118.69492201638303,
+    "predicted_open": 118.65498352050781,
+    "sentiment": 0.15919999999999998
+  },
+  {
+    "date": "2021-03-04",
+    "actual_open": 117.94423026145166,
+    "predicted_open": 118.02091217041016,
+    "sentiment": 0.8261538461538461
+  },
+  {
+    "date": "2021-03-05",
+    "actual_open": 117.89547877581961,
+    "predicted_open": 118.03722381591797,
+    "sentiment": 0.7296666666666667
+  },
+  {
+    "date": "2021-03-08",
+    "actual_open": 116.04315464805022,
+    "predicted_open": 116.3670883178711,
+    "sentiment": 0.4795
+  },
+  {
+    "date": "2021-03-09",
+    "actual_open": 118.63640421712454,
+    "predicted_open": 118.48783874511719,
+    "sentiment": 0.615125
+  },
+  {
+    "date": "2021-03-10",
+    "actual_open": 119.46509072342045,
+    "predicted_open": 119.44145965576172,
+    "sentiment": 0.6776190476190477
+  },
+  {
+    "date": "2021-03-11",
+    "actual_open": 117.37879987716553,
+    "predicted_open": 117.74642181396484,
+    "sentiment": 0.7268666666666667
+  },
+  {
+    "date": "2021-03-12",
+    "actual_open": 118.36347607698303,
+    "predicted_open": 118.41913604736328,
+    "sentiment": 0.7295454545454546
+  },
+  {
+    "date": "2021-03-15",
+    "actual_open": 122.54580261068884,
+    "predicted_open": 122.48426818847656,
+    "sentiment": 0.6512
+  },
+  {
+    "date": "2021-03-16",
+    "actual_open": 120.93721148152662,
+    "predicted_open": 120.9437255859375,
+    "sentiment": 0.46240625
+  },
+  {
+    "date": "2021-03-17",
+    "actual_open": 119.79657666968748,
+    "predicted_open": 119.902587890625,
+    "sentiment": 0.23344444444444445
+  },
+  {
+    "date": "2021-03-18",
+    "actual_open": 116.89134977056929,
+    "predicted_open": 116.7887191772461,
+    "sentiment": 0.7288181818181818
+  },
+  {
+    "date": "2021-03-19",
+    "actual_open": 117.31054202279068,
+    "predicted_open": 117.44715118408203,
+    "sentiment": 0.5158076923076923
+  },
+  {
+    "date": "2021-03-22",
+    "actual_open": 120.23528056214857,
+    "predicted_open": 119.91979217529297,
+    "sentiment": 0.5792058823529412
+  },
+  {
+    "date": "2021-03-23",
+    "actual_open": 119.73806777124454,
+    "predicted_open": 119.55241394042969,
+    "sentiment": 0.6367777777777778
+  },
+  {
+    "date": "2021-03-24",
+    "actual_open": 116.54038560410483,
+    "predicted_open": 117.07698822021484,
+    "sentiment": 0.45804761904761904
+  },
+  {
+    "date": "2021-03-25",
+    "actual_open": 117.33004413015976,
+    "predicted_open": 116.77761840820312,
+    "sentiment": 0.7817368421052632
+  },
+  {
+    "date": "2021-03-26",
+    "actual_open": 118.59743388740822,
+    "predicted_open": 118.7605209350586,
+    "sentiment": 0.7089666666666666
+  },
+  {
+    "date": "2021-03-29",
+    "actual_open": 117.09606408266947,
+    "predicted_open": 117.13855743408203,
+    "sentiment": 0.49218181818181816
+  },
+  {
+    "date": "2021-03-30",
+    "actual_open": 118.59743117177423,
+    "predicted_open": 118.4921646118164,
+    "sentiment": 0.405825
+  },
+  {
+    "date": "2021-03-31",
+    "actual_open": 120.55700880956337,
+    "predicted_open": 120.80823516845703,
+    "sentiment": 0.58268
+  },
+  {
+    "date": "2021-04-01",
+    "actual_open": 120.7617238181442,
+    "predicted_open": 120.79318237304688,
+    "sentiment": 0.7213214285714286
+  },
+  {
+    "date": "2021-04-05",
+    "actual_open": 123.32571551492187,
+    "predicted_open": 123.23948669433594,
+    "sentiment": 0.7338148148148148
+  },
+  {
+    "date": "2021-04-06",
+    "actual_open": 122.67254049145967,
+    "predicted_open": 122.77803802490234,
+    "sentiment": 0.5737142857142857
+  },
+  {
+    "date": "2021-04-07",
+    "actual_open": 125.71422221404269,
+    "predicted_open": 125.70600891113281,
+    "sentiment": 0.5059166666666667
+  },
+  {
+    "date": "2021-04-08",
+    "actual_open": 126.54291392534559,
+    "predicted_open": 126.33465576171875,
+    "sentiment": 0.2017142857142857
+  },
+  {
+    "date": "2021-04-09",
+    "actual_open": 129.19468000377913,
+    "predicted_open": 128.85513305664062,
+    "sentiment": 0.5000689655172414
+  },
+  {
+    "date": "2021-04-12",
+    "actual_open": 129.11669192988782,
+    "predicted_open": 129.42398071289062,
+    "sentiment": 0.6908275862068965
+  },
+  {
+    "date": "2021-04-13",
+    "actual_open": 131.55396314021985,
+    "predicted_open": 131.86172485351562,
+    "sentiment": 0.56464
+  },
+  {
+    "date": "2021-04-14",
+    "actual_open": 130.4620703374586,
+    "predicted_open": 130.80911254882812,
+    "sentiment": 0.4989166666666667
+  },
+  {
+    "date": "2021-04-15",
+    "actual_open": 130.93000444237106,
+    "predicted_open": 130.5731658935547,
+    "sentiment": 0.6219
+  },
+  {
+    "date": "2021-04-16",
+    "actual_open": 130.15982336917756,
+    "predicted_open": 130.4679412841797,
+    "sentiment": 0.5211904761904762
+  },
+  {
+    "date": "2021-04-19",
+    "actual_open": 131.6318963869134,
+    "predicted_open": 131.67100524902344,
+    "sentiment": 0.34281481481481485
+  },
+  {
+    "date": "2021-04-20",
+    "actual_open": 129.03869205614907,
+    "predicted_open": 129.1956329345703,
+    "sentiment": 0.6352295081967213
+  },
+  {
+    "date": "2021-04-21",
+    "actual_open": 129.7016154150474,
+    "predicted_open": 129.8314208984375,
+    "sentiment": 0.1821607142857143
+  },
+  {
+    "date": "2021-04-22",
+    "actual_open": 128.8437210981472,
+    "predicted_open": 129.38092041015625,
+    "sentiment": 0.4972333333333333
+  },
+  {
+    "date": "2021-04-23",
+    "actual_open": 131.44670263718533,
+    "predicted_open": 131.18141174316406,
+    "sentiment": 0.7212272727272727
+  },
+  {
+    "date": "2021-04-26",
+    "actual_open": 131.6221681983873,
+    "predicted_open": 131.5891571044922,
+    "sentiment": 0.48180392156862745
+  },
+  {
+    "date": "2021-04-27",
+    "actual_open": 130.93973569140266,
+    "predicted_open": 131.39698791503906,
+    "sentiment": 0.50536
+  },
+  {
+    "date": "2021-04-28",
+    "actual_open": 133.0455932598,
+    "predicted_open": 133.05137634277344,
+    "sentiment": 0.6073647058823529
+  },
+  {
+    "date": "2021-04-29",
+    "actual_open": 128.47321732434253,
+    "predicted_open": 129.47720336914062,
+    "sentiment": 0.5173
+  },
+  {
+    "date": "2021-04-30",
+    "actual_open": 128.7267036427075,
+    "predicted_open": 128.7449951171875,
+    "sentiment": 0.21304918032786885
+  },
+  {
+    "date": "2021-05-03",
+    "actual_open": 127.89802296011476,
+    "predicted_open": 127.73717498779297,
+    "sentiment": 0.45838
+  },
+  {
+    "date": "2021-05-04",
+    "actual_open": 125.9579706529646,
+    "predicted_open": 126.2364730834961,
+    "sentiment": 0.43072727272727274
+  },
+  {
+    "date": "2021-05-05",
+    "actual_open": 124.68087474651954,
+    "predicted_open": 124.79315948486328,
+    "sentiment": 0.6374642857142857
+  },
+  {
+    "date": "2021-05-06",
+    "actual_open": 127.78324849809151,
+    "predicted_open": 126.96436309814453,
+    "sentiment": 0.6551071428571429
+  },
+  {
+    "date": "2021-05-07",
+    "actual_open": 126.3770049216638,
+    "predicted_open": 126.42631530761719,
+    "sentiment": 0.5023703703703704
+  },
+  {
+    "date": "2021-05-10",
+    "actual_open": 120.60551014234991,
+    "predicted_open": 121.9742660522461,
+    "sentiment": 0.6675
+  },
+  {
+    "date": "2021-05-11",
+    "actual_open": 120.50786329646682,
+    "predicted_open": 120.55819702148438,
+    "sentiment": 0.09229032258064515
+  },
+  {
+    "date": "2021-05-12",
+    "actual_open": 121.66019487769238,
+    "predicted_open": 121.59502410888672,
+    "sentiment": 0.21210344827586206
+  },
+  {
+    "date": "2021-05-13",
+    "actual_open": 123.29107903765586,
+    "predicted_open": 123.1982421875,
+    "sentiment": 0.6705333333333333
+  },
+  {
+    "date": "2021-05-14",
+    "actual_open": 123.84770522027007,
+    "predicted_open": 123.48807525634766,
+    "sentiment": 0.4594642857142857
+  },
+  {
+    "date": "2021-05-17",
+    "actual_open": 123.59379552967953,
+    "predicted_open": 123.86871337890625,
+    "sentiment": 0.4632045454545455
+  },
+  {
+    "date": "2021-05-18",
+    "actual_open": 120.27349147179841,
+    "predicted_open": 120.68765258789062,
+    "sentiment": 0.6422424242424242
+  },
+  {
+    "date": "2021-05-19",
+    "actual_open": 122.29497252696002,
+    "predicted_open": 121.60285186767578,
+    "sentiment": 0.42865625
+  },
+  {
+    "date": "2021-05-20",
+    "actual_open": 124.82425702211704,
+    "predicted_open": 124.3972396850586,
+    "sentiment": 0.44888888888888895
+  },
+  {
+    "date": "2021-05-21",
+    "actual_open": 123.05671226419035,
+    "predicted_open": 123.33744049072266,
+    "sentiment": 0.48258139534883726
+  },
+  {
+    "date": "2021-05-24",
+    "actual_open": 124.8242630592938,
+    "predicted_open": 124.60902404785156,
+    "sentiment": 0.49870967741935485
+  },
+  {
+    "date": "2021-05-25",
+    "actual_open": 123.98442141340175,
+    "predicted_open": 124.10237884521484,
+    "sentiment": 0.5839629629629629
+  },
+  {
+    "date": "2021-05-26",
+    "actual_open": 123.4766199875777,
+    "predicted_open": 123.46737670898438,
+    "sentiment": 0.6552962962962964
+  },
+  {
+    "date": "2021-05-27",
+    "actual_open": 122.62699835536803,
+    "predicted_open": 122.6630630493164,
+    "sentiment": 0.8178823529411765
+  },
+  {
+    "date": "2021-05-28",
+    "actual_open": 122.14847888043448,
+    "predicted_open": 121.9157485961914,
+    "sentiment": 0.5169444444444444
+  },
+  {
+    "date": "2021-06-01",
+    "actual_open": 121.3672417498929,
+    "predicted_open": 121.27745056152344,
+    "sentiment": 0.7427222222222222
+  },
+  {
+    "date": "2021-06-02",
+    "actual_open": 121.7578580944845,
+    "predicted_open": 121.82227325439453,
+    "sentiment": 0.5938947368421053
+  },
+  {
+    "date": "2021-06-03",
+    "actual_open": 121.16215477898149,
+    "predicted_open": 121.40316772460938,
+    "sentiment": 0.712
+  },
+  {
+    "date": "2021-06-04",
+    "actual_open": 123.21294850959707,
+    "predicted_open": 122.97137451171875,
+    "sentiment": 0.5247567567567568
+  },
+  {
+    "date": "2021-06-07",
+    "actual_open": 123.63288168244466,
+    "predicted_open": 123.60198211669922,
+    "sentiment": 0.6472173913043479
+  },
+  {
+    "date": "2021-06-08",
+    "actual_open": 124.22856322000109,
+    "predicted_open": 124.35670471191406,
+    "sentiment": 0.6162105263157894
+  },
+  {
+    "date": "2021-06-09",
+    "actual_open": 124.04301866252895,
+    "predicted_open": 123.90813446044922,
+    "sentiment": 0.814111111111111
+  },
+  {
+    "date": "2021-06-10",
+    "actual_open": 123.56451405558266,
+    "predicted_open": 123.63679504394531,
+    "sentiment": 0.41768
+  },
+  {
+    "date": "2021-06-11",
+    "actual_open": 124.82427485626314,
+    "predicted_open": 124.63420104980469,
+    "sentiment": 0.5858484848484848
+  },
+  {
+    "date": "2021-06-14",
+    "actual_open": 126.89458776096085,
+    "predicted_open": 126.67587280273438,
+    "sentiment": 0.5370303030303031
+  },
+  {
+    "date": "2021-06-15",
+    "actual_open": 127.31450018091431,
+    "predicted_open": 127.31770324707031,
+    "sentiment": 0.6738378378378378
+  },
+  {
+    "date": "2021-06-16",
+    "actual_open": 126.75785199451342,
+    "predicted_open": 126.92144012451172,
+    "sentiment": 0.7925
+  },
+  {
+    "date": "2021-06-17",
+    "actual_open": 127.64653787053875,
+    "predicted_open": 127.02759552001953,
+    "sentiment": 0.688
+  },
+  {
+    "date": "2021-06-18",
+    "actual_open": 127.24613887941126,
+    "predicted_open": 127.27963256835938,
+    "sentiment": 0.7929310344827587
+  },
+  {
+    "date": "2021-06-21",
+    "actual_open": 129.03324210427792,
+    "predicted_open": 128.96047973632812,
+    "sentiment": 0.589219512195122
+  },
+  {
+    "date": "2021-06-22",
+    "actual_open": 130.63484911301182,
+    "predicted_open": 130.742919921875,
+    "sentiment": 0.7422820512820513
+  },
+  {
+    "date": "2021-06-23",
+    "actual_open": 131.29889842930257,
+    "predicted_open": 131.32803344726562,
+    "sentiment": 0.5812727272727273
+  },
+  {
+    "date": "2021-06-24",
+    "actual_open": 130.3320525078085,
+    "predicted_open": 130.33706665039062,
+    "sentiment": 0.6887045454545455
+  },
+  {
+    "date": "2021-06-25",
+    "actual_open": 130.28326829600795,
+    "predicted_open": 130.57766723632812,
+    "sentiment": 0.5764705882352942
+  },
+  {
+    "date": "2021-06-28",
+    "actual_open": 131.6406714747908,
+    "predicted_open": 131.0979461669922,
+    "sentiment": 0.7956399999999999
+  },
+  {
+    "date": "2021-06-29",
+    "actual_open": 132.9785831720377,
+    "predicted_open": 132.8551788330078,
+    "sentiment": 0.2980277777777778
+  },
+  {
+    "date": "2021-06-30",
+    "actual_open": 133.39854559869337,
+    "predicted_open": 133.3942413330078,
+    "sentiment": 0.5414857142857142
+  },
+  {
+    "date": "2021-07-01",
+    "actual_open": 134.66803150053377,
+    "predicted_open": 134.719482421875,
+    "sentiment": 0.7491290322580645
+  },
+  {
+    "date": "2021-07-02",
+    "actual_open": 136.78715756035768,
+    "predicted_open": 136.1612091064453,
+    "sentiment": 0.6376999999999999
+  },
+  {
+    "date": "2021-07-06",
+    "actual_open": 140.17581304211686,
+    "predicted_open": 139.78016662597656,
+    "sentiment": 0.31816666666666665
+  },
+  {
+    "date": "2021-07-07",
+    "actual_open": 138.2617906456667,
+    "predicted_open": 138.4974365234375,
+    "sentiment": 0.51221875
+  },
+  {
+    "date": "2021-07-08",
+    "actual_open": 139.40438635241125,
+    "predicted_open": 139.458984375,
+    "sentiment": 0.08259999999999999
+  },
+  {
+    "date": "2021-07-09",
+    "actual_open": 142.78325599959365,
+    "predicted_open": 141.8604736328125,
+    "sentiment": 0.45683999999999997
+  },
+  {
+    "date": "2021-07-12",
+    "actual_open": 140.65435663279786,
+    "predicted_open": 140.78839111328125,
+    "sentiment": 0.6222857142857142
+  },
+  {
+    "date": "2021-07-13",
+    "actual_open": 144.62897873444868,
+    "predicted_open": 144.4584197998047,
+    "sentiment": 0.41224999999999995
+  },
+  {
+    "date": "2021-07-14",
+    "actual_open": 145.74225840567044,
+    "predicted_open": 145.39471435546875,
+    "sentiment": 0.547603448275862
+  },
+  {
+    "date": "2021-07-15",
+    "actual_open": 144.9805223346472,
+    "predicted_open": 145.2618865966797,
+    "sentiment": 0.6514000000000001
+  },
+  {
+    "date": "2021-07-16",
+    "actual_open": 140.38092397459488,
+    "predicted_open": 141.13116455078125,
+    "sentiment": 0.6482758620689656
+  },
+  {
+    "date": "2021-07-19",
+    "actual_open": 140.09774354697396,
+    "predicted_open": 140.32589721679688,
+    "sentiment": 0.6278571428571429
+  },
+  {
+    "date": "2021-07-20",
+    "actual_open": 142.1191759435654,
+    "predicted_open": 142.00096130371094,
+    "sentiment": 0.43165714285714285
+  },
+  {
+    "date": "2021-07-21",
+    "actual_open": 142.5195913490058,
+    "predicted_open": 142.5079803466797,
+    "sentiment": 0.5060454545454546
+  },
+  {
+    "date": "2021-07-22",
+    "actual_open": 144.09184768836266,
+    "predicted_open": 144.18560791015625,
+    "sentiment": 0.5711379310344827
+  },
+  {
+    "date": "2021-07-23",
+    "actual_open": 144.79499663408214,
+    "predicted_open": 144.64096069335938,
+    "sentiment": 0.63656
+  },
+  {
+    "date": "2021-07-26",
+    "actual_open": 145.62502199870536,
+    "predicted_open": 145.6414794921875,
+    "sentiment": 0.5159736842105263
+  },
+  {
+    "date": "2021-07-27",
+    "actual_open": 141.41604789004137,
+    "predicted_open": 141.65760803222656,
+    "sentiment": 0.46721428571428575
+  },
+  {
+    "date": "2021-07-28",
+    "actual_open": 141.29889173837356,
+    "predicted_open": 141.62388610839844,
+    "sentiment": 0.4672941176470588
+  },
+  {
+    "date": "2021-07-29",
+    "actual_open": 140.99615834422465,
+    "predicted_open": 141.34384155273438,
+    "sentiment": 0.5325
+  },
+  {
+    "date": "2021-07-30",
+    "actual_open": 142.9297606339798,
+    "predicted_open": 142.88320922851562,
+    "sentiment": 0.386103448275862
+  },
+  {
+    "date": "2021-08-02",
+    "actual_open": 142.39268083906595,
+    "predicted_open": 142.35040283203125,
+    "sentiment": 0.6371578947368421
+  },
+  {
+    "date": "2021-08-03",
+    "actual_open": 143.8183971180824,
+    "predicted_open": 143.73849487304688,
+    "sentiment": 0.6725454545454546
+  },
+  {
+    "date": "2021-08-04",
+    "actual_open": 143.53521546251628,
+    "predicted_open": 143.3897247314453,
+    "sentiment": 0.3934285714285714
+  },
+  {
+    "date": "2021-08-05",
+    "actual_open": 143.13414879433773,
+    "predicted_open": 142.9625701904297,
+    "sentiment": 0.2240769230769231
+  },
+  {
+    "date": "2021-08-06",
+    "actual_open": 142.98742050984688,
+    "predicted_open": 142.8629913330078,
+    "sentiment": 0.4018529411764706
+  },
+  {
+    "date": "2021-08-09",
+    "actual_open": 143.22212723273427,
+    "predicted_open": 143.16090393066406,
+    "sentiment": 0.4141818181818182
+  },
+  {
+    "date": "2021-08-10",
+    "actual_open": 142.84067348429932,
+    "predicted_open": 142.64956665039062,
+    "sentiment": 0.6415238095238095
+  },
+  {
+    "date": "2021-08-11",
+    "actual_open": 142.97764896165427,
+    "predicted_open": 142.70484924316406,
+    "sentiment": 0.619
+  },
+  {
+    "date": "2021-08-12",
+    "actual_open": 145.6965517804986,
+    "predicted_open": 145.1145782470703,
+    "sentiment": 0.34514285714285714
+  },
+  {
+    "date": "2021-08-13",
+    "actual_open": 145.27594699492394,
+    "predicted_open": 145.07223510742188,
+    "sentiment": 0.40344
+  },
+  {
+    "date": "2021-08-16",
+    "actual_open": 146.92883920441727,
+    "predicted_open": 146.39007568359375,
+    "sentiment": 0.41265
+  },
+  {
+    "date": "2021-08-17",
+    "actual_open": 146.50830231259667,
+    "predicted_open": 146.39427185058594,
+    "sentiment": 0.6827727272727273
+  },
+  {
+    "date": "2021-08-18",
+    "actual_open": 141.8431082977637,
+    "predicted_open": 141.85572814941406,
+    "sentiment": 0.16435294117647056
+  },
+  {
+    "date": "2021-08-19",
+    "actual_open": 144.20015057068707,
+    "predicted_open": 144.06524658203125,
+    "sentiment": 0.25434615384615383
+  },
+  {
+    "date": "2021-08-20",
+    "actual_open": 145.05105776321832,
+    "predicted_open": 144.57608032226562,
+    "sentiment": 0.4162307692307692
+  },
+  {
+    "date": "2021-08-23",
+    "actual_open": 146.16601272730568,
+    "predicted_open": 146.0143280029297,
+    "sentiment": 0.4426666666666667
+  },
+  {
+    "date": "2021-08-24",
+    "actual_open": 146.51806444524348,
+    "predicted_open": 146.49176025390625,
+    "sentiment": 0.62425
+  },
+  {
+    "date": "2021-08-25",
+    "actual_open": 145.09017201862116,
+    "predicted_open": 145.2822265625,
+    "sentiment": 0.5638846153846153
+  },
+  {
+    "date": "2021-08-26",
+    "actual_open": 144.23927174159581,
+    "predicted_open": 144.28170776367188,
+    "sentiment": 0.7426153846153846
+  },
+  {
+    "date": "2021-08-27",
+    "actual_open": 145.7258781178275,
+    "predicted_open": 145.4043426513672,
+    "sentiment": 0.5036451612903226
+  },
+  {
+    "date": "2021-08-30",
+    "actual_open": 149.3054768809692,
+    "predicted_open": 148.6900634765625,
+    "sentiment": 0.5661428571428572
+  },
+  {
+    "date": "2021-08-31",
+    "actual_open": 149.4717126602179,
+    "predicted_open": 149.93157958984375,
+    "sentiment": 0.5194054054054054
+  },
+  {
+    "date": "2021-09-01",
+    "actual_open": 150.48887910534057,
+    "predicted_open": 150.4157257080078,
+    "sentiment": 0.507483870967742
+  },
+  {
+    "date": "2021-09-02",
+    "actual_open": 150.38128139931968,
+    "predicted_open": 150.45896911621094,
+    "sentiment": 0.5205714285714286
+  },
+  {
+    "date": "2021-09-03",
+    "actual_open": 151.56468139327094,
+    "predicted_open": 151.5266571044922,
+    "sentiment": 0.13447058823529415
+  },
+  {
+    "date": "2021-09-07",
+    "actual_open": 153.53053367824012,
+    "predicted_open": 153.52313232421875,
+    "sentiment": 0.5834736842105264
+  },
+  {
+    "date": "2021-09-08",
+    "actual_open": 152.07328934160887,
+    "predicted_open": 152.6031036376953,
+    "sentiment": 0.28700000000000003
+  },
+  {
+    "date": "2021-09-09",
+    "actual_open": 151.594076369537,
+    "predicted_open": 151.7027587890625,
+    "sentiment": 0.7898695652173914
+  },
+  {
+    "date": "2021-09-10",
+    "actual_open": 147.32007920432878,
+    "predicted_open": 147.49342346191406,
+    "sentiment": 0.45936231884057965
+  },
+  {
+    "date": "2021-09-13",
+    "actual_open": 147.0462435219262,
+    "predicted_open": 146.84683227539062,
+    "sentiment": 0.15267999999999998
+  },
+  {
+    "date": "2021-09-14",
+    "actual_open": 145.2955602871313,
+    "predicted_open": 145.38414001464844,
+    "sentiment": 0.34120560747663553
+  },
+  {
+    "date": "2021-09-15",
+    "actual_open": 145.1781771600229,
+    "predicted_open": 145.0214385986328,
+    "sentiment": 0.3585217391304348
+  },
+  {
+    "date": "2021-09-16",
+    "actual_open": 145.54985605884855,
+    "predicted_open": 145.11221313476562,
+    "sentiment": 0.39226923076923076
+  },
+  {
+    "date": "2021-09-17",
+    "actual_open": 140.64014472255653,
+    "predicted_open": 141.3052978515625,
+    "sentiment": 0.43217241379310345
+  },
+  {
+    "date": "2021-09-20",
+    "actual_open": 140.76730289175725,
+    "predicted_open": 140.70855712890625,
+    "sentiment": 0.30400000000000005
+  },
+  {
+    "date": "2021-09-21",
+    "actual_open": 141.27583538032138,
+    "predicted_open": 141.08941650390625,
+    "sentiment": 0.49007407407407405
+  },
+  {
+    "date": "2021-09-22",
+    "actual_open": 143.4275394388265,
+    "predicted_open": 143.31436157226562,
+    "sentiment": 0.20371875
+  },
+  {
+    "date": "2021-09-23",
+    "actual_open": 142.45926674371992,
+    "predicted_open": 142.73684692382812,
+    "sentiment": 0.277775
+  },
+  {
+    "date": "2021-09-24",
+    "actual_open": 142.2734830351119,
+    "predicted_open": 142.32290649414062,
+    "sentiment": 0.6919000000000001
+  },
+  {
+    "date": "2021-09-27",
+    "actual_open": 140.10220759436288,
+    "predicted_open": 140.2578887939453,
+    "sentiment": 0.6027
+  },
+  {
+    "date": "2021-09-28",
+    "actual_open": 139.33934685752757,
+    "predicted_open": 138.78652954101562,
+    "sentiment": 0.4648
+  },
+  {
+    "date": "2021-09-29",
+    "actual_open": 140.50321039247126,
+    "predicted_open": 140.38516235351562,
+    "sentiment": 0.19114285714285714
+  },
+  {
+    "date": "2021-09-30",
+    "actual_open": 138.7818766539813,
+    "predicted_open": 139.63400268554688,
+    "sentiment": 0.48964285714285716
+  },
+  {
+    "date": "2021-10-01",
+    "actual_open": 138.64495809209728,
+    "predicted_open": 138.99887084960938,
+    "sentiment": 0.6627368421052632
+  },
+  {
+    "date": "2021-10-04",
+    "actual_open": 136.42484951189164,
+    "predicted_open": 136.71755981445312,
+    "sentiment": 0.5130714285714285
+  },
+  {
+    "date": "2021-10-05",
+    "actual_open": 136.4052650097456,
+    "predicted_open": 136.42837524414062,
+    "sentiment": 0.38681818181818184
+  },
+  {
+    "date": "2021-10-06",
+    "actual_open": 139.9164308251386,
+    "predicted_open": 139.64639282226562,
+    "sentiment": 0.35111764705882353
+  },
+  {
+    "date": "2021-10-07",
+    "actual_open": 140.86506167895476,
+    "predicted_open": 140.82713317871094,
+    "sentiment": 0.4753684210526316
+  },
+  {
+    "date": "2021-10-08",
+    "actual_open": 139.14380838996664,
+    "predicted_open": 139.56112670898438,
+    "sentiment": 0.4641
+  },
+  {
+    "date": "2021-10-11",
+    "actual_open": 140.08267299121655,
+    "predicted_open": 139.92681884765625,
+    "sentiment": 0.598125
+  },
+  {
+    "date": "2021-10-12",
+    "actual_open": 138.1364253624136,
+    "predicted_open": 138.68896484375,
+    "sentiment": 0.16996969696969697
+  },
+  {
+    "date": "2021-10-13",
+    "actual_open": 138.9872611601966,
+    "predicted_open": 139.1561279296875,
+    "sentiment": 0.044788461538461534
+  },
+  {
+    "date": "2021-10-14",
+    "actual_open": 140.61082264449493,
+    "predicted_open": 140.8379669189453,
+    "sentiment": 0.6153870967741935
+  },
+  {
+    "date": "2021-10-15",
+    "actual_open": 140.2978253736589,
+    "predicted_open": 140.9051055908203,
+    "sentiment": 0.4233928571428572
+  },
+  {
+    "date": "2021-10-18",
+    "actual_open": 143.7795892346543,
+    "predicted_open": 143.3733673095703,
+    "sentiment": 0.5610363636363637
+  },
+  {
+    "date": "2021-10-19",
+    "actual_open": 145.43247137126255,
+    "predicted_open": 145.4690704345703,
+    "sentiment": 0.3894878048780488
+  },
+  {
+    "date": "2021-10-20",
+    "actual_open": 145.5400065339585,
+    "predicted_open": 145.3558349609375,
+    "sentiment": 0.648
+  },
+  {
+    "date": "2021-10-21",
+    "actual_open": 146.40070968480316,
+    "predicted_open": 146.7832794189453,
+    "sentiment": 0.3886176470588235
+  },
+  {
+    "date": "2021-10-22",
+    "actual_open": 145.41292429505054,
+    "predicted_open": 145.1482391357422,
+    "sentiment": 0.3372916666666667
+  },
+  {
+    "date": "2021-10-25",
+    "actual_open": 146.04862376445527,
+    "predicted_open": 145.64324951171875,
+    "sentiment": 0.6257567567567567
+  },
+  {
+    "date": "2021-10-26",
+    "actual_open": 146.07795043904167,
+    "predicted_open": 145.60992431640625,
+    "sentiment": 0.629780487804878
+  },
+  {
+    "date": "2021-10-27",
+    "actual_open": 146.52785119259605,
+    "predicted_open": 146.36204528808594,
+    "sentiment": 0.5658888888888889
+  },
+  {
+    "date": "2021-10-28",
+    "actual_open": 143.98496186684676,
+    "predicted_open": 144.5340118408203,
+    "sentiment": 0.5068658536585366
+  },
+  {
+    "date": "2021-10-29",
+    "actual_open": 145.71609190400514,
+    "predicted_open": 145.32470703125,
+    "sentiment": 0.2862016806722689
+  },
+  {
+    "date": "2021-11-01",
+    "actual_open": 145.39336412691904,
+    "predicted_open": 144.88792419433594,
+    "sentiment": 0.4713214285714286
+  },
+  {
+    "date": "2021-11-02",
+    "actual_open": 147.0853287663622,
+    "predicted_open": 146.80360412597656,
+    "sentiment": 0.5928064516129032
+  },
+  {
+    "date": "2021-11-03",
+    "actual_open": 148.24922429712814,
+    "predicted_open": 148.0518035888672,
+    "sentiment": 0.6993809523809523
+  },
+  {
+    "date": "2021-11-04",
+    "actual_open": 148.76917431705436,
+    "predicted_open": 148.46641540527344,
+    "sentiment": 0.5470344827586208
+  },
+  {
+    "date": "2021-11-05",
+    "actual_open": 148.29905483485294,
+    "predicted_open": 148.53640747070312,
+    "sentiment": 0.4985555555555556
+  },
+  {
+    "date": "2021-11-08",
+    "actual_open": 147.1138975747547,
+    "predicted_open": 147.1514129638672,
+    "sentiment": 0.7765000000000001
+  },
+  {
+    "date": "2021-11-09",
+    "actual_open": 146.93759531163658,
+    "predicted_open": 147.16098022460938,
+    "sentiment": 0.5265263157894736
+  },
+  {
+    "date": "2021-11-10",
+    "actual_open": 145.89938743250096,
+    "predicted_open": 146.1613006591797,
+    "sentiment": 0.2558888888888889
+  },
+  {
+    "date": "2021-11-11",
+    "actual_open": 145.3802585513719,
+    "predicted_open": 145.62380981445312,
+    "sentiment": 0.7629411764705882
+  },
+  {
+    "date": "2021-11-12",
+    "actual_open": 147.2804381058986,
+    "predicted_open": 147.3287353515625,
+    "sentiment": 0.35862962962962963
+  },
+  {
+    "date": "2021-11-15",
+    "actual_open": 146.85924274203003,
+    "predicted_open": 147.0778350830078,
+    "sentiment": 0.8195384615384615
+  },
+  {
+    "date": "2021-11-16",
+    "actual_open": 147.89745943010328,
+    "predicted_open": 147.54205322265625,
+    "sentiment": 0.5550689655172414
+  },
+  {
+    "date": "2021-11-17",
+    "actual_open": 150.55181209560718,
+    "predicted_open": 150.09652709960938,
+    "sentiment": 0.3579
+  },
+  {
+    "date": "2021-11-18",
+    "actual_open": 154.41082730572364,
+    "predicted_open": 153.27699279785156,
+    "sentiment": 0.47628125
+  },
+  {
+    "date": "2021-11-19",
+    "actual_open": 158.35800620438556,
+    "predicted_open": 158.36465454101562,
+    "sentiment": 0.4577727272727273
+  },
+  {
+    "date": "2021-11-22",
+    "actual_open": 157.80951705712113,
+    "predicted_open": 157.49977111816406,
+    "sentiment": 0.6642173913043479
+  },
+  {
+    "date": "2021-11-23",
+    "actual_open": 157.4471342187338,
+    "predicted_open": 157.46829223632812,
+    "sentiment": 0.45031999999999994
+  },
+  {
+    "date": "2021-11-24",
+    "actual_open": 156.29142105853995,
+    "predicted_open": 156.26205444335938,
+    "sentiment": -0.018799999999999994
+  },
+  {
+    "date": "2021-11-26",
+    "actual_open": 156.09548196515397,
+    "predicted_open": 155.8946990966797,
+    "sentiment": 0.4069047619047619
+  },
+  {
+    "date": "2021-11-29",
+    "actual_open": 156.70274588184037,
+    "predicted_open": 156.8701934814453,
+    "sentiment": 0.5979444444444444
+  },
+  {
+    "date": "2021-11-30",
+    "actual_open": 164.0388470193993,
+    "predicted_open": 163.46258544921875,
+    "sentiment": 0.3896
+  },
+  {
+    "date": "2021-12-01",
+    "actual_open": 155.47843376037946,
+    "predicted_open": 156.5760955810547,
+    "sentiment": 0.4639333333333333
+  },
+  {
+    "date": "2021-12-02",
+    "actual_open": 160.65000263843362,
+    "predicted_open": 160.36947631835938,
+    "sentiment": 0.09231666666666666
+  },
+  {
+    "date": "2021-12-03",
+    "actual_open": 160.91438234430973,
+    "predicted_open": 160.84913635253906,
+    "sentiment": 0.55434375
+  },
+  {
+    "date": "2021-12-06",
+    "actual_open": 165.60596828506618,
+    "predicted_open": 165.45692443847656,
+    "sentiment": 0.5502647058823529
+  },
+  {
+    "date": "2021-12-07",
+    "actual_open": 168.59332710400926,
+    "predicted_open": 168.46295166015625,
+    "sentiment": 0.5293265306122449
+  },
+  {
+    "date": "2021-12-08",
+    "actual_open": 171.3161880617465,
+    "predicted_open": 171.15786743164062,
+    "sentiment": 0.439780487804878
+  },
+  {
+    "date": "2021-12-09",
+    "actual_open": 171.61005099944745,
+    "predicted_open": 171.69778442382812,
+    "sentiment": 0.5372424242424242
+  },
+  {
+    "date": "2021-12-10",
+    "actual_open": 177.3985839315142,
+    "predicted_open": 176.7165069580078,
+    "sentiment": 0.5936190476190476
+  },
+  {
+    "date": "2021-12-13",
+    "actual_open": 171.64920321778123,
+    "predicted_open": 172.56991577148438,
+    "sentiment": 0.6227678571428571
+  },
+  {
+    "date": "2021-12-14",
+    "actual_open": 171.51211498851686,
+    "predicted_open": 171.8021697998047,
+    "sentiment": 0.4867037037037037
+  },
+  {
+    "date": "2021-12-15",
+    "actual_open": 175.5963934569458,
+    "predicted_open": 175.3087615966797,
+    "sentiment": 0.36972727272727274
+  },
+  {
+    "date": "2021-12-16",
+    "actual_open": 166.43851201579665,
+    "predicted_open": 166.43661499023438,
+    "sentiment": 0.2920625
+  },
+  {
+    "date": "2021-12-17",
+    "actual_open": 164.82242453025603,
+    "predicted_open": 165.23703002929688,
+    "sentiment": 0.47389285714285717
+  },
+  {
+    "date": "2021-12-20",
+    "actual_open": 168.03501238197,
+    "predicted_open": 168.11135864257812,
+    "sentiment": 0.22731578947368422
+  },
+  {
+    "date": "2021-12-21",
+    "actual_open": 169.48461926274177,
+    "predicted_open": 169.6541290283203,
+    "sentiment": 0.7502142857142857
+  },
+  {
+    "date": "2021-12-22",
+    "actual_open": 172.23686229013825,
+    "predicted_open": 171.92401123046875,
+    "sentiment": 0.6000357142857142
+  },
+  {
+    "date": "2021-12-23",
+    "actual_open": 173.4514127643316,
+    "predicted_open": 173.21865844726562,
+    "sentiment": 0.7057333333333333
+  },
+  {
+    "date": "2021-12-27",
+    "actual_open": 176.45835116267244,
+    "predicted_open": 175.0728302001953,
+    "sentiment": 0.672608695652174
+  },
+  {
+    "date": "2021-12-28",
+    "actual_open": 175.6453907930184,
+    "predicted_open": 175.7689666748047,
+    "sentiment": 0.6356938775510205
+  },
+  {
+    "date": "2021-12-29",
+    "actual_open": 175.78249945588863,
+    "predicted_open": 175.81314086914062,
+    "sentiment": 0.37428125
+  },
+  {
+    "date": "2021-12-30",
+    "actual_open": 174.43085959378186,
+    "predicted_open": 174.0290985107422,
+    "sentiment": 0.42592857142857143
+  },
+  {
+    "date": "2021-12-31",
+    "actual_open": 174.17620137564992,
+    "predicted_open": 174.301025390625,
+    "sentiment": 0.45815384615384613
+  },
+  {
+    "date": "2022-01-03",
+    "actual_open": 178.87758836256972,
+    "predicted_open": 178.24378967285156,
+    "sentiment": 0.7389444444444444
+  },
+  {
+    "date": "2022-01-04",
+    "actual_open": 175.91965899179817,
+    "predicted_open": 176.02542114257812,
+    "sentiment": 0.6013947368421053
+  },
+  {
+    "date": "2022-01-05",
+    "actual_open": 169.15160256379613,
+    "predicted_open": 169.54444885253906,
+    "sentiment": 0.43152
+  },
+  {
+    "date": "2022-01-06",
+    "actual_open": 169.3376997173353,
+    "predicted_open": 169.61280822753906,
+    "sentiment": 0.5868076923076923
+  },
+  {
+    "date": "2022-01-07",
+    "actual_open": 165.6059836604726,
+    "predicted_open": 166.2382354736328,
+    "sentiment": 0.6517941176470589
+  },
+  {
+    "date": "2022-01-10",
+    "actual_open": 168.77942565072325,
+    "predicted_open": 168.6125946044922,
+    "sentiment": 0.5074242424242424
+  },
+  {
+    "date": "2022-01-11",
+    "actual_open": 172.5013205493631,
+    "predicted_open": 172.5209503173828,
+    "sentiment": 0.5588260869565217
+  },
+  {
+    "date": "2022-01-12",
+    "actual_open": 172.16831849084767,
+    "predicted_open": 172.3978729248047,
+    "sentiment": 0.6397105263157895
+  },
+  {
+    "date": "2022-01-13",
+    "actual_open": 167.81954242119846,
+    "predicted_open": 168.8331756591797,
+    "sentiment": 0.6774390243902438
+  },
+  {
+    "date": "2022-01-14",
+    "actual_open": 167.9860600754121,
+    "predicted_open": 167.84844970703125,
+    "sentiment": 0.59376
+  },
+  {
+    "date": "2022-01-18",
+    "actual_open": 166.50708841129685,
+    "predicted_open": 166.746826171875,
+    "sentiment": 0.6439230769230769
+  },
+  {
+    "date": "2022-01-19",
+    "actual_open": 163.54913404663756,
+    "predicted_open": 163.73110961914062,
+    "sentiment": 0.67525
+  },
+  {
+    "date": "2022-01-20",
+    "actual_open": 161.0417090492799,
+    "predicted_open": 162.1650390625,
+    "sentiment": 0.4831794871794872
+  },
+  {
+    "date": "2022-01-21",
+    "actual_open": 156.73213888196668,
+    "predicted_open": 157.73020935058594,
+    "sentiment": 0.6011904761904762
+  },
+  {
+    "date": "2022-01-24",
+    "actual_open": 155.71348938472497,
+    "predicted_open": 155.9507293701172,
+    "sentiment": 0.4853
+  },
+  {
+    "date": "2022-01-25",
+    "actual_open": 160.14061983418955,
+    "predicted_open": 158.92872619628906,
+    "sentiment": 0.5988611111111112
+  },
+  {
+    "date": "2022-01-26",
+    "actual_open": 159.11220830674253,
+    "predicted_open": 159.07322692871094,
+    "sentiment": 0.44325000000000003
+  },
+  {
+    "date": "2022-01-27",
+    "actual_open": 162.30522203050273,
+    "predicted_open": 162.21096801757812,
+    "sentiment": 0.5223333333333333
+  },
+  {
+    "date": "2022-01-28",
+    "actual_open": 166.66380312140188,
+    "predicted_open": 166.5729522705078,
+    "sentiment": 0.45444578313253015
+  },
+  {
+    "date": "2022-01-31",
+    "actual_open": 170.43469133018758,
+    "predicted_open": 169.91416931152344,
+    "sentiment": 0.5893953488372093
+  },
+  {
+    "date": "2022-02-01",
+    "actual_open": 171.15949584991125,
+    "predicted_open": 170.9488067626953,
+    "sentiment": 0.6540263157894737
+  },
+  {
+    "date": "2022-02-02",
+    "actual_open": 170.89501118442868,
+    "predicted_open": 171.164306640625,
+    "sentiment": 0.59825
+  },
+  {
+    "date": "2022-02-03",
+    "actual_open": 168.3668209831939,
+    "predicted_open": 168.90939331054688,
+    "sentiment": 0.2964126984126984
+  },
+  {
+    "date": "2022-02-04",
+    "actual_open": 169.52402175607514,
+    "predicted_open": 169.4287567138672,
+    "sentiment": 0.5771162790697674
+  },
+  {
+    "date": "2022-02-07",
+    "actual_open": 168.41582891603926,
+    "predicted_open": 168.88284301757812,
+    "sentiment": 0.5574
+  },
+  {
+    "date": "2022-02-08",
+    "actual_open": 172.65243365703856,
+    "predicted_open": 171.24610900878906,
+    "sentiment": 0.6090909090909091
+  },
+  {
+    "date": "2022-02-09",
+    "actual_open": 170.77931477893978,
+    "predicted_open": 170.87857055664062,
+    "sentiment": 0.6367021276595745
+  },
+  {
+    "date": "2022-02-10",
+    "actual_open": 169.00428892552117,
+    "predicted_open": 169.12611389160156,
+    "sentiment": 0.7253030303030302
+  },
+  {
+    "date": "2022-02-11",
+    "actual_open": 164.1399809862671,
+    "predicted_open": 164.69485473632812,
+    "sentiment": 0.6691153846153846
+  },
+  {
+    "date": "2022-02-14",
+    "actual_open": 167.67048439097334,
+    "predicted_open": 167.21214294433594,
+    "sentiment": 0.4958888888888889
+  },
+  {
+    "date": "2022-02-15",
+    "actual_open": 168.5335437423192,
+    "predicted_open": 168.98187255859375,
+    "sentiment": 0.32257142857142856
+  },
+  {
+    "date": "2022-02-16",
+    "actual_open": 167.7293515367512,
+    "predicted_open": 168.12461853027344,
+    "sentiment": 0.64125
+  },
+  {
+    "date": "2022-02-17",
+    "actual_open": 166.5426908818598,
+    "predicted_open": 166.58456420898438,
+    "sentiment": 0.43537837837837834
+  },
+  {
+    "date": "2022-02-18",
+    "actual_open": 161.79610099125685,
+    "predicted_open": 161.9991455078125,
+    "sentiment": 0.29383333333333334
+  },
+  {
+    "date": "2022-02-22",
+    "actual_open": 162.34531942395103,
+    "predicted_open": 162.34971618652344,
+    "sentiment": 0.6151739130434782
+  },
+  {
+    "date": "2022-02-23",
+    "actual_open": 149.6353916256984,
+    "predicted_open": 151.2232208251953,
+    "sentiment": 0.6838148148148149
+  },
+  {
+    "date": "2022-02-24",
+    "actual_open": 160.67812209433018,
+    "predicted_open": 158.67849731445312,
+    "sentiment": 0.4130740740740741
+  },
+  {
+    "date": "2022-02-25",
+    "actual_open": 159.91313801466617,
+    "predicted_open": 160.10623168945312,
+    "sentiment": 0.546
+  },
+  {
+    "date": "2022-02-28",
+    "actual_open": 161.52149747345592,
+    "predicted_open": 161.4102020263672,
+    "sentiment": 0.4920344827586207
+  },
+  {
+    "date": "2022-03-01",
+    "actual_open": 161.2175065361206,
+    "predicted_open": 161.3139190673828,
+    "sentiment": -0.020266666666666662
+  },
+  {
+    "date": "2022-03-02",
+    "actual_open": 165.21876441640376,
+    "predicted_open": 164.29136657714844,
+    "sentiment": 0.26417391304347826
+  },
+  {
+    "date": "2022-03-03",
+    "actual_open": 161.31559025270195,
+    "predicted_open": 161.22413635253906,
+    "sentiment": 0.29390625
+  },
+  {
+    "date": "2022-03-04",
+    "actual_open": 160.2073525837716,
+    "predicted_open": 160.05746459960938,
+    "sentiment": 0.16927777777777778
+  },
+  {
+    "date": "2022-03-07",
+    "actual_open": 155.75499927047608,
+    "predicted_open": 155.86050415039062,
+    "sentiment": 0.12635714285714283
+  },
+  {
+    "date": "2022-03-08",
+    "actual_open": 158.363665526824,
+    "predicted_open": 158.61257934570312,
+    "sentiment": 0.3224626865671642
+  },
+  {
+    "date": "2022-03-09",
+    "actual_open": 157.10834060556428,
+    "predicted_open": 157.66036987304688,
+    "sentiment": 0.38894871794871794
+  },
+  {
+    "date": "2022-03-10",
+    "actual_open": 155.8628386400447,
+    "predicted_open": 155.9789581298828,
+    "sentiment": 0.3598461538461538
+  },
+  {
+    "date": "2022-03-11",
+    "actual_open": 148.52719485737234,
+    "predicted_open": 150.17312622070312,
+    "sentiment": 0.5171724137931034
+  },
+  {
+    "date": "2022-03-14",
+    "actual_open": 147.98782853142856,
+    "predicted_open": 147.8662567138672,
+    "sentiment": 0.01653658536585366
+  },
+  {
+    "date": "2022-03-15",
+    "actual_open": 154.01914186419623,
+    "predicted_open": 153.0200653076172,
+    "sentiment": 0.5291
+  },
+  {
+    "date": "2022-03-16",
+    "actual_open": 155.54905912498893,
+    "predicted_open": 155.73631286621094,
+    "sentiment": 0.3345
+  },
+  {
+    "date": "2022-03-17",
+    "actual_open": 157.41234943730183,
+    "predicted_open": 157.3013153076172,
+    "sentiment": 0.5357714285714286
+  },
+  {
+    "date": "2022-03-18",
+    "actual_open": 160.3544634117704,
+    "predicted_open": 160.49391174316406,
+    "sentiment": 0.5442916666666667
+  },
+  {
+    "date": "2022-03-21",
+    "actual_open": 162.3158776286816,
+    "predicted_open": 161.96170043945312,
+    "sentiment": 0.0017500000000000109
+  },
+  {
+    "date": "2022-03-22",
+    "actual_open": 164.74798274738075,
+    "predicted_open": 164.59605407714844,
+    "sentiment": 0.5966
+  },
+  {
+    "date": "2022-03-23",
+    "actual_open": 167.75877268098228,
+    "predicted_open": 167.15391540527344,
+    "sentiment": 0.5640000000000001
+  },
+  {
+    "date": "2022-03-24",
+    "actual_open": 170.52435897204094,
+    "predicted_open": 170.37986755371094,
+    "sentiment": 0.5232857142857144
+  },
+  {
+    "date": "2022-03-25",
+    "actual_open": 168.84735290472764,
+    "predicted_open": 169.2479248046875,
+    "sentiment": 0.49358333333333326
+  },
+  {
+    "date": "2022-03-28",
+    "actual_open": 173.2801510532252,
+    "predicted_open": 172.39317321777344,
+    "sentiment": 0.5649298245614035
+  },
+  {
+    "date": "2022-03-29",
+    "actual_open": 175.1042096873483,
+    "predicted_open": 174.90480041503906,
+    "sentiment": 0.52653125
+  },
+  {
+    "date": "2022-03-30",
+    "actual_open": 174.4078950100189,
+    "predicted_open": 174.65821838378906,
+    "sentiment": 0.6402352941176471
+  },
+  {
+    "date": "2022-03-31",
+    "actual_open": 170.67144974905557,
+    "predicted_open": 170.52340698242188,
+    "sentiment": 0.2785384615384615
+  },
+  {
+    "date": "2022-04-01",
+    "actual_open": 171.20104367313095,
+    "predicted_open": 170.91993713378906,
+    "sentiment": 0.46402702702702703
+  },
+  {
+    "date": "2022-04-04",
+    "actual_open": 174.0744778575844,
+    "predicted_open": 173.9056396484375,
+    "sentiment": 0.5425333333333333
+  },
+  {
+    "date": "2022-04-05",
+    "actual_open": 169.03368653783352,
+    "predicted_open": 169.48934936523438,
+    "sentiment": 0.5153913043478261
+  },
+  {
+    "date": "2022-04-06",
+    "actual_open": 167.8568186387604,
+    "predicted_open": 168.0789337158203,
+    "sentiment": 0.45666666666666667
+  },
+  {
+    "date": "2022-04-07",
+    "actual_open": 168.46488285345913,
+    "predicted_open": 168.65884399414062,
+    "sentiment": 0.41865217391304343
+  },
+  {
+    "date": "2022-04-08",
+    "actual_open": 165.4541214198734,
+    "predicted_open": 166.55091857910156,
+    "sentiment": 0.5553076923076923
+  },
+  {
+    "date": "2022-04-11",
+    "actual_open": 164.77744578641645,
+    "predicted_open": 164.9108123779297,
+    "sentiment": 0.44275
+  },
+  {
+    "date": "2022-04-12",
+    "actual_open": 164.15957544885293,
+    "predicted_open": 164.23985290527344,
+    "sentiment": 0.44590322580645164
+  },
+  {
+    "date": "2022-04-13",
+    "actual_open": 167.32723694124167,
+    "predicted_open": 166.68295288085938,
+    "sentiment": 0.4767272727272727
+  },
+  {
+    "date": "2022-04-14",
+    "actual_open": 160.75655343597518,
+    "predicted_open": 160.99758911132812,
+    "sentiment": 0.39561290322580644
+  },
+  {
+    "date": "2022-04-18",
+    "actual_open": 161.8353139115337,
+    "predicted_open": 161.7340087890625,
+    "sentiment": 0.75325
+  },
+  {
+    "date": "2022-04-19",
+    "actual_open": 165.50317284085372,
+    "predicted_open": 165.2569580078125,
+    "sentiment": 0.5515862068965517
+  },
+  {
+    "date": "2022-04-20",
+    "actual_open": 165.650233704649,
+    "predicted_open": 165.63436889648438,
+    "sentiment": 0.5569333333333333
+  },
+  {
+    "date": "2022-04-21",
+    "actual_open": 163.24755201100473,
+    "predicted_open": 163.43435668945312,
+    "sentiment": 0.5993225806451613
+  },
+  {
+    "date": "2022-04-22",
+    "actual_open": 158.01060452122857,
+    "predicted_open": 158.3621368408203,
+    "sentiment": 0.4427777777777778
+  },
+  {
+    "date": "2022-04-25",
+    "actual_open": 159.1187908139756,
+    "predicted_open": 158.9223175048828,
+    "sentiment": 0.37748275862068964
+  },
+  {
+    "date": "2022-04-26",
+    "actual_open": 152.90116485569044,
+    "predicted_open": 153.23826599121094,
+    "sentiment": 0.26253191489361705
+  },
+  {
+    "date": "2022-04-27",
+    "actual_open": 156.17671559506246,
+    "predicted_open": 156.29278564453125,
+    "sentiment": 0.3382432432432433
+  },
+  {
+    "date": "2022-04-28",
+    "actual_open": 158.7167001847882,
+    "predicted_open": 158.89149475097656,
+    "sentiment": 0.3231833333333333
+  },
+  {
+    "date": "2022-04-29",
+    "actual_open": 153.68569876055605,
+    "predicted_open": 153.78688049316406,
+    "sentiment": 0.20397402597402597
+  },
+  {
+    "date": "2022-05-02",
+    "actual_open": 155.09793269514185,
+    "predicted_open": 154.96871948242188,
+    "sentiment": 0.09956818181818182
+  },
+  {
+    "date": "2022-05-03",
+    "actual_open": 156.58858056796436,
+    "predicted_open": 156.49034118652344,
+    "sentiment": 0.39886206896551724
+  },
+  {
+    "date": "2022-05-04",
+    "actual_open": 160.68791986588977,
+    "predicted_open": 160.06558227539062,
+    "sentiment": 0.381962962962963
+  },
+  {
+    "date": "2022-05-05",
+    "actual_open": 153.22400390708842,
+    "predicted_open": 154.03164672851562,
+    "sentiment": 0.25015
+  },
+  {
+    "date": "2022-05-06",
+    "actual_open": 152.163286830581,
+    "predicted_open": 152.44122314453125,
+    "sentiment": 0.15558333333333332
+  },
+  {
+    "date": "2022-05-09",
+    "actual_open": 152.74275136095326,
+    "predicted_open": 152.82652282714844,
+    "sentiment": 0.4152666666666667
+  },
+  {
+    "date": "2022-05-10",
+    "actual_open": 150.7588463480562,
+    "predicted_open": 150.07186889648438,
+    "sentiment": 0.24628
+  },
+  {
+    "date": "2022-05-11",
+    "actual_open": 140.22044713133192,
+    "predicted_open": 142.43292236328125,
+    "sentiment": 0.4832083333333333
+  },
+  {
+    "date": "2022-05-12",
+    "actual_open": 142.00793811597927,
+    "predicted_open": 142.04449462890625,
+    "sentiment": 0.3030625
+  },
+  {
+    "date": "2022-05-13",
+    "actual_open": 142.9508252776519,
+    "predicted_open": 143.42236328125,
+    "sentiment": 0.3198205128205128
+  },
+  {
+    "date": "2022-05-16",
+    "actual_open": 146.2017017887358,
+    "predicted_open": 146.1382598876953,
+    "sentiment": 0.3116842105263158
+  },
+  {
+    "date": "2022-05-17",
+    "actual_open": 144.2275834099531,
+    "predicted_open": 144.78868103027344,
+    "sentiment": 0.5748846153846153
+  },
+  {
+    "date": "2022-05-18",
+    "actual_open": 137.3820660685117,
+    "predicted_open": 138.36097717285156,
+    "sentiment": 0.28817241379310343
+  },
+  {
+    "date": "2022-05-19",
+    "actual_open": 136.60614779257094,
+    "predicted_open": 136.3030242919922,
+    "sentiment": 0.4625625
+  },
+  {
+    "date": "2022-05-20",
+    "actual_open": 135.3293635083762,
+    "predicted_open": 135.66712951660156,
+    "sentiment": 0.41196875
+  },
+  {
+    "date": "2022-05-23",
+    "actual_open": 138.2954308094958,
+    "predicted_open": 138.41139221191406,
+    "sentiment": 0.5566875
+  },
+  {
+    "date": "2022-05-24",
+    "actual_open": 135.95794665102005,
+    "predicted_open": 135.95118713378906,
+    "sentiment": 0.4587333333333333
+  },
+  {
+    "date": "2022-05-25",
+    "actual_open": 134.93651437290322,
+    "predicted_open": 135.2971649169922,
+    "sentiment": 0.24682758620689657
+  },
+  {
+    "date": "2022-05-26",
+    "actual_open": 142.79365382955837,
+    "predicted_open": 142.7120361328125,
+    "sentiment": 0.34022727272727277
+  },
+  {
+    "date": "2022-05-27",
+    "actual_open": 146.40795612568894,
+    "predicted_open": 146.180908203125,
+    "sentiment": 0.4311304347826087
+  },
+  {
+    "date": "2022-05-31",
+    "actual_open": 147.22308826530934,
+    "predicted_open": 146.88668823242188,
+    "sentiment": 0.2788125
+  },
+  {
+    "date": "2022-06-01",
+    "actual_open": 145.19008953159607,
+    "predicted_open": 146.2519073486328,
+    "sentiment": 0.5421578947368421
+  },
+  {
+    "date": "2022-06-02",
+    "actual_open": 144.2767048307591,
+    "predicted_open": 144.92059326171875,
+    "sentiment": 0.3330909090909091
+  },
+  {
+    "date": "2022-06-03",
+    "actual_open": 144.40436412307008,
+    "predicted_open": 144.5840301513672,
+    "sentiment": 0.3466451612903226
+  },
+  {
+    "date": "2022-06-06",
+    "actual_open": 141.77221184112562,
+    "predicted_open": 141.9204864501953,
+    "sentiment": 0.601758064516129
+  },
+  {
+    "date": "2022-06-07",
+    "actual_open": 145.92670296402,
+    "predicted_open": 145.9275360107422,
+    "sentiment": 0.43053125
+  },
+  {
+    "date": "2022-06-08",
+    "actual_open": 144.45345606665015,
+    "predicted_open": 144.7912139892578,
+    "sentiment": 0.6237272727272727
+  },
+  {
+    "date": "2022-06-09",
+    "actual_open": 137.7749096051149,
+    "predicted_open": 139.08059692382812,
+    "sentiment": 0.436025
+  },
+  {
+    "date": "2022-06-10",
+    "actual_open": 130.49722878533498,
+    "predicted_open": 130.95619201660156,
+    "sentiment": 0.3613125
+  },
+  {
+    "date": "2022-06-13",
+    "actual_open": 130.75256286918247,
+    "predicted_open": 131.17184448242188,
+    "sentiment": 0.3171935483870968
+  },
+  {
+    "date": "2022-06-14",
+    "actual_open": 131.89189392813557,
+    "predicted_open": 131.9590606689453,
+    "sentiment": 0.5505952380952381
+  },
+  {
+    "date": "2022-06-15",
+    "actual_open": 129.7213584251009,
+    "predicted_open": 130.13128662109375,
+    "sentiment": 0.5605
+  },
+  {
+    "date": "2022-06-16",
+    "actual_open": 127.74724995941777,
+    "predicted_open": 127.96195220947266,
+    "sentiment": 0.47129411764705886
+  },
+  {
+    "date": "2022-06-17",
+    "actual_open": 131.0374040187389,
+    "predicted_open": 130.8477020263672,
+    "sentiment": 0.36796153846153845
+  },
+  {
+    "date": "2022-06-21",
+    "actual_open": 132.38294065988546,
+    "predicted_open": 132.20318603515625,
+    "sentiment": 0.5884285714285714
+  },
+  {
+    "date": "2022-06-22",
+    "actual_open": 134.37669341757493,
+    "predicted_open": 134.5277862548828,
+    "sentiment": 0.6739473684210526
+  },
+  {
+    "date": "2022-06-23",
+    "actual_open": 137.40169953003104,
+    "predicted_open": 137.0096893310547,
+    "sentiment": 0.4992857142857143
+  },
+  {
+    "date": "2022-06-24",
+    "actual_open": 140.15170092235036,
+    "predicted_open": 140.18222045898438,
+    "sentiment": 0.4399285714285714
+  },
+  {
+    "date": "2022-06-27",
+    "actual_open": 139.5918597520797,
+    "predicted_open": 139.82528686523438,
+    "sentiment": 0.5597
+  },
+  {
+    "date": "2022-06-28",
+    "actual_open": 135.0052865296894,
+    "predicted_open": 135.6787109375,
+    "sentiment": 0.45451351351351355
+  },
+  {
+    "date": "2022-06-29",
+    "actual_open": 134.7990223471169,
+    "predicted_open": 134.95980834960938,
+    "sentiment": 0.40715384615384614
+  },
+  {
+    "date": "2022-06-30",
+    "actual_open": 133.6106148417446,
+    "predicted_open": 134.29942321777344,
+    "sentiment": 0.21086363636363636
+  },
+  {
+    "date": "2022-07-01",
+    "actual_open": 135.3097312194843,
+    "predicted_open": 135.41253662109375,
+    "sentiment": 0.4139428571428571
+  },
+  {
+    "date": "2022-07-05",
+    "actual_open": 138.82581180795694,
+    "predicted_open": 138.42596435546875,
+    "sentiment": 0.3361071428571428
+  },
+  {
+    "date": "2022-07-06",
+    "actual_open": 140.73112869012365,
+    "predicted_open": 140.6923065185547,
+    "sentiment": 0.4238965517241379
+  },
+  {
+    "date": "2022-07-07",
+    "actual_open": 142.6659424799357,
+    "predicted_open": 142.0286102294922,
+    "sentiment": 0.5411724137931034
+  },
+  {
+    "date": "2022-07-08",
+    "actual_open": 143.0686758701149,
+    "predicted_open": 143.3421630859375,
+    "sentiment": 0.24975
+  },
+  {
+    "date": "2022-07-11",
+    "actual_open": 143.15702881773996,
+    "predicted_open": 143.0923309326172,
+    "sentiment": 0.20145454545454544
+  },
+  {
+    "date": "2022-07-12",
+    "actual_open": 140.4365056872071,
+    "predicted_open": 140.6614227294922,
+    "sentiment": 0.41277777777777774
+  },
+  {
+    "date": "2022-07-13",
+    "actual_open": 141.50706056941064,
+    "predicted_open": 141.31187438964844,
+    "sentiment": 0.5280400000000001
+  },
+  {
+    "date": "2022-07-14",
+    "actual_open": 147.1052616395071,
+    "predicted_open": 145.92208862304688,
+    "sentiment": 0.30608
+  },
+  {
+    "date": "2022-07-15",
+    "actual_open": 148.04814036588357,
+    "predicted_open": 147.91954040527344,
+    "sentiment": 0.3667777777777778
+  },
+  {
+    "date": "2022-07-18",
+    "actual_open": 145.27845218517842,
+    "predicted_open": 146.27850341796875,
+    "sentiment": 0.47915
+  },
+  {
+    "date": "2022-07-19",
+    "actual_open": 148.42132610705224,
+    "predicted_open": 148.0426483154297,
+    "sentiment": 0.3176792452830189
+  },
+  {
+    "date": "2022-07-20",
+    "actual_open": 151.74100910144742,
+    "predicted_open": 151.04067993164062,
+    "sentiment": 0.35407500000000003
+  },
+  {
+    "date": "2022-07-21",
+    "actual_open": 152.61505981778862,
+    "predicted_open": 152.10418701171875,
+    "sentiment": 0.4238064516129032
+  },
+  {
+    "date": "2022-07-22",
+    "actual_open": 151.25974222884446,
+    "predicted_open": 151.0554656982422,
+    "sentiment": 0.5404117647058824
+  },
+  {
+    "date": "2022-07-25",
+    "actual_open": 149.54097900815464,
+    "predicted_open": 149.5336456298828,
+    "sentiment": 0.34663793103448276
+  },
+  {
+    "date": "2022-07-26",
+    "actual_open": 149.85527117258624,
+    "predicted_open": 150.35504150390625,
+    "sentiment": 0.3067931034482759
+  },
+  {
+    "date": "2022-07-27",
+    "actual_open": 154.1766972484503,
+    "predicted_open": 154.2421112060547,
+    "sentiment": 0.2948181818181818
+  },
+  {
+    "date": "2022-07-28",
+    "actual_open": 158.36060045687617,
+    "predicted_open": 158.195556640625,
+    "sentiment": 0.34387500000000004
+  },
+  {
+    "date": "2022-07-29",
+    "actual_open": 158.13470710792794,
+    "predicted_open": 158.48777770996094,
+    "sentiment": 0.5402714285714286
+  },
+  {
+    "date": "2022-08-01",
+    "actual_open": 157.24099208938756,
+    "predicted_open": 157.45794677734375,
+    "sentiment": 0.5599705882352941
+  },
+  {
+    "date": "2022-08-02",
+    "actual_open": 157.96775857743674,
+    "predicted_open": 157.73255920410156,
+    "sentiment": 0.39489473684210524
+  },
+  {
+    "date": "2022-08-03",
+    "actual_open": 163.04540919289056,
+    "predicted_open": 162.33978271484375,
+    "sentiment": 0.49888461538461537
+  },
+  {
+    "date": "2022-08-04",
+    "actual_open": 160.51811452535523,
+    "predicted_open": 160.59768676757812,
+    "sentiment": 0.3365625
+  },
+  {
+    "date": "2022-08-05",
+    "actual_open": 163.62598619996888,
+    "predicted_open": 163.3908233642578,
+    "sentiment": 0.35400000000000004
+  },
+  {
+    "date": "2022-08-08",
+    "actual_open": 161.31472511427808,
+    "predicted_open": 161.46792602539062,
+    "sentiment": 0.3408
+  },
+  {
+    "date": "2022-08-09",
+    "actual_open": 164.91437134851807,
+    "predicted_open": 164.71607971191406,
+    "sentiment": 0.35015789473684206
+  },
+  {
+    "date": "2022-08-10",
+    "actual_open": 167.25511117853088,
+    "predicted_open": 167.50552368164062,
+    "sentiment": 0.5495
+  },
+  {
+    "date": "2022-08-11",
+    "actual_open": 167.01906593388134,
+    "predicted_open": 167.23416137695312,
+    "sentiment": 0.5847272727272727
+  },
+  {
+    "date": "2022-08-12",
+    "actual_open": 168.69105712274018,
+    "predicted_open": 168.8279571533203,
+    "sentiment": 0.3476666666666666
+  },
+  {
+    "date": "2022-08-15",
+    "actual_open": 169.93025557179138,
+    "predicted_open": 169.86778259277344,
+    "sentiment": 0.5229999999999999
+  },
+  {
+    "date": "2022-08-16",
+    "actual_open": 169.92039567056804,
+    "predicted_open": 169.81346130371094,
+    "sentiment": 0.4353571428571429
+  },
+  {
+    "date": "2022-08-17",
+    "actual_open": 170.88425233332873,
+    "predicted_open": 170.7085418701172,
+    "sentiment": 0.22285714285714286
+  },
+  {
+    "date": "2022-08-18",
+    "actual_open": 170.1761140668042,
+    "predicted_open": 170.1940155029297,
+    "sentiment": 0.33224
+  },
+  {
+    "date": "2022-08-19",
+    "actual_open": 166.89121173091766,
+    "predicted_open": 167.2509002685547,
+    "sentiment": 0.6568
+  },
+  {
+    "date": "2022-08-22",
+    "actual_open": 164.32428177313432,
+    "predicted_open": 164.57162475585938,
+    "sentiment": 0.5767083333333333
+  },
+  {
+    "date": "2022-08-23",
+    "actual_open": 164.56027201941407,
+    "predicted_open": 164.80455017089844,
+    "sentiment": 0.3823076923076923
+  },
+  {
+    "date": "2022-08-24",
+    "actual_open": 165.99620298200634,
+    "predicted_open": 165.86766052246094,
+    "sentiment": 0.53015
+  },
+  {
+    "date": "2022-08-25",
+    "actual_open": 167.75672364191396,
+    "predicted_open": 167.14590454101562,
+    "sentiment": 0.43007142857142855
+  },
+  {
+    "date": "2022-08-26",
+    "actual_open": 158.4920749241394,
+    "predicted_open": 159.3015899658203,
+    "sentiment": 0.5798461538461539
+  },
+  {
+    "date": "2022-08-29",
+    "actual_open": 159.45587762112265,
+    "predicted_open": 159.38336181640625,
+    "sentiment": 0.4582647058823529
+  },
+  {
+    "date": "2022-08-30",
+    "actual_open": 157.665923552681,
+    "predicted_open": 158.0412139892578,
+    "sentiment": 0.5137058823529412
+  },
+  {
+    "date": "2022-08-31",
+    "actual_open": 154.05645479166745,
+    "predicted_open": 154.86227416992188,
+    "sentiment": 0.365
+  },
+  {
+    "date": "2022-09-01",
+    "actual_open": 157.11516076913463,
+    "predicted_open": 157.00289916992188,
+    "sentiment": 0.35688888888888887
+  },
+  {
+    "date": "2022-09-02",
+    "actual_open": 153.88926726791752,
+    "predicted_open": 155.28628540039062,
+    "sentiment": 0.5435151515151515
+  },
+  {
+    "date": "2022-09-06",
+    "actual_open": 152.2664529516032,
+    "predicted_open": 152.5343017578125,
+    "sentiment": 0.39153125
+  },
+  {
+    "date": "2022-09-07",
+    "actual_open": 152.08943851032333,
+    "predicted_open": 151.98907470703125,
+    "sentiment": 0.5239705882352942
+  },
+  {
+    "date": "2022-09-08",
+    "actual_open": 152.90574262919617,
+    "predicted_open": 152.85574340820312,
+    "sentiment": 0.5138983050847458
+  },
+  {
+    "date": "2022-09-09",
+    "actual_open": 156.9577752421011,
+    "predicted_open": 156.49591064453125,
+    "sentiment": 0.4468717948717949
+  },
+  {
+    "date": "2022-09-12",
+    "actual_open": 157.26267420589616,
+    "predicted_open": 157.12612915039062,
+    "sentiment": 0.6848125
+  },
+  {
+    "date": "2022-09-13",
+    "actual_open": 152.2369398106262,
+    "predicted_open": 152.58058166503906,
+    "sentiment": 0.4408888888888889
+  },
+  {
+    "date": "2022-09-14",
+    "actual_open": 152.09926605765543,
+    "predicted_open": 151.00665283203125,
+    "sentiment": 0.5218064516129032
+  },
+  {
+    "date": "2022-09-15",
+    "actual_open": 148.71602969989698,
+    "predicted_open": 148.75534057617188,
+    "sentiment": 0.457
+  },
+  {
+    "date": "2022-09-16",
+    "actual_open": 146.8473562182448,
+    "predicted_open": 146.89105224609375,
+    "sentiment": 0.29591666666666666
+  },
+  {
+    "date": "2022-09-19",
+    "actual_open": 150.86989154639073,
+    "predicted_open": 150.7283477783203,
+    "sentiment": 0.6541764705882354
+  },
+  {
+    "date": "2022-09-20",
+    "actual_open": 154.74492033364538,
+    "predicted_open": 153.13633728027344,
+    "sentiment": 0.4887142857142857
+  },
+  {
+    "date": "2022-09-21",
+    "actual_open": 149.8667164993867,
+    "predicted_open": 150.61973571777344,
+    "sentiment": 0.42244444444444446
+  },
+  {
+    "date": "2022-09-22",
+    "actual_open": 148.69634230303134,
+    "predicted_open": 148.72540283203125,
+    "sentiment": 0.5662666666666667
+  },
+  {
+    "date": "2022-09-23",
+    "actual_open": 147.19160174855077,
+    "predicted_open": 147.31886291503906,
+    "sentiment": 0.44675757575757574
+  },
+  {
+    "date": "2022-09-26",
+    "actual_open": 150.22077457787657,
+    "predicted_open": 149.81494140625,
+    "sentiment": 0.5781428571428572
+  },
+  {
+    "date": "2022-09-27",
+    "actual_open": 145.20491035922058,
+    "predicted_open": 145.63308715820312,
+    "sentiment": 0.6130625
+  },
+  {
+    "date": "2022-09-28",
+    "actual_open": 143.69032433945154,
+    "predicted_open": 145.05264282226562,
+    "sentiment": 0.39158000000000004
+  },
+  {
+    "date": "2022-09-29",
+    "actual_open": 138.9498106360333,
+    "predicted_open": 139.009033203125,
+    "sentiment": 0.19486486486486487
+  },
+  {
+    "date": "2022-09-30",
+    "actual_open": 135.93040692542345,
+    "predicted_open": 136.06239318847656,
+    "sentiment": 0.31295
+  },
+  {
+    "date": "2022-10-03",
+    "actual_open": 142.6379484443843,
+    "predicted_open": 141.5684356689453,
+    "sentiment": 0.5193333333333333
+  },
+  {
+    "date": "2022-10-04",
+    "actual_open": 141.69376449693982,
+    "predicted_open": 141.98875427246094,
+    "sentiment": 0.4479459459459459
+  },
+  {
+    "date": "2022-10-05",
+    "actual_open": 143.40507882099124,
+    "predicted_open": 143.01998901367188,
+    "sentiment": 0.6656399999999999
+  },
+  {
+    "date": "2022-10-06",
+    "actual_open": 140.18899129011245,
+    "predicted_open": 140.73745727539062,
+    "sentiment": 0.3831666666666667
+  },
+  {
+    "date": "2022-10-07",
+    "actual_open": 138.10397338867188,
+    "predicted_open": 138.57664489746094,
+    "sentiment": 0.4933181818181818
+  },
+  {
+    "date": "2022-10-10",
+    "actual_open": 137.59253769929057,
+    "predicted_open": 137.48080444335938,
+    "sentiment": 0.14964285714285713
+  },
+  {
+    "date": "2022-10-11",
+    "actual_open": 136.8352517842159,
+    "predicted_open": 136.76702880859375,
+    "sentiment": 0.4984166666666667
+  },
+  {
+    "date": "2022-10-12",
+    "actual_open": 132.76355465182596,
+    "predicted_open": 133.39610290527344,
+    "sentiment": 0.6023214285714286
+  },
+  {
+    "date": "2022-10-13",
+    "actual_open": 141.9298435333937,
+    "predicted_open": 141.1547088623047,
+    "sentiment": 0.5063103448275862
+  },
+  {
+    "date": "2022-10-14",
+    "actual_open": 138.74329241493984,
+    "predicted_open": 139.352294921875,
+    "sentiment": 0.6044666666666667
+  },
+  {
+    "date": "2022-10-17",
+    "actual_open": 143.09035010046446,
+    "predicted_open": 142.47500610351562,
+    "sentiment": 0.57505
+  },
+  {
+    "date": "2022-10-18",
+    "actual_open": 139.35303637893844,
+    "predicted_open": 140.1035919189453,
+    "sentiment": 0.5507352941176471
+  },
+  {
+    "date": "2022-10-19",
+    "actual_open": 140.66113173914408,
+    "predicted_open": 140.40145874023438,
+    "sentiment": 0.6619473684210526
+  },
+  {
+    "date": "2022-10-20",
+    "actual_open": 140.51356590449524,
+    "predicted_open": 140.57627868652344,
+    "sentiment": 0.45766666666666667
+  },
+  {
+    "date": "2022-10-21",
+    "actual_open": 144.7623420825169,
+    "predicted_open": 144.6330108642578,
+    "sentiment": 0.4087179487179487
+  },
+  {
+    "date": "2022-10-24",
+    "actual_open": 147.61447265041116,
+    "predicted_open": 147.35069274902344,
+    "sentiment": 0.510625
+  },
+  {
+    "date": "2022-10-25",
+    "actual_open": 148.4701649982454,
+    "predicted_open": 148.7041778564453,
+    "sentiment": 0.4292820512820513
+  },
+  {
+    "date": "2022-10-26",
+    "actual_open": 145.62779799425218,
+    "predicted_open": 145.90582275390625,
+    "sentiment": 0.36439285714285713
+  },
+  {
+    "date": "2022-10-27",
+    "actual_open": 145.75567739955667,
+    "predicted_open": 145.6585235595703,
+    "sentiment": 0.5461463414634147
+  },
+  {
+    "date": "2022-10-28",
+    "actual_open": 150.63384336153183,
+    "predicted_open": 150.37106323242188,
+    "sentiment": 0.42122727272727273
+  },
+  {
+    "date": "2022-10-31",
+    "actual_open": 152.52217870801033,
+    "predicted_open": 152.06195068359375,
+    "sentiment": 0.35938000000000003
+  },
+  {
+    "date": "2022-11-01",
+    "actual_open": 146.49329861316923,
+    "predicted_open": 147.35865783691406,
+    "sentiment": 0.32621739130434785
+  },
+  {
+    "date": "2022-11-02",
+    "actual_open": 139.71689820139042,
+    "predicted_open": 140.91189575195312,
+    "sentiment": 0.2834814814814815
+  },
+  {
+    "date": "2022-11-03",
+    "actual_open": 139.97824816387146,
+    "predicted_open": 140.00521850585938,
+    "sentiment": 0.3479130434782608
+  },
+  {
+    "date": "2022-11-04",
+    "actual_open": 135.0722797176196,
+    "predicted_open": 135.92437744140625,
+    "sentiment": 0.44437499999999996
+  },
+  {
+    "date": "2022-11-07",
+    "actual_open": 138.32320632796907,
+    "predicted_open": 138.41831970214844,
+    "sentiment": 0.11674193548387096
+  },
+  {
+    "date": "2022-11-08",
+    "actual_open": 136.44161049413725,
+    "predicted_open": 136.7880096435547,
+    "sentiment": 0.39872
+  },
+  {
+    "date": "2022-11-09",
+    "actual_open": 139.14086413842483,
+    "predicted_open": 138.39280700683594,
+    "sentiment": 0.3994285714285714
+  },
+  {
+    "date": "2022-11-10",
+    "actual_open": 143.6528333928847,
+    "predicted_open": 142.87869262695312,
+    "sentiment": 0.4828461538461538
+  },
+  {
+    "date": "2022-11-11",
+    "actual_open": 146.75601106211803,
+    "predicted_open": 146.59234619140625,
+    "sentiment": 0.7072999999999999
+  },
+  {
+    "date": "2022-11-14",
+    "actual_open": 149.9576976256643,
+    "predicted_open": 149.08653259277344,
+    "sentiment": 0.28465384615384615
+  },
+  {
+    "date": "2022-11-15",
+    "actual_open": 146.91363265596118,
+    "predicted_open": 147.85025024414062,
+    "sentiment": 0.4047692307692308
+  },
+  {
+    "date": "2022-11-16",
+    "actual_open": 144.25371577829003,
+    "predicted_open": 144.66468811035156,
+    "sentiment": 0.6240909090909091
+  },
+  {
+    "date": "2022-11-17",
+    "actual_open": 150.0463641188946,
+    "predicted_open": 148.8979949951172,
+    "sentiment": 0.6131428571428571
+  },
+  {
+    "date": "2022-11-18",
+    "actual_open": 147.928327968664,
+    "predicted_open": 148.05490112304688,
+    "sentiment": 0.46530769230769226
+  },
+  {
+    "date": "2022-11-21",
+    "actual_open": 145.92849249022925,
+    "predicted_open": 145.96524047851562,
+    "sentiment": 0.5396315789473685
+  },
+  {
+    "date": "2022-11-22",
+    "actual_open": 147.22886486968167,
+    "predicted_open": 146.8795166015625,
+    "sentiment": 0.6964782608695651
+  },
+  {
+    "date": "2022-11-23",
+    "actual_open": 146.1058228227629,
+    "predicted_open": 146.02659606933594,
+    "sentiment": 0.09951612903225807
+  },
+  {
+    "date": "2022-11-25",
+    "actual_open": 142.98290889279264,
+    "predicted_open": 144.0758056640625,
+    "sentiment": 0.3862424242424243
+  },
+  {
+    "date": "2022-11-28",
+    "actual_open": 142.14557128350813,
+    "predicted_open": 142.03916931152344,
+    "sentiment": -0.020730769230769233
+  },
+  {
+    "date": "2022-11-29",
+    "actual_open": 139.29851639049443,
+    "predicted_open": 139.8806610107422,
+    "sentiment": 0.0398095238095238
+  },
+  {
+    "date": "2022-11-30",
+    "actual_open": 146.00731491776455,
+    "predicted_open": 145.71788024902344,
+    "sentiment": 0.08135849056603772
+  },
+  {
+    "date": "2022-12-01",
+    "actual_open": 143.79073931676461,
+    "predicted_open": 143.8542938232422,
+    "sentiment": -0.07134210526315789
+  },
+  {
+    "date": "2022-12-02",
+    "actual_open": 145.5738317516645,
+    "predicted_open": 145.38978576660156,
+    "sentiment": 0.3681538461538461
+  },
+  {
+    "date": "2022-12-05",
+    "actual_open": 144.88426506871545,
+    "predicted_open": 144.99740600585938,
+    "sentiment": 0.1518857142857143
+  },
+  {
+    "date": "2022-12-06",
+    "actual_open": 140.07675927915528,
+    "predicted_open": 140.6933135986328,
+    "sentiment": 0.3643720930232558
+  },
+  {
+    "date": "2022-12-07",
+    "actual_open": 140.24423909407787,
+    "predicted_open": 140.0889129638672,
+    "sentiment": 0.23
+  },
+  {
+    "date": "2022-12-08",
+    "actual_open": 140.22454358218158,
+    "predicted_open": 139.9745635986328,
+    "sentiment": 0.19913636363636364
+  },
+  {
+    "date": "2022-12-09",
+    "actual_open": 140.5791698825673,
+    "predicted_open": 140.61126708984375,
+    "sentiment": 0.28228000000000003
+  },
+  {
+    "date": "2022-12-12",
+    "actual_open": 147.27811851695523,
+    "predicted_open": 146.7279052734375,
+    "sentiment": 0.2736875
+  },
+  {
+    "date": "2022-12-13",
+    "actual_open": 143.18982946326526,
+    "predicted_open": 144.2955322265625,
+    "sentiment": 0.6563703703703704
+  },
+  {
+    "date": "2022-12-14",
+    "actual_open": 139.01283101163355,
+    "predicted_open": 139.54226684570312,
+    "sentiment": 0.408625
+  },
+  {
+    "date": "2022-12-15",
+    "actual_open": 134.65850323442362,
+    "predicted_open": 134.65554809570312,
+    "sentiment": 0.1471904761904762
+  },
+  {
+    "date": "2022-12-16",
+    "actual_open": 133.1019778704447,
+    "predicted_open": 133.34921264648438,
+    "sentiment": 0.6078181818181818
+  },
+  {
+    "date": "2022-12-19",
+    "actual_open": 129.43727633927585,
+    "predicted_open": 129.90773010253906,
+    "sentiment": 0.4690869565217391
+  },
+  {
+    "date": "2022-12-20",
+    "actual_open": 131.003643429146,
+    "predicted_open": 130.62869262695312,
+    "sentiment": 0.39744999999999997
+  },
+  {
+    "date": "2022-12-21",
+    "actual_open": 132.35327292045574,
+    "predicted_open": 132.27186584472656,
+    "sentiment": 0.4691666666666667
+  },
+  {
+    "date": "2022-12-22",
+    "actual_open": 128.97425178436364,
+    "predicted_open": 129.15806579589844,
+    "sentiment": 0.378952380952381
+  },
+  {
+    "date": "2022-12-23",
+    "actual_open": 129.42741525184118,
+    "predicted_open": 129.24647521972656,
+    "sentiment": 0.4587692307692308
+  },
+  {
+    "date": "2022-12-27",
+    "actual_open": 127.74282634199004,
+    "predicted_open": 127.91651916503906,
+    "sentiment": 0.2546538461538462
+  },
+  {
+    "date": "2022-12-28",
+    "actual_open": 126.08781995267968,
+    "predicted_open": 126.12419891357422,
+    "sentiment": 0.26485185185185184
+  },
+  {
+    "date": "2022-12-29",
+    "actual_open": 126.50157867111179,
+    "predicted_open": 126.5091323852539,
+    "sentiment": 0.3942962962962963
+  },
+  {
+    "date": "2022-12-30",
+    "actual_open": 128.34377240566315,
+    "predicted_open": 128.17935180664062,
+    "sentiment": 0.23545454545454544
+  },
+  {
+    "date": "2023-01-03",
+    "actual_open": 125.00417001301611,
+    "predicted_open": 125.02417755126953,
+    "sentiment": 0.19765
+  },
+  {
+    "date": "2023-01-04",
+    "actual_open": 125.24058317585433,
+    "predicted_open": 125.27051544189453,
+    "sentiment": 0.14088095238095238
+  },
+  {
+    "date": "2023-01-05",
+    "actual_open": 124.13723942127505,
+    "predicted_open": 124.42781066894531,
+    "sentiment": 0.36392
+  },
+  {
+    "date": "2023-01-06",
+    "actual_open": 128.53093430540028,
+    "predicted_open": 127.669921875,
+    "sentiment": 0.6063
+  },
+  {
+    "date": "2023-01-09",
+    "actual_open": 128.32406282244906,
+    "predicted_open": 128.14718627929688,
+    "sentiment": 0.3944242424242424
+  },
+  {
+    "date": "2023-01-10",
+    "actual_open": 129.29934353146365,
+    "predicted_open": 129.05262756347656,
+    "sentiment": 0.4646764705882353
+  },
+  {
+    "date": "2023-01-11",
+    "actual_open": 131.89027740511193,
+    "predicted_open": 130.90576171875,
+    "sentiment": 0.38665714285714287
+  },
+  {
+    "date": "2023-01-12",
+    "actual_open": 130.06777940104425,
+    "predicted_open": 130.5135498046875,
+    "sentiment": 0.3819230769230769
+  },
+  {
+    "date": "2023-01-13",
+    "actual_open": 132.82615869144374,
+    "predicted_open": 131.66534423828125,
+    "sentiment": 0.379
+  },
+  {
+    "date": "2023-01-17",
+    "actual_open": 134.78658853017248,
+    "predicted_open": 134.78665161132812,
+    "sentiment": 0.5607948717948718
+  },
+  {
+    "date": "2023-01-18",
+    "actual_open": 132.0873116107182,
+    "predicted_open": 131.95535278320312,
+    "sentiment": 0.2435675675675676
+  },
+  {
+    "date": "2023-01-19",
+    "actual_open": 133.26943492058444,
+    "predicted_open": 133.1390380859375,
+    "sentiment": 0.7243636363636363
+  },
+  {
+    "date": "2023-01-20",
+    "actual_open": 136.06726442233395,
+    "predicted_open": 135.90631103515625,
+    "sentiment": 0.3426470588235294
+  },
+  {
+    "date": "2023-01-23",
+    "actual_open": 138.22472018745663,
+    "predicted_open": 138.34579467773438,
+    "sentiment": 0.5641071428571428
+  },
+  {
+    "date": "2023-01-24",
+    "actual_open": 138.7961237050366,
+    "predicted_open": 138.2060546875,
+    "sentiment": 0.6311818181818182
+  },
+  {
+    "date": "2023-01-25",
+    "actual_open": 141.0421976938989,
+    "predicted_open": 140.92379760742188,
+    "sentiment": 0.4301333333333333
+  },
+  {
+    "date": "2023-01-26",
+    "actual_open": 141.03236318771044,
+    "predicted_open": 140.96670532226562,
+    "sentiment": 0.5189375
+  },
+  {
+    "date": "2023-01-27",
+    "actual_open": 142.8056023172103,
+    "predicted_open": 143.05409240722656,
+    "sentiment": 0.30451999999999996
+  },
+  {
+    "date": "2023-01-30",
+    "actual_open": 140.57915761528193,
+    "predicted_open": 140.6254425048828,
+    "sentiment": 0.3510754716981132
+  },
+  {
+    "date": "2023-01-31",
+    "actual_open": 141.83030751885846,
+    "predicted_open": 141.67369079589844,
+    "sentiment": 0.29233333333333333
+  },
+  {
+    "date": "2023-02-01",
+    "actual_open": 146.68702845858084,
+    "predicted_open": 145.96409606933594,
+    "sentiment": 0.5117714285714285
+  },
+  {
+    "date": "2023-02-02",
+    "actual_open": 145.82996797468513,
+    "predicted_open": 145.41329956054688,
+    "sentiment": 0.3335762711864407
+  },
+  {
+    "date": "2023-02-03",
+    "actual_open": 150.3025182240104,
+    "predicted_open": 149.5374298095703,
+    "sentiment": 0.2548904109589041
+  },
+  {
+    "date": "2023-02-06",
+    "actual_open": 148.40120972216627,
+    "predicted_open": 148.51463317871094,
+    "sentiment": 0.033849999999999984
+  },
+  {
+    "date": "2023-02-07",
+    "actual_open": 151.59304759782992,
+    "predicted_open": 151.04776000976562,
+    "sentiment": 0.4454444444444445
+  },
+  {
+    "date": "2023-02-08",
+    "actual_open": 151.49451696275133,
+    "predicted_open": 151.2716064453125,
+    "sentiment": 0.5498333333333333
+  },
+  {
+    "date": "2023-02-09",
+    "actual_open": 147.4635148483787,
+    "predicted_open": 147.7344207763672,
+    "sentiment": 0.6004615384615385
+  },
+  {
+    "date": "2023-02-10",
+    "actual_open": 148.93360529625505,
+    "predicted_open": 148.69003295898438,
+    "sentiment": 0.49404761904761907
+  },
+  {
+    "date": "2023-02-13",
+    "actual_open": 150.08798919443248,
+    "predicted_open": 150.1401824951172,
+    "sentiment": 0.7237142857142856
+  },
+  {
+    "date": "2023-02-14",
+    "actual_open": 151.0647500944972,
+    "predicted_open": 150.97271728515625,
+    "sentiment": 0.4117826086956522
+  },
+  {
+    "date": "2023-02-15",
+    "actual_open": 151.45941308943844,
+    "predicted_open": 151.20223999023438,
+    "sentiment": 0.6587307692307692
+  },
+  {
+    "date": "2023-02-16",
+    "actual_open": 150.314927401964,
+    "predicted_open": 150.65272521972656,
+    "sentiment": 0.6074444444444445
+  },
+  {
+    "date": "2023-02-17",
+    "actual_open": 148.19362270368532,
+    "predicted_open": 148.54981994628906,
+    "sentiment": 0.5926875
+  },
+  {
+    "date": "2023-02-21",
+    "actual_open": 146.88140906273446,
+    "predicted_open": 146.89639282226562,
+    "sentiment": 0.16315384615384615
+  },
+  {
+    "date": "2023-02-22",
+    "actual_open": 148.0850975380816,
+    "predicted_open": 147.5328826904297,
+    "sentiment": 0.4750625
+  },
+  {
+    "date": "2023-02-23",
+    "actual_open": 145.1449254913303,
+    "predicted_open": 145.4194793701172,
+    "sentiment": 0.7047777777777777
+  },
+  {
+    "date": "2023-02-24",
+    "actual_open": 145.736905394929,
+    "predicted_open": 145.36407470703125,
+    "sentiment": 0.6464210526315789
+  },
+  {
+    "date": "2023-02-27",
+    "actual_open": 145.08572620470352,
+    "predicted_open": 145.21324157714844,
+    "sentiment": 0.5572380952380952
+  },
+  {
+    "date": "2023-02-28",
+    "actual_open": 144.86867310742886,
+    "predicted_open": 144.75843811035156,
+    "sentiment": 0.30208695652173917
+  },
+  {
+    "date": "2023-03-01",
+    "actual_open": 142.4513915466776,
+    "predicted_open": 141.5200958251953,
+    "sentiment": 0.4622857142857143
+  },
+  {
+    "date": "2023-03-02",
+    "actual_open": 146.06247767198354,
+    "predicted_open": 145.3988800048828,
+    "sentiment": 0.39117391304347826
+  },
+  {
+    "date": "2023-03-03",
+    "actual_open": 151.7357028817241,
+    "predicted_open": 151.2619171142578,
+    "sentiment": 0.31258823529411767
+  },
+  {
+    "date": "2023-03-06",
+    "actual_open": 151.64687511738626,
+    "predicted_open": 151.49705505371094,
+    "sentiment": 0.5417857142857143
+  },
+  {
+    "date": "2023-03-07",
+    "actual_open": 150.768776295138,
+    "predicted_open": 150.55880737304688,
+    "sentiment": 0.6800625
+  },
+  {
+    "date": "2023-03-08",
+    "actual_open": 151.5087739759212,
+    "predicted_open": 151.48114013671875,
+    "sentiment": 0.3088235294117647
+  },
+  {
+    "date": "2023-03-09",
+    "actual_open": 148.2035375357173,
+    "predicted_open": 148.5152130126953,
+    "sentiment": 0.46286363636363637
+  },
+  {
+    "date": "2023-03-10",
+    "actual_open": 145.83555065664373,
+    "predicted_open": 146.0821533203125,
+    "sentiment": 0.17165
+  },
+  {
+    "date": "2023-03-13",
+    "actual_open": 149.25919818665145,
+    "predicted_open": 149.1444854736328,
+    "sentiment": 0.5144545454545454
+  },
+  {
+    "date": "2023-03-14",
+    "actual_open": 149.17042182051847,
+    "predicted_open": 149.38243103027344,
+    "sentiment": 0.47706666666666664
+  },
+  {
+    "date": "2023-03-15",
+    "actual_open": 150.127461556798,
+    "predicted_open": 150.04141235351562,
+    "sentiment": 0.1190909090909091
+  },
+  {
+    "date": "2023-03-16",
+    "actual_open": 153.99509488717774,
+    "predicted_open": 153.439208984375,
+    "sentiment": 0.6977407407407407
+  },
+  {
+    "date": "2023-03-17",
+    "actual_open": 152.99860710640667,
+    "predicted_open": 152.99493408203125,
+    "sentiment": 0.603875
+  },
+  {
+    "date": "2023-03-20",
+    "actual_open": 155.21851870122467,
+    "predicted_open": 154.6582794189453,
+    "sentiment": 0.7847500000000001
+  },
+  {
+    "date": "2023-03-21",
+    "actual_open": 157.17212136652458,
+    "predicted_open": 157.06834411621094,
+    "sentiment": 0.5391999999999999
+  },
+  {
+    "date": "2023-03-22",
+    "actual_open": 156.7083516682842,
+    "predicted_open": 156.41241455078125,
+    "sentiment": 0.49019999999999997
+  },
+  {
+    "date": "2023-03-23",
+    "actual_open": 156.73795839634036,
+    "predicted_open": 157.26951599121094,
+    "sentiment": 0.4169729729729729
+  },
+  {
+    "date": "2023-03-24",
+    "actual_open": 157.80357078673757,
+    "predicted_open": 157.75656127929688,
+    "sentiment": 0.6915
+  },
+  {
+    "date": "2023-03-27",
+    "actual_open": 155.85986113132142,
+    "predicted_open": 155.98187255859375,
+    "sentiment": 0.6962307692307692
+  },
+  {
+    "date": "2023-03-28",
+    "actual_open": 157.241143834068,
+    "predicted_open": 157.366455078125,
+    "sentiment": 0.5573333333333333
+  },
+  {
+    "date": "2023-03-29",
+    "actual_open": 159.37232351853436,
+    "predicted_open": 158.7664794921875,
+    "sentiment": 0.50336
+  },
+  {
+    "date": "2023-03-30",
+    "actual_open": 160.27014967971024,
+    "predicted_open": 160.04586791992188,
+    "sentiment": 0.4728
+  },
+  {
+    "date": "2023-03-31",
+    "actual_open": 162.07570339841976,
+    "predicted_open": 161.81605529785156,
+    "sentiment": 0.6182857142857143
+  },
+  {
+    "date": "2023-04-03",
+    "actual_open": 164.37458557847017,
+    "predicted_open": 164.24978637695312,
+    "sentiment": 0.3820909090909091
+  },
+  {
+    "date": "2023-04-04",
+    "actual_open": 162.53942989245922,
+    "predicted_open": 162.97669982910156,
+    "sentiment": 0.5688
+  },
+  {
+    "date": "2023-04-05",
+    "actual_open": 160.26025717712315,
+    "predicted_open": 160.6146697998047,
+    "sentiment": 0.4039375
+  },
+  {
+    "date": "2023-04-06",
+    "actual_open": 159.26377877195932,
+    "predicted_open": 159.3710174560547,
+    "sentiment": 0.64288
+  },
+  {
+    "date": "2023-04-10",
+    "actual_open": 160.1813521100088,
+    "predicted_open": 159.97119140625,
+    "sentiment": 0.32768749999999996
+  },
+  {
+    "date": "2023-04-11",
+    "actual_open": 159.06644488688698,
+    "predicted_open": 159.21009826660156,
+    "sentiment": 0.5620909090909091
+  },
+  {
+    "date": "2023-04-12",
+    "actual_open": 159.4709538117945,
+    "predicted_open": 159.3374786376953,
+    "sentiment": 0.29445454545454547
+  },
+  {
+    "date": "2023-04-13",
+    "actual_open": 162.39143019016473,
+    "predicted_open": 162.25088500976562,
+    "sentiment": 0.49773333333333336
+  },
+  {
+    "date": "2023-04-14",
+    "actual_open": 162.8847436304976,
+    "predicted_open": 162.74343872070312,
+    "sentiment": 0.5335333333333333
+  },
+  {
+    "date": "2023-04-17",
+    "actual_open": 163.88122417326096,
+    "predicted_open": 163.47972106933594,
+    "sentiment": 0.6022325581395349
+  },
+  {
+    "date": "2023-04-18",
+    "actual_open": 163.58525138616776,
+    "predicted_open": 163.46694946289062,
+    "sentiment": 0.4532432432432432
+  },
+  {
+    "date": "2023-04-19",
+    "actual_open": 163.8713720291843,
+    "predicted_open": 163.6481475830078,
+    "sentiment": 0.6663571428571429
+  },
+  {
+    "date": "2023-04-20",
+    "actual_open": 162.84528714652217,
+    "predicted_open": 162.88629150390625,
+    "sentiment": 0.6626842105263158
+  },
+  {
+    "date": "2023-04-21",
+    "actual_open": 162.79595779149312,
+    "predicted_open": 162.5189666748047,
+    "sentiment": 0.6134285714285714
+  },
+  {
+    "date": "2023-04-24",
+    "actual_open": 162.98339679746925,
+    "predicted_open": 163.08407592773438,
+    "sentiment": 0.3647058823529412
+  },
+  {
+    "date": "2023-04-25",
+    "actual_open": 160.8818632857178,
+    "predicted_open": 161.09030151367188,
+    "sentiment": 0.5895263157894737
+  },
+  {
+    "date": "2023-04-26",
+    "actual_open": 162.98344154461137,
+    "predicted_open": 163.04388427734375,
+    "sentiment": 0.8392
+  },
+  {
+    "date": "2023-04-27",
+    "actual_open": 166.23933019675923,
+    "predicted_open": 165.39443969726562,
+    "sentiment": 0.7500714285714285
+  },
+  {
+    "date": "2023-04-28",
+    "actual_open": 167.0187740939811,
+    "predicted_open": 167.47523498535156,
+    "sentiment": 0.5098571428571429
+  },
+  {
+    "date": "2023-05-01",
+    "actual_open": 167.81794875664258,
+    "predicted_open": 167.624755859375,
+    "sentiment": 0.254
+  },
+  {
+    "date": "2023-05-02",
+    "actual_open": 167.23584575291258,
+    "predicted_open": 167.35125732421875,
+    "sentiment": 0.2697826086956522
+  },
+  {
+    "date": "2023-05-03",
+    "actual_open": 162.68740659727376,
+    "predicted_open": 163.05386352539062,
+    "sentiment": 0.6854333333333333
+  },
+  {
+    "date": "2023-05-04",
+    "actual_open": 168.6960655683585,
+    "predicted_open": 168.42530822753906,
+    "sentiment": 0.5335555555555556
+  },
+  {
+    "date": "2023-05-05",
+    "actual_open": 170.1760244116815,
+    "predicted_open": 170.08819580078125,
+    "sentiment": 0.6281911764705882
+  },
+  {
+    "date": "2023-05-08",
+    "actual_open": 170.73841026688106,
+    "predicted_open": 170.4484405517578,
+    "sentiment": 0.6022105263157895
+  },
+  {
+    "date": "2023-05-09",
+    "actual_open": 170.70882753380215,
+    "predicted_open": 170.91627502441406,
+    "sentiment": 0.9132631578947369
+  },
+  {
+    "date": "2023-05-10",
+    "actual_open": 171.52771685234399,
+    "predicted_open": 171.20628356933594,
+    "sentiment": 0.5593157894736842
+  },
+  {
+    "date": "2023-05-11",
+    "actual_open": 171.5377460938216,
+    "predicted_open": 171.61502075195312,
+    "sentiment": 0.47300000000000003
+  },
+  {
+    "date": "2023-05-12",
+    "actual_open": 171.0832561601379,
+    "predicted_open": 171.62008666992188,
+    "sentiment": 0.3801875
+  },
+  {
+    "date": "2023-05-15",
+    "actual_open": 169.92729004665156,
+    "predicted_open": 170.05685424804688,
+    "sentiment": 0.6574285714285715
+  },
+  {
+    "date": "2023-05-16",
+    "actual_open": 169.65065404284252,
+    "predicted_open": 169.49444580078125,
+    "sentiment": 0.3617142857142857
+  },
+  {
+    "date": "2023-05-17",
+    "actual_open": 170.92519018134206,
+    "predicted_open": 170.92234802246094,
+    "sentiment": 0.5568333333333333
+  },
+  {
+    "date": "2023-05-18",
+    "actual_open": 174.27452457823847,
+    "predicted_open": 173.38882446289062,
+    "sentiment": 0.5307826086956522
+  },
+  {
+    "date": "2023-05-19",
+    "actual_open": 171.8934465890232,
+    "predicted_open": 171.6140594482422,
+    "sentiment": 0.44911999999999996
+  },
+  {
+    "date": "2023-05-22",
+    "actual_open": 171.05360389467134,
+    "predicted_open": 171.0998077392578,
+    "sentiment": 0.4116153846153846
+  },
+  {
+    "date": "2023-05-23",
+    "actual_open": 169.03806296692736,
+    "predicted_open": 169.18128967285156,
+    "sentiment": 0.4025
+  },
+  {
+    "date": "2023-05-24",
+    "actual_open": 170.3422679275043,
+    "predicted_open": 170.31578063964844,
+    "sentiment": 0.95375
+  },
+  {
+    "date": "2023-05-25",
+    "actual_open": 171.24132441358356,
+    "predicted_open": 170.7715606689453,
+    "sentiment": 0.8472857142857143
+  },
+  {
+    "date": "2023-05-26",
+    "actual_open": 174.83771102645838,
+    "predicted_open": 174.6192169189453,
+    "sentiment": 0.948
+  },
+  {
+    "date": "2023-05-30",
+    "actual_open": 175.20323363094815,
+    "predicted_open": 175.32904052734375,
+    "sentiment": 0.9074
+  },
+  {
+    "date": "2023-05-31",
+    "actual_open": 175.56880955803746,
+    "predicted_open": 175.52743530273438,
+    "sentiment": 0.7521739130434782
+  },
+  {
+    "date": "2023-06-01",
+    "actual_open": 178.8588580217184,
+    "predicted_open": 178.95079040527344,
+    "sentiment": 0.4807058823529412
+  },
+  {
+    "date": "2023-06-02",
+    "actual_open": 180.43969339813148,
+    "predicted_open": 180.06158447265625,
+    "sentiment": 0.5531086956521739
+  },
+  {
+    "date": "2023-06-05",
+    "actual_open": 177.81159450251565,
+    "predicted_open": 178.5497283935547,
+    "sentiment": 0.5646629213483146
+  },
+  {
+    "date": "2023-06-06",
+    "actual_open": 176.2999526387169,
+    "predicted_open": 176.2147216796875,
+    "sentiment": 0.4192784810126582
+  },
+  {
+    "date": "2023-06-07",
+    "actual_open": 175.76642717021195,
+    "predicted_open": 176.1940155029297,
+    "sentiment": 0.7053928571428572
+  },
+  {
+    "date": "2023-06-08",
+    "actual_open": 179.3232356709596,
+    "predicted_open": 179.084228515625,
+    "sentiment": 0.583875
+  },
+  {
+    "date": "2023-06-09",
+    "actual_open": 179.09600328256303,
+    "predicted_open": 179.24061584472656,
+    "sentiment": 0.35968421052631583
+  },
+  {
+    "date": "2023-06-12",
+    "actual_open": 180.6076484418825,
+    "predicted_open": 180.64041137695312,
+    "sentiment": 0.621
+  },
+  {
+    "date": "2023-06-13",
+    "actual_open": 181.17078973520816,
+    "predicted_open": 180.96841430664062,
+    "sentiment": 0.6292500000000001
+  },
+  {
+    "date": "2023-06-14",
+    "actual_open": 181.7537423543279,
+    "predicted_open": 181.77328491210938,
+    "sentiment": 0.7590645161290323
+  },
+  {
+    "date": "2023-06-15",
+    "actual_open": 184.49051471623886,
+    "predicted_open": 184.27110290527344,
+    "sentiment": 0.7667333333333333
+  },
+  {
+    "date": "2023-06-16",
+    "actual_open": 182.19834264439277,
+    "predicted_open": 182.96347045898438,
+    "sentiment": 0.8469333333333334
+  },
+  {
+    "date": "2023-06-20",
+    "actual_open": 182.68243679920374,
+    "predicted_open": 182.56546020507812,
+    "sentiment": 0.8613684210526316
+  },
+  {
+    "date": "2023-06-21",
+    "actual_open": 181.53638158238215,
+    "predicted_open": 181.52427673339844,
+    "sentiment": 0.5341
+  },
+  {
+    "date": "2023-06-22",
+    "actual_open": 183.32467881492002,
+    "predicted_open": 182.66110229492188,
+    "sentiment": 0.7046363636363636
+  },
+  {
+    "date": "2023-06-23",
+    "actual_open": 184.5893075659166,
+    "predicted_open": 184.28887939453125,
+    "sentiment": 0.61125
+  },
+  {
+    "date": "2023-06-26",
+    "actual_open": 183.6606074612621,
+    "predicted_open": 183.2663116455078,
+    "sentiment": 0.4406
+  },
+  {
+    "date": "2023-06-27",
+    "actual_open": 185.67609428855022,
+    "predicted_open": 185.55467224121094,
+    "sentiment": 0.11786666666666669
+  },
+  {
+    "date": "2023-06-28",
+    "actual_open": 186.81231462111722,
+    "predicted_open": 186.603759765625,
+    "sentiment": 0.47948
+  },
+  {
+    "date": "2023-06-29",
+    "actual_open": 189.33175958026345,
+    "predicted_open": 188.92819213867188,
+    "sentiment": 0.3186
+  },
+  {
+    "date": "2023-06-30",
+    "actual_open": 191.45598629070506,
+    "predicted_open": 190.88592529296875,
+    "sentiment": 0.5037704918032787
+  },
+  {
+    "date": "2023-07-03",
+    "actual_open": 189.2724969662243,
+    "predicted_open": 190.0925750732422,
+    "sentiment": 0.6700344827586208
+  },
+  {
+    "date": "2023-07-05",
+    "actual_open": 187.56322301313529,
+    "predicted_open": 187.60723876953125,
+    "sentiment": 0.6044090909090909
+  },
+  {
+    "date": "2023-07-06",
+    "actual_open": 189.11438325252212,
+    "predicted_open": 188.93502807617188,
+    "sentiment": 0.5652499999999999
+  },
+  {
+    "date": "2023-07-07",
+    "actual_open": 186.9901444981463,
+    "predicted_open": 187.2458953857422,
+    "sentiment": 0.6327368421052632
+  },
+  {
+    "date": "2023-07-10",
+    "actual_open": 186.89135939582033,
+    "predicted_open": 187.4539337158203,
+    "sentiment": 0.4885263157894737
+  },
+  {
+    "date": "2023-07-11",
+    "actual_open": 187.40510175376477,
+    "predicted_open": 187.37010192871094,
+    "sentiment": 0.7312857142857142
+  },
+  {
+    "date": "2023-07-12",
+    "actual_open": 188.21529288043007,
+    "predicted_open": 188.4144287109375,
+    "sentiment": 0.5782999999999999
+  },
+  {
+    "date": "2023-07-13",
+    "actual_open": 187.948525384943,
+    "predicted_open": 188.0150146484375,
+    "sentiment": 0.6919375
+  },
+  {
+    "date": "2023-07-14",
+    "actual_open": 189.598506397075,
+    "predicted_open": 189.6829833984375,
+    "sentiment": 0.7478888888888888
+  },
+  {
+    "date": "2023-07-17",
+    "actual_open": 191.0311380681889,
+    "predicted_open": 190.55747985839844,
+    "sentiment": 0.7420869565217392
+  },
+  {
+    "date": "2023-07-18",
+    "actual_open": 190.78413334726974,
+    "predicted_open": 191.02084350585938,
+    "sentiment": 0.5442352941176472
+  },
+  {
+    "date": "2023-07-19",
+    "actual_open": 192.7502360363635,
+    "predicted_open": 192.76023864746094,
+    "sentiment": 0.5855
+  },
+  {
+    "date": "2023-07-20",
+    "actual_open": 191.77211391982547,
+    "predicted_open": 191.4297332763672,
+    "sentiment": 0.7428333333333333
+  },
+  {
+    "date": "2023-07-21",
+    "actual_open": 191.09039681521514,
+    "predicted_open": 191.1551513671875,
+    "sentiment": 0.7008235294117647
+  },
+  {
+    "date": "2023-07-24",
+    "actual_open": 191.01136672601527,
+    "predicted_open": 191.14349365234375,
+    "sentiment": 0.42554545454545456
+  },
+  {
+    "date": "2023-07-25",
+    "actual_open": 191.34728040522955,
+    "predicted_open": 191.48573303222656,
+    "sentiment": 0.5307619047619048
+  },
+  {
+    "date": "2023-07-26",
+    "actual_open": 193.66908608151945,
+    "predicted_open": 193.208740234375,
+    "sentiment": 0.5781904761904761
+  },
+  {
+    "date": "2023-07-27",
+    "actual_open": 192.33527753863382,
+    "predicted_open": 192.4840850830078,
+    "sentiment": 0.7310588235294118
+  },
+  {
+    "date": "2023-07-28",
+    "actual_open": 193.70862628447964,
+    "predicted_open": 193.65725708007812,
+    "sentiment": 0.6715357142857143
+  },
+  {
+    "date": "2023-07-31",
+    "actual_open": 193.88645666636083,
+    "predicted_open": 193.46971130371094,
+    "sentiment": 0.6877222222222222
+  },
+  {
+    "date": "2023-08-01",
+    "actual_open": 192.70084355962268,
+    "predicted_open": 192.74002075195312,
+    "sentiment": 0.7398823529411764
+  },
+  {
+    "date": "2023-08-02",
+    "actual_open": 189.27245477585868,
+    "predicted_open": 189.3372039794922,
+    "sentiment": 0.7197777777777777
+  },
+  {
+    "date": "2023-08-03",
+    "actual_open": 183.29500493096032,
+    "predicted_open": 183.49844360351562,
+    "sentiment": 0.46195454545454545
+  },
+  {
+    "date": "2023-08-04",
+    "actual_open": 179.94567809387448,
+    "predicted_open": 180.64891052246094,
+    "sentiment": 0.5843181818181818
+  },
+  {
+    "date": "2023-08-07",
+    "actual_open": 177.5349343777014,
+    "predicted_open": 177.79811096191406,
+    "sentiment": 0.5842499999999999
+  },
+  {
+    "date": "2023-08-08",
+    "actual_open": 178.70078370635215,
+    "predicted_open": 178.1312255859375,
+    "sentiment": 0.6918571428571428
+  },
+  {
+    "date": "2023-08-09",
+    "actual_open": 177.32744074056737,
+    "predicted_open": 177.66470336914062,
+    "sentiment": 0.4126060606060606
+  },
+  {
+    "date": "2023-08-10",
+    "actual_open": 175.4299516016464,
+    "predicted_open": 175.486083984375,
+    "sentiment": 0.8414285714285714
+  },
+  {
+    "date": "2023-08-11",
+    "actual_open": 176.07301094207762,
+    "predicted_open": 175.91317749023438,
+    "sentiment": 0.6252857142857143
+  },
+  {
+    "date": "2023-08-14",
+    "actual_open": 176.97334414092546,
+    "predicted_open": 176.97740173339844,
+    "sentiment": 0.4346666666666667
+  },
+  {
+    "date": "2023-08-15",
+    "actual_open": 175.24197103328896,
+    "predicted_open": 175.8919219970703,
+    "sentiment": 0.5471999999999999
+  },
+  {
+    "date": "2023-08-16",
+    "actual_open": 175.25187020963352,
+    "predicted_open": 175.521240234375,
+    "sentiment": 0.7360714285714286
+  },
+  {
+    "date": "2023-08-17",
+    "actual_open": 170.46348268413263,
+    "predicted_open": 171.03152465820312,
+    "sentiment": 0.40857894736842104
+  },
+  {
+    "date": "2023-08-18",
+    "actual_open": 173.2039318191006,
+    "predicted_open": 173.04498291015625,
+    "sentiment": 0.7935714285714285
+  },
+  {
+    "date": "2023-08-21",
+    "actual_open": 175.17272569654475,
+    "predicted_open": 174.89674377441406,
+    "sentiment": 0.6097619047619047
+  },
+  {
+    "date": "2023-08-22",
+    "actual_open": 176.61717535249278,
+    "predicted_open": 176.2537384033203,
+    "sentiment": 0.66045
+  },
+  {
+    "date": "2023-08-23",
+    "actual_open": 178.74423570753817,
+    "predicted_open": 178.37669372558594,
+    "sentiment": 0.6695555555555556
+  },
+  {
+    "date": "2023-08-24",
+    "actual_open": 175.4893068451812,
+    "predicted_open": 175.6849822998047,
+    "sentiment": 0.62812
+  },
+  {
+    "date": "2023-08-25",
+    "actual_open": 178.17042326142217,
+    "predicted_open": 177.85015869140625,
+    "sentiment": 0.5475
+  },
+  {
+    "date": "2023-08-28",
+    "actual_open": 177.78454036240825,
+    "predicted_open": 178.01010131835938,
+    "sentiment": 0.5558095238095239
+  },
+  {
+    "date": "2023-08-29",
+    "actual_open": 182.9687204884091,
+    "predicted_open": 182.1404571533203,
+    "sentiment": 0.6401666666666667
+  },
+  {
+    "date": "2023-08-30",
+    "actual_open": 185.83782890921285,
+    "predicted_open": 185.6557159423828,
+    "sentiment": 0.5852307692307692
+  },
+  {
+    "date": "2023-08-31",
+    "actual_open": 187.4702460412081,
+    "predicted_open": 187.1506805419922,
+    "sentiment": 0.6573913043478261
+  },
+  {
+    "date": "2023-09-01",
+    "actual_open": 186.27311615331163,
+    "predicted_open": 186.21646118164062,
+    "sentiment": 0.8534090909090909
+  },
+  {
+    "date": "2023-09-05",
+    "actual_open": 186.3918455631262,
+    "predicted_open": 186.32684326171875,
+    "sentiment": 0.535695652173913
+  },
+  {
+    "date": "2023-09-06",
+    "actual_open": 173.312752460059,
+    "predicted_open": 173.78924560546875,
+    "sentiment": 0.2266078431372549
+  },
+  {
+    "date": "2023-09-07",
+    "actual_open": 176.4489935101174,
+    "predicted_open": 176.41006469726562,
+    "sentiment": 0.08146268656716417
+  },
+  {
+    "date": "2023-09-08",
+    "actual_open": 178.15065045906456,
+    "predicted_open": 177.8231964111328,
+    "sentiment": 0.2538913043478261
+  },
+  {
+    "date": "2023-09-11",
+    "actual_open": 177.57680682896927,
+    "predicted_open": 177.33309936523438,
+    "sentiment": 0.5500547945205478
+  },
+  {
+    "date": "2023-09-12",
+    "actual_open": 174.6285913393108,
+    "predicted_open": 174.51719665527344,
+    "sentiment": 0.4494235294117647
+  },
+  {
+    "date": "2023-09-13",
+    "actual_open": 172.14534712441645,
+    "predicted_open": 172.2407684326172,
+    "sentiment": 0.4978805970149253
+  },
+  {
+    "date": "2023-09-14",
+    "actual_open": 174.59889423512476,
+    "predicted_open": 174.29031372070312,
+    "sentiment": 0.5179148936170213
+  },
+  {
+    "date": "2023-09-15",
+    "actual_open": 174.59888982853914,
+    "predicted_open": 174.46563720703125,
+    "sentiment": 0.3681351351351351
+  },
+  {
+    "date": "2023-09-18",
+    "actual_open": 175.62781908525017,
+    "predicted_open": 175.38670349121094,
+    "sentiment": 0.614975
+  },
+  {
+    "date": "2023-09-19",
+    "actual_open": 177.3492658362857,
+    "predicted_open": 176.8909912109375,
+    "sentiment": 0.6001071428571428
+  },
+  {
+    "date": "2023-09-20",
+    "actual_open": 172.68949734734272,
+    "predicted_open": 173.0252227783203,
+    "sentiment": 0.5478611111111111
+  },
+  {
+    "date": "2023-09-21",
+    "actual_open": 172.80817906033587,
+    "predicted_open": 172.79229736328125,
+    "sentiment": 0.5885333333333332
+  },
+  {
+    "date": "2023-09-22",
+    "actual_open": 172.3432048049037,
+    "predicted_open": 172.43824768066406,
+    "sentiment": 0.4919302325581395
+  },
+  {
+    "date": "2023-09-25",
+    "actual_open": 172.95660640862047,
+    "predicted_open": 172.88815307617188,
+    "sentiment": 0.483695652173913
+  },
+  {
+    "date": "2023-09-26",
+    "actual_open": 170.78004737841366,
+    "predicted_open": 171.08204650878906,
+    "sentiment": 0.20173684210526316
+  },
+  {
+    "date": "2023-09-27",
+    "actual_open": 167.53503459138946,
+    "predicted_open": 168.1531524658203,
+    "sentiment": 0.7011176470588235
+  },
+  {
+    "date": "2023-09-28",
+    "actual_open": 170.18643455541363,
+    "predicted_open": 169.3604736328125,
+    "sentiment": 0.4464878048780488
+  },
+  {
+    "date": "2023-09-29",
+    "actual_open": 169.39494849088058,
+    "predicted_open": 169.40269470214844,
+    "sentiment": 0.4500344827586207
+  },
+  {
+    "date": "2023-10-02",
+    "actual_open": 170.4238555507343,
+    "predicted_open": 170.05429077148438,
+    "sentiment": 0.42922727272727274
+  },
+  {
+    "date": "2023-10-03",
+    "actual_open": 169.26636140324675,
+    "predicted_open": 169.6751251220703,
+    "sentiment": 0.5007083333333333
+  },
+  {
+    "date": "2023-10-04",
+    "actual_open": 171.93758200671277,
+    "predicted_open": 171.89952087402344,
+    "sentiment": 0.4498666666666667
+  },
+  {
+    "date": "2023-10-05",
+    "actual_open": 171.947458780219,
+    "predicted_open": 171.7201385498047,
+    "sentiment": 0.47642307692307695
+  },
+  {
+    "date": "2023-10-06",
+    "actual_open": 174.925397135301,
+    "predicted_open": 174.0964813232422,
+    "sentiment": 0.4330833333333333
+  },
+  {
+    "date": "2023-10-09",
+    "actual_open": 176.20165363527434,
+    "predicted_open": 176.12527465820312,
+    "sentiment": 0.5241739130434783
+  },
+  {
+    "date": "2023-10-10",
+    "actual_open": 176.300562769531,
+    "predicted_open": 176.24575805664062,
+    "sentiment": 0.6616666666666666
+  },
+  {
+    "date": "2023-10-11",
+    "actual_open": 178.1506510638416,
+    "predicted_open": 178.08274841308594,
+    "sentiment": 0.6851739130434783
+  },
+  {
+    "date": "2023-10-12",
+    "actual_open": 179.48624788964275,
+    "predicted_open": 179.45068359375,
+    "sentiment": 0.4633076923076923
+  },
+  {
+    "date": "2023-10-13",
+    "actual_open": 174.86602989056055,
+    "predicted_open": 175.3838653564453,
+    "sentiment": 0.47873913043478256
+  },
+  {
+    "date": "2023-10-16",
+    "actual_open": 174.7670787756051,
+    "predicted_open": 174.66845703125,
+    "sentiment": 0.554
+  },
+  {
+    "date": "2023-10-17",
+    "actual_open": 173.70849028197048,
+    "predicted_open": 173.98220825195312,
+    "sentiment": 0.5226111111111111
+  },
+  {
+    "date": "2023-10-18",
+    "actual_open": 174.16358722416024,
+    "predicted_open": 174.1360321044922,
+    "sentiment": 0.6493333333333333
+  },
+  {
+    "date": "2023-10-19",
+    "actual_open": 173.44138408316581,
+    "predicted_open": 173.4014434814453,
+    "sentiment": 0.5484615384615384
+  },
+  {
+    "date": "2023-10-20",
+    "actual_open": 169.08828663709707,
+    "predicted_open": 169.71734619140625,
+    "sentiment": 0.6139130434782609
+  },
+  {
+    "date": "2023-10-23",
+    "actual_open": 171.20546620053886,
+    "predicted_open": 171.01995849609375,
+    "sentiment": 0.33132352941176474
+  },
+  {
+    "date": "2023-10-24",
+    "actual_open": 170.04791453369674,
+    "predicted_open": 170.320556640625,
+    "sentiment": 0.6665454545454546
+  },
+  {
+    "date": "2023-10-25",
+    "actual_open": 168.55401686361284,
+    "predicted_open": 168.70672607421875,
+    "sentiment": 0.522
+  },
+  {
+    "date": "2023-10-26",
+    "actual_open": 165.13092178908886,
+    "predicted_open": 165.59237670898438,
+    "sentiment": 0.35000000000000003
+  },
+  {
+    "date": "2023-10-27",
+    "actual_open": 167.21841659954197,
+    "predicted_open": 166.60568237304688,
+    "sentiment": 0.37565625
+  },
+  {
+    "date": "2023-10-30",
+    "actual_open": 167.54492077929578,
+    "predicted_open": 167.563720703125,
+    "sentiment": 0.5724897959183674
+  },
+  {
+    "date": "2023-10-31",
+    "actual_open": 169.1773025316942,
+    "predicted_open": 168.90760803222656,
+    "sentiment": 0.532219512195122
+  },
+  {
+    "date": "2023-11-01",
+    "actual_open": 173.64912468069178,
+    "predicted_open": 172.98228454589844,
+    "sentiment": 0.558027027027027
+  },
+  {
+    "date": "2023-11-02",
+    "actual_open": 172.38275929327585,
+    "predicted_open": 172.43882751464844,
+    "sentiment": 0.4582352941176471
+  },
+  {
+    "date": "2023-11-03",
+    "actual_open": 174.49996733550321,
+    "predicted_open": 174.09288024902344,
+    "sentiment": 0.4190923076923077
+  },
+  {
+    "date": "2023-11-06",
+    "actual_open": 177.27012882075113,
+    "predicted_open": 176.5342254638672,
+    "sentiment": 0.4938620689655172
+  },
+  {
+    "date": "2023-11-07",
+    "actual_open": 180.40632954214095,
+    "predicted_open": 179.89016723632812,
+    "sentiment": 0.4519583333333333
+  },
+  {
+    "date": "2023-11-08",
+    "actual_open": 181.00983881988668,
+    "predicted_open": 180.61392211914062,
+    "sentiment": 0.41386666666666666
+  },
+  {
+    "date": "2023-11-09",
+    "actual_open": 182.24886906112522,
+    "predicted_open": 182.42926025390625,
+    "sentiment": 0.4811714285714286
+  },
+  {
+    "date": "2023-11-10",
+    "actual_open": 184.0815522328342,
+    "predicted_open": 183.910400390625,
+    "sentiment": 0.5565714285714286
+  },
+  {
+    "date": "2023-11-13",
+    "actual_open": 185.94396348691,
+    "predicted_open": 185.52471923828125,
+    "sentiment": 0.5723461538461538
+  },
+  {
+    "date": "2023-11-14",
+    "actual_open": 186.09254599086609,
+    "predicted_open": 185.7924041748047,
+    "sentiment": 0.6526666666666666
+  },
+  {
+    "date": "2023-11-15",
+    "actual_open": 187.79646053927942,
+    "predicted_open": 187.12136840820312,
+    "sentiment": 0.7576551724137931
+  },
+  {
+    "date": "2023-11-16",
+    "actual_open": 188.47011800403556,
+    "predicted_open": 188.78402709960938,
+    "sentiment": 0.7326153846153846
+  },
+  {
+    "date": "2023-11-17",
+    "actual_open": 188.11345647352806,
+    "predicted_open": 188.44351196289062,
+    "sentiment": 0.5721333333333334
+  },
+  {
+    "date": "2023-11-20",
+    "actual_open": 189.61926104331656,
+    "predicted_open": 189.50811767578125,
+    "sentiment": 0.13073684210526315
+  },
+  {
+    "date": "2023-11-21",
+    "actual_open": 189.69852651247717,
+    "predicted_open": 189.86582946777344,
+    "sentiment": 0.436
+  },
+  {
+    "date": "2023-11-22",
+    "actual_open": 189.08429242242372,
+    "predicted_open": 189.2261962890625,
+    "sentiment": 0.5859375
+  },
+  {
+    "date": "2023-11-24",
+    "actual_open": 188.1431623745596,
+    "predicted_open": 188.24559020996094,
+    "sentiment": 0.6563846153846153
+  },
+  {
+    "date": "2023-11-27",
+    "actual_open": 188.0044881862593,
+    "predicted_open": 187.8130340576172,
+    "sentiment": 0.7044482758620689
+  },
+  {
+    "date": "2023-11-28",
+    "actual_open": 189.1140277612682,
+    "predicted_open": 189.07492065429688,
+    "sentiment": 0.69144
+  },
+  {
+    "date": "2023-11-29",
+    "actual_open": 188.06392585220516,
+    "predicted_open": 188.03341674804688,
+    "sentiment": 0.4298
+  },
+  {
+    "date": "2023-11-30",
+    "actual_open": 188.54936135651158,
+    "predicted_open": 188.36734008789062,
+    "sentiment": 0.7993846153846154
+  },
+  {
+    "date": "2023-12-01",
+    "actual_open": 188.20260275786183,
+    "predicted_open": 188.47508239746094,
+    "sentiment": 0.4282727272727273
+  },
+  {
+    "date": "2023-12-04",
+    "actual_open": 188.43049797744138,
+    "predicted_open": 188.4665985107422,
+    "sentiment": 0.5767619047619048
+  },
+  {
+    "date": "2023-12-05",
+    "actual_open": 192.6308143978356,
+    "predicted_open": 192.39230346679688,
+    "sentiment": 0.5085833333333333
+  },
+  {
+    "date": "2023-12-06",
+    "actual_open": 191.8184723448333,
+    "predicted_open": 191.8511962890625,
+    "sentiment": 0.49909756097560976
+  },
+  {
+    "date": "2023-12-07",
+    "actual_open": 192.38314555463674,
+    "predicted_open": 192.36427307128906,
+    "sentiment": 0.5487714285714286
+  },
+  {
+    "date": "2023-12-08",
+    "actual_open": 191.30332816215127,
+    "predicted_open": 191.15086364746094,
+    "sentiment": 0.44375555555555557
+  },
+  {
+    "date": "2023-12-11",
+    "actual_open": 191.27361158280868,
+    "predicted_open": 191.3106231689453,
+    "sentiment": 0.3999333333333333
+  },
+  {
+    "date": "2023-12-12",
+    "actual_open": 193.26481149731427,
+    "predicted_open": 193.12161254882812,
+    "sentiment": 0.48796875
+  },
+  {
+    "date": "2023-12-13",
+    "actual_open": 196.16742216364264,
+    "predicted_open": 196.22984313964844,
+    "sentiment": 0.376
+  },
+  {
+    "date": "2023-12-14",
+    "actual_open": 195.68199966761293,
+    "predicted_open": 196.14181518554688,
+    "sentiment": 0.7377647058823529
+  },
+  {
+    "date": "2023-12-15",
+    "actual_open": 194.25545312358386,
+    "predicted_open": 194.4962158203125,
+    "sentiment": 0.5969565217391305
+  },
+  {
+    "date": "2023-12-18",
+    "actual_open": 194.32481746504553,
+    "predicted_open": 194.18907165527344,
+    "sentiment": 0.18093103448275863
+  },
+  {
+    "date": "2023-12-19",
+    "actual_open": 195.05787394759355,
+    "predicted_open": 195.08847045898438,
+    "sentiment": 0.5194594594594595
+  },
+  {
+    "date": "2023-12-20",
+    "actual_open": 194.26538628403978,
+    "predicted_open": 194.26441955566406,
+    "sentiment": 0.33238888888888884
+  },
+  {
+    "date": "2023-12-21",
+    "actual_open": 193.35399290351117,
+    "predicted_open": 193.30909729003906,
+    "sentiment": 0.4211666666666667
+  },
+  {
+    "date": "2023-12-22",
+    "actual_open": 191.79863960367106,
+    "predicted_open": 191.73370361328125,
+    "sentiment": 0.532
+  },
+  {
+    "date": "2023-12-26",
+    "actual_open": 190.68915794498034,
+    "predicted_open": 190.6870880126953,
+    "sentiment": 0.19690625
+  },
+  {
+    "date": "2023-12-27",
+    "actual_open": 192.32369457775746,
+    "predicted_open": 192.23895263671875,
+    "sentiment": 0.11059523809523808
+  },
+  {
+    "date": "2023-12-28",
+    "actual_open": 192.08593771837442,
+    "predicted_open": 192.0587158203125,
+    "sentiment": 0.4136944444444445
+  },
+  {
+    "date": "2023-12-29",
+    "actual_open": 185.39909638597572,
+    "predicted_open": 186.06980895996094,
+    "sentiment": 0.7047500000000001
+  },
+  {
+    "date": "2024-01-02",
+    "actual_open": 182.49651173581816,
+    "predicted_open": 182.51199340820312,
+    "sentiment": 0.28654545454545455
+  },
+  {
+    "date": "2024-01-03",
+    "actual_open": 180.4458595901839,
+    "predicted_open": 180.34173583984375,
+    "sentiment": 0.5222307692307693
+  },
+  {
+    "date": "2024-01-04",
+    "actual_open": 180.28738953880892,
+    "predicted_open": 180.233154296875,
+    "sentiment": 0.32385714285714284
+  },
+  {
+    "date": "2024-01-05",
+    "actual_open": 180.38645226507356,
+    "predicted_open": 180.94374084472656,
+    "sentiment": 0.5073636363636363
+  },
+  {
+    "date": "2024-01-08",
+    "actual_open": 182.19932576748687,
+    "predicted_open": 182.0546112060547,
+    "sentiment": 0.56615625
+  },
+  {
+    "date": "2024-01-09",
+    "actual_open": 182.6253074687535,
+    "predicted_open": 182.73448181152344,
+    "sentiment": 0.624125
+  },
+  {
+    "date": "2024-01-10",
+    "actual_open": 184.7947925921475,
+    "predicted_open": 184.60910034179688,
+    "sentiment": 0.6731111111111111
+  },
+  {
+    "date": "2024-01-11",
+    "actual_open": 184.31930790747037,
+    "predicted_open": 184.72091674804688,
+    "sentiment": 0.6118620689655172
+  },
+  {
+    "date": "2024-01-12",
+    "actual_open": 180.45578462721193,
+    "predicted_open": 180.86390686035156,
+    "sentiment": 0.5089
+  },
+  {
+    "date": "2024-01-16",
+    "actual_open": 179.57411959355028,
+    "predicted_open": 179.8252716064453,
+    "sentiment": 0.4194782608695652
+  },
+  {
+    "date": "2024-01-17",
+    "actual_open": 184.34900450558874,
+    "predicted_open": 183.71632385253906,
+    "sentiment": 0.4493617021276596
+  },
+  {
+    "date": "2024-01-18",
+    "actual_open": 187.5587198414397,
+    "predicted_open": 187.43179321289062,
+    "sentiment": 0.5563181818181818
+  },
+  {
+    "date": "2024-01-19",
+    "actual_open": 190.5009136397872,
+    "predicted_open": 190.23890686035156,
+    "sentiment": 0.5963571428571429
+  },
+  {
+    "date": "2024-01-22",
+    "actual_open": 193.19546652112328,
+    "predicted_open": 193.02102661132812,
+    "sentiment": 0.5872380952380952
+  },
+  {
+    "date": "2024-01-23",
+    "actual_open": 193.59171936806808,
+    "predicted_open": 193.76939392089844,
+    "sentiment": 0.46116666666666667
+  },
+  {
+    "date": "2024-01-24",
+    "actual_open": 193.39360373027958,
+    "predicted_open": 193.47117614746094,
+    "sentiment": 0.7748999999999999
+  },
+  {
+    "date": "2024-01-25",
+    "actual_open": 192.45249496932922,
+    "predicted_open": 192.62600708007812,
+    "sentiment": 0.5701794871794872
+  },
+  {
+    "date": "2024-01-26",
+    "actual_open": 190.21364328629937,
+    "predicted_open": 190.34793090820312,
+    "sentiment": 0.66328125
+  },
+  {
+    "date": "2024-01-29",
+    "actual_open": 189.1536549714469,
+    "predicted_open": 189.7777862548828,
+    "sentiment": 0.7450714285714285
+  },
+  {
+    "date": "2024-01-30",
+    "actual_open": 185.29010506082795,
+    "predicted_open": 185.55029296875,
+    "sentiment": 0.6545185185185185
+  },
+  {
+    "date": "2024-01-31",
+    "actual_open": 182.26867176596141,
+    "predicted_open": 183.48663330078125,
+    "sentiment": 0.6869375
+  },
+  {
+    "date": "2024-02-01",
+    "actual_open": 178.1773164815156,
+    "predicted_open": 179.0537109375,
+    "sentiment": 0.698864406779661
+  },
+  {
+    "date": "2024-02-02",
+    "actual_open": 186.38976797097564,
+    "predicted_open": 184.7669219970703,
+    "sentiment": 0.6313225806451613
+  },
+  {
+    "date": "2024-02-05",
+    "actual_open": 185.1118168962398,
+    "predicted_open": 184.9969024658203,
+    "sentiment": 0.6754
+  },
+  {
+    "date": "2024-02-06",
+    "actual_open": 188.85645841865113,
+    "predicted_open": 188.1182403564453,
+    "sentiment": 0.7394
+  },
+  {
+    "date": "2024-02-07",
+    "actual_open": 187.6181328392653,
+    "predicted_open": 187.7957305908203,
+    "sentiment": 0.521551724137931
+  },
+  {
+    "date": "2024-02-08",
+    "actual_open": 187.12352087688578,
+    "predicted_open": 187.11151123046875,
+    "sentiment": 0.77968
+  },
+  {
+    "date": "2024-02-09",
+    "actual_open": 186.8954092628083,
+    "predicted_open": 187.11053466796875,
+    "sentiment": 0.6074444444444445
+  },
+  {
+    "date": "2024-02-12",
+    "actual_open": 184.26684396147397,
+    "predicted_open": 184.41380310058594,
+    "sentiment": 0.8173333333333334
+  },
+  {
+    "date": "2024-02-13",
+    "actual_open": 183.8204888809099,
+    "predicted_open": 183.7949981689453,
+    "sentiment": 0.5988947368421053
+  },
+  {
+    "date": "2024-02-14",
+    "actual_open": 182.06480997798818,
+    "predicted_open": 182.3499755859375,
+    "sentiment": 0.5865555555555555
+  },
+  {
+    "date": "2024-02-15",
+    "actual_open": 181.93587327545112,
+    "predicted_open": 181.7808380126953,
+    "sentiment": 0.6608571428571428
+  },
+  {
+    "date": "2024-02-16",
+    "actual_open": 180.31903131312703,
+    "predicted_open": 180.56704711914062,
+    "sentiment": 0.7759047619047619
+  },
+  {
+    "date": "2024-02-20",
+    "actual_open": 180.4678422502364,
+    "predicted_open": 180.52752685546875,
+    "sentiment": 0.6298947368421053
+  },
+  {
+    "date": "2024-02-21",
+    "actual_open": 181.99537582737872,
+    "predicted_open": 181.94198608398438,
+    "sentiment": 0.585344827586207
+  },
+  {
+    "date": "2024-02-22",
+    "actual_open": 183.51297897874218,
+    "predicted_open": 183.33602905273438,
+    "sentiment": 0.6796
+  },
+  {
+    "date": "2024-02-23",
+    "actual_open": 180.7654158601022,
+    "predicted_open": 180.9293670654297,
+    "sentiment": 0.92625
+  },
+  {
+    "date": "2024-02-26",
+    "actual_open": 179.63461828889808,
+    "predicted_open": 180.21449279785156,
+    "sentiment": 0.74752
+  },
+  {
+    "date": "2024-02-27",
+    "actual_open": 181.03323362922586,
+    "predicted_open": 180.8722381591797,
+    "sentiment": 0.6107142857142857
+  },
+  {
+    "date": "2024-02-28",
+    "actual_open": 179.80327228471162,
+    "predicted_open": 179.8610076904297,
+    "sentiment": 0.7661666666666668
+  },
+  {
+    "date": "2024-02-29",
+    "actual_open": 178.09718827908785,
+    "predicted_open": 178.35093688964844,
+    "sentiment": 0.6933888888888888
+  },
+  {
+    "date": "2024-03-01",
+    "actual_open": 174.7246735635979,
+    "predicted_open": 174.83370971679688,
+    "sentiment": 0.7423684210526316
+  },
+  {
+    "date": "2024-03-04",
+    "actual_open": 169.37829007310003,
+    "predicted_open": 169.84027099609375,
+    "sentiment": 0.3472222222222222
+  },
+  {
+    "date": "2024-03-05",
+    "actual_open": 169.67587669286206,
+    "predicted_open": 169.4157257080078,
+    "sentiment": 0.6709285714285714
+  },
+  {
+    "date": "2024-03-06",
+    "actual_open": 167.78131806385875,
+    "predicted_open": 168.10630798339844,
+    "sentiment": 0.29460000000000003
+  },
+  {
+    "date": "2024-03-07",
+    "actual_open": 167.63254371875993,
+    "predicted_open": 167.8971710205078,
+    "sentiment": 0.5270526315789473
+  },
+  {
+    "date": "2024-03-08",
+    "actual_open": 171.540637865641,
+    "predicted_open": 171.3885040283203,
+    "sentiment": 0.4804117647058823
+  },
+  {
+    "date": "2024-03-11",
+    "actual_open": 171.7489536078961,
+    "predicted_open": 172.17706298828125,
+    "sentiment": 0.5344444444444444
+  },
+  {
+    "date": "2024-03-12",
+    "actual_open": 171.37204497358655,
+    "predicted_open": 171.3660125732422,
+    "sentiment": 0.369
+  },
+  {
+    "date": "2024-03-13",
+    "actual_open": 171.5109210667292,
+    "predicted_open": 171.509765625,
+    "sentiment": 0.58975
+  },
+  {
+    "date": "2024-03-14",
+    "actual_open": 169.78497182252738,
+    "predicted_open": 170.9178466796875,
+    "sentiment": 0.5987
+  },
+  {
+    "date": "2024-03-15",
+    "actual_open": 174.1493830977455,
+    "predicted_open": 173.39773559570312,
+    "sentiment": 0.3215882352941177
+  },
+  {
+    "date": "2024-03-18",
+    "actual_open": 172.92931675607417,
+    "predicted_open": 172.95660400390625,
+    "sentiment": 0.7855555555555556
+  },
+  {
+    "date": "2024-03-19",
+    "actual_open": 174.29816190798687,
+    "predicted_open": 174.24879455566406,
+    "sentiment": 0.6781666666666666
+  },
+  {
+    "date": "2024-03-20",
+    "actual_open": 175.61740074055217,
+    "predicted_open": 174.9497833251953,
+    "sentiment": 0.4866875
+  },
+  {
+    "date": "2024-03-21",
+    "actual_open": 170.3702201223851,
+    "predicted_open": 171.3571014404297,
+    "sentiment": 0.42828571428571427
+  },
+  {
+    "date": "2024-03-22",
+    "actual_open": 169.18985713490977,
+    "predicted_open": 169.28843688964844,
+    "sentiment": 0.5912727272727273
+  },
+  {
+    "date": "2024-03-25",
+    "actual_open": 168.6244540719099,
+    "predicted_open": 168.8266143798828,
+    "sentiment": 0.6112083333333334
+  },
+  {
+    "date": "2024-03-26",
+    "actual_open": 169.03114031499092,
+    "predicted_open": 169.06056213378906,
+    "sentiment": 0.8405263157894737
+  },
+  {
+    "date": "2024-03-27",
+    "actual_open": 170.36027251639132,
+    "predicted_open": 170.13157653808594,
+    "sentiment": 0.4094285714285714
+  },
+  {
+    "date": "2024-03-28",
+    "actual_open": 169.80482284392966,
+    "predicted_open": 169.43698120117188,
+    "sentiment": 0.672
+  },
+  {
+    "date": "2024-04-01",
+    "actual_open": 167.71190995116913,
+    "predicted_open": 167.82704162597656,
+    "sentiment": 0.6239166666666667
+  },
+  {
+    "date": "2024-04-02",
+    "actual_open": 167.4242255584593,
+    "predicted_open": 167.5149688720703,
+    "sentiment": 0.7042727272727273
+  },
+  {
+    "date": "2024-04-03",
+    "actual_open": 168.9120862737285,
+    "predicted_open": 168.39820861816406,
+    "sentiment": 0.39999999999999997
+  },
+  {
+    "date": "2024-04-04",
+    "actual_open": 168.21776886148135,
+    "predicted_open": 168.12110900878906,
+    "sentiment": 0.0009999999999999916
+  },
+  {
+    "date": "2024-04-05",
+    "actual_open": 167.6622991252661,
+    "predicted_open": 167.71128845214844,
+    "sentiment": 0.5119444444444444
+  },
+  {
+    "date": "2024-04-08",
+    "actual_open": 167.33495148030394,
+    "predicted_open": 167.28407287597656,
+    "sentiment": 0.596
+  },
+  {
+    "date": "2024-04-09",
+    "actual_open": 167.43417533006158,
+    "predicted_open": 167.15464782714844,
+    "sentiment": 0.5738571428571427
+  },
+  {
+    "date": "2024-04-10",
+    "actual_open": 166.97787330186227,
+    "predicted_open": 167.0294189453125,
+    "sentiment": 0.7347857142857144
+  },
+  {
+    "date": "2024-04-11",
+    "actual_open": 172.84995075238103,
+    "predicted_open": 172.45941162109375,
+    "sentiment": 0.236
+  },
+  {
+    "date": "2024-04-12",
+    "actual_open": 173.94107267383276,
+    "predicted_open": 174.21511840820312,
+    "sentiment": 0.5345833333333333
+  },
+  {
+    "date": "2024-04-15",
+    "actual_open": 170.36027866522625,
+    "predicted_open": 171.05654907226562,
+    "sentiment": 0.5655454545454546
+  },
+  {
+    "date": "2024-04-16",
+    "actual_open": 168.2375982616629,
+    "predicted_open": 168.5347442626953,
+    "sentiment": 0.628
+  },
+  {
+    "date": "2024-04-17",
+    "actual_open": 166.67037984876308,
+    "predicted_open": 167.18511962890625,
+    "sentiment": 0.6039
+  },
+  {
+    "date": "2024-04-18",
+    "actual_open": 164.8651023016311,
+    "predicted_open": 164.94305419921875,
+    "sentiment": 0.6206
+  },
+  {
+    "date": "2024-04-19",
+    "actual_open": 164.18068981978783,
+    "predicted_open": 164.1317138671875,
+    "sentiment": 0.653448275862069
+  },
+  {
+    "date": "2024-04-22",
+    "actual_open": 164.0120990106031,
+    "predicted_open": 163.84129333496094,
+    "sentiment": 0.6317857142857143
+  },
+  {
+    "date": "2024-04-23",
+    "actual_open": 165.19243035823263,
+    "predicted_open": 164.90760803222656,
+    "sentiment": 0.34704761904761905
+  },
+  {
+    "date": "2024-04-24",
+    "actual_open": 168.15824741627387,
+    "predicted_open": 167.5938720703125,
+    "sentiment": 0.7263333333333333
+  },
+  {
+    "date": "2024-04-25",
+    "actual_open": 168.50542350147623,
+    "predicted_open": 168.5869140625,
+    "sentiment": -0.01289473684210527
+  },
+  {
+    "date": "2024-04-26",
+    "actual_open": 171.9671774185786,
+    "predicted_open": 171.7880859375,
+    "sentiment": 0.513125
+  },
+  {
+    "date": "2024-04-29",
+    "actual_open": 171.92749229774822,
+    "predicted_open": 172.17835998535156,
+    "sentiment": 0.8110526315789474
+  },
+  {
+    "date": "2024-04-30",
+    "actual_open": 168.20784791968214,
+    "predicted_open": 168.25323486328125,
+    "sentiment": 0.6160869565217392
+  },
+  {
+    "date": "2024-05-01",
+    "actual_open": 171.11410149896784,
+    "predicted_open": 170.8915252685547,
+    "sentiment": 0.6653125
+  },
+  {
+    "date": "2024-05-02",
+    "actual_open": 185.13972451400554,
+    "predicted_open": 183.6569366455078,
+    "sentiment": 0.6872962962962963
+  },
+  {
+    "date": "2024-05-03",
+    "actual_open": 180.87450583987064,
+    "predicted_open": 181.82579040527344,
+    "sentiment": 0.5200357142857143
+  },
+  {
+    "date": "2024-05-06",
+    "actual_open": 181.96562507289974,
+    "predicted_open": 182.0304718017578,
+    "sentiment": 0.7183125
+  },
+  {
+    "date": "2024-05-07",
+    "actual_open": 181.3704630721318,
+    "predicted_open": 181.37831115722656,
+    "sentiment": 0.5561142857142857
+  },
+  {
+    "date": "2024-05-08",
+    "actual_open": 181.08280763590477,
+    "predicted_open": 181.08670043945312,
+    "sentiment": 0.6061818181818182
+  },
+  {
+    "date": "2024-05-09",
+    "actual_open": 183.65261967053823,
+    "predicted_open": 183.30044555664062,
+    "sentiment": 0.9093333333333333
+  },
+  {
+    "date": "2024-05-10",
+    "actual_open": 184.18900107058352,
+    "predicted_open": 183.87229919433594,
+    "sentiment": 0.52252
+  },
+  {
+    "date": "2024-05-13",
+    "actual_open": 186.24503525163803,
+    "predicted_open": 185.79257202148438,
+    "sentiment": 0.5724210526315789
+  },
+  {
+    "date": "2024-05-14",
+    "actual_open": 186.64235255391958,
+    "predicted_open": 186.5222930908203,
+    "sentiment": 0.7417307692307692
+  },
+  {
+    "date": "2024-05-15",
+    "actual_open": 189.1850657006259,
+    "predicted_open": 188.8656768798828,
+    "sentiment": 0.7638695652173912
+  },
+  {
+    "date": "2024-05-16",
+    "actual_open": 188.23153932133224,
+    "predicted_open": 188.1549530029297,
+    "sentiment": 0.7954210526315789
+  },
+  {
+    "date": "2024-05-17",
+    "actual_open": 188.052749878466,
+    "predicted_open": 188.39537048339844,
+    "sentiment": 0.7566363636363637
+  },
+  {
+    "date": "2024-05-20",
+    "actual_open": 189.80085871777243,
+    "predicted_open": 189.6926727294922,
+    "sentiment": 0.7651333333333333
+  },
+  {
+    "date": "2024-05-21",
+    "actual_open": 190.9729201671483,
+    "predicted_open": 190.81019592285156,
+    "sentiment": 0.6083181818181818
+  },
+  {
+    "date": "2024-05-22",
+    "actual_open": 189.69162509909052,
+    "predicted_open": 189.7205352783203,
+    "sentiment": 0.79025
+  },
+  {
+    "date": "2024-05-23",
+    "actual_open": 187.54618613194728,
+    "predicted_open": 187.60226440429688,
+    "sentiment": 0.6769047619047619
+  },
+  {
+    "date": "2024-05-24",
+    "actual_open": 190.21804799663707,
+    "predicted_open": 189.93431091308594,
+    "sentiment": 0.6453333333333333
+  },
+  {
+    "date": "2024-05-28",
+    "actual_open": 188.33086600869876,
+    "predicted_open": 188.4160614013672,
+    "sentiment": 0.83435
+  },
+  {
+    "date": "2024-05-29",
+    "actual_open": 189.4730884200293,
+    "predicted_open": 188.96005249023438,
+    "sentiment": 0.8170999999999999
+  },
+  {
+    "date": "2024-05-30",
+    "actual_open": 190.1485307236603,
+    "predicted_open": 190.12615966796875,
+    "sentiment": 0.45876190476190476
+  },
+  {
+    "date": "2024-05-31",
+    "actual_open": 191.5986723140291,
+    "predicted_open": 191.65602111816406,
+    "sentiment": 0.6712142857142858
+  },
+  {
+    "date": "2024-06-03",
+    "actual_open": 193.32693160548868,
+    "predicted_open": 192.8712921142578,
+    "sentiment": 0.6618888888888889
+  },
+  {
+    "date": "2024-06-04",
+    "actual_open": 194.08178400937402,
+    "predicted_open": 193.9361114501953,
+    "sentiment": 0.7945384615384616
+  },
+  {
+    "date": "2024-06-05",
+    "actual_open": 194.36984306207057,
+    "predicted_open": 194.23011779785156,
+    "sentiment": 0.9433888888888888
+  },
+  {
+    "date": "2024-06-06",
+    "actual_open": 193.33685821193552,
+    "predicted_open": 193.55145263671875,
+    "sentiment": 0.7058
+  },
+  {
+    "date": "2024-06-07",
+    "actual_open": 195.57168290202756,
+    "predicted_open": 195.58241271972656,
+    "sentiment": 0.6128181818181818
+  },
+  {
+    "date": "2024-06-10",
+    "actual_open": 192.34360572370616,
+    "predicted_open": 192.80807495117188,
+    "sentiment": 0.6327083333333333
+  },
+  {
+    "date": "2024-06-11",
+    "actual_open": 205.97105482418652,
+    "predicted_open": 204.52732849121094,
+    "sentiment": 0.7113142857142858
+  },
+  {
+    "date": "2024-06-12",
+    "actual_open": 213.29133517221976,
+    "predicted_open": 212.73190307617188,
+    "sentiment": 0.7535641025641026
+  },
+  {
+    "date": "2024-06-13",
+    "actual_open": 212.40734441299963,
+    "predicted_open": 213.10400390625,
+    "sentiment": 0.6874210526315789
+  },
+  {
+    "date": "2024-06-14",
+    "actual_open": 211.93058723086708,
+    "predicted_open": 212.18954467773438,
+    "sentiment": 0.6758823529411765
+  },
+  {
+    "date": "2024-06-17",
+    "actual_open": 216.1221165738588,
+    "predicted_open": 215.4687957763672,
+    "sentiment": 0.5682083333333333
+  },
+  {
+    "date": "2024-06-18",
+    "actual_open": 212.48680152632818,
+    "predicted_open": 213.299560546875,
+    "sentiment": 0.6338108108108108
+  },
+  {
+    "date": "2024-06-20",
+    "actual_open": 208.97070143703453,
+    "predicted_open": 209.08621215820312,
+    "sentiment": 0.823875
+  },
+  {
+    "date": "2024-06-21",
+    "actual_open": 206.3187055335118,
+    "predicted_open": 206.7241668701172,
+    "sentiment": 0.8318965517241379
+  },
+  {
+    "date": "2024-06-24",
+    "actual_open": 207.73903864641352,
+    "predicted_open": 207.85800170898438,
+    "sentiment": 0.50825
+  },
+  {
+    "date": "2024-06-25",
+    "actual_open": 210.07320698316605,
+    "predicted_open": 210.17144775390625,
+    "sentiment": 0.7363157894736843
+  },
+  {
+    "date": "2024-06-26",
+    "actual_open": 213.2416710401095,
+    "predicted_open": 212.86911010742188,
+    "sentiment": 0.6001176470588235
+  },
+  {
+    "date": "2024-06-27",
+    "actual_open": 214.31439376890182,
+    "predicted_open": 214.232421875,
+    "sentiment": 0.5833200000000001
+  },
+  {
+    "date": "2024-06-28",
+    "actual_open": 210.65921399467373,
+    "predicted_open": 210.79122924804688,
+    "sentiment": 0.5676315789473684
+  },
+  {
+    "date": "2024-07-01",
+    "actual_open": 214.69182595520752,
+    "predicted_open": 214.56668090820312,
+    "sentiment": 0.6446153846153847
+  },
+  {
+    "date": "2024-07-02",
+    "actual_open": 218.5158580863075,
+    "predicted_open": 218.5123291015625,
+    "sentiment": 0.5314444444444445
+  },
+  {
+    "date": "2024-07-03",
+    "actual_open": 220.15473164881905,
+    "predicted_open": 220.55892944335938,
+    "sentiment": 0.7046666666666667
+  },
+  {
+    "date": "2024-07-05",
+    "actual_open": 225.55802531049062,
+    "predicted_open": 224.5784149169922,
+    "sentiment": 0.6798
+  },
+  {
+    "date": "2024-07-08",
+    "actual_open": 226.39235814584333,
+    "predicted_open": 226.66354370117188,
+    "sentiment": 0.6157333333333334
+  },
+  {
+    "date": "2024-07-09",
+    "actual_open": 227.75312751683794,
+    "predicted_open": 227.42330932617188,
+    "sentiment": 0.862
+  },
+  {
+    "date": "2024-07-10",
+    "actual_open": 229.82901193417422,
+    "predicted_open": 229.4748077392578,
+    "sentiment": 0.7006
+  },
+  {
+    "date": "2024-07-11",
+    "actual_open": 227.37567478656334,
+    "predicted_open": 227.46083068847656,
+    "sentiment": 0.7343599999999999
+  },
+  {
+    "date": "2024-07-12",
+    "actual_open": 234.88468027763452,
+    "predicted_open": 234.78004455566406,
+    "sentiment": 0.5580526315789474
+  },
+  {
+    "date": "2024-07-15",
+    "actual_open": 233.4146487749432,
+    "predicted_open": 233.167236328125,
+    "sentiment": 0.772
+  },
+  {
+    "date": "2024-07-16",
+    "actual_open": 227.90209958898402,
+    "predicted_open": 228.0835723876953,
+    "sentiment": 0.729923076923077
+  },
+  {
+    "date": "2024-07-17",
+    "actual_open": 228.7265030667722,
+    "predicted_open": 228.85531616210938,
+    "sentiment": 0.7275909090909092
+  },
+  {
+    "date": "2024-07-18",
+    "actual_open": 223.30336793759506,
+    "predicted_open": 223.26748657226562,
+    "sentiment": 0.8220000000000001
+  },
+  {
+    "date": "2024-07-19",
+    "actual_open": 225.47857008869346,
+    "predicted_open": 225.57684326171875,
+    "sentiment": 0.9058235294117648
+  },
+  {
+    "date": "2024-07-22",
+    "actual_open": 222.8563682936816,
+    "predicted_open": 222.86679077148438,
+    "sentiment": 0.67
+  },
+  {
+    "date": "2024-07-23",
+    "actual_open": 222.48887740092556,
+    "predicted_open": 222.36471557617188,
+    "sentiment": 0.6910909090909091
+  },
+  {
+    "date": "2024-07-24",
+    "actual_open": 217.45305415919788,
+    "predicted_open": 217.79379272460938,
+    "sentiment": 0.797875
+  },
+  {
+    "date": "2024-07-25",
+    "actual_open": 217.22462220056258,
+    "predicted_open": 217.01429748535156,
+    "sentiment": 0.6067894736842105
+  },
+  {
+    "date": "2024-07-26",
+    "actual_open": 215.49638213713573,
+    "predicted_open": 215.36802673339844,
+    "sentiment": 0.5625789473684211
+  },
+  {
+    "date": "2024-07-29",
+    "actual_open": 217.71131248471113,
+    "predicted_open": 217.71109008789062,
+    "sentiment": 0.6736666666666666
+  },
+  {
+    "date": "2024-07-30",
+    "actual_open": 219.94613576688096,
+    "predicted_open": 219.9736328125,
+    "sentiment": 0.6875555555555555
+  },
+  {
+    "date": "2024-07-31",
+    "actual_open": 222.8563831356547,
+    "predicted_open": 222.75619506835938,
+    "sentiment": 0.9534
+  },
+  {
+    "date": "2024-08-01",
+    "actual_open": 217.6715683981697,
+    "predicted_open": 217.73709106445312,
+    "sentiment": 0.5683684210526315
+  },
+  {
+    "date": "2024-08-02",
+    "actual_open": 197.74691336614487,
+    "predicted_open": 198.2638702392578,
+    "sentiment": 0.5878518518518518
+  },
+  {
+    "date": "2024-08-05",
+    "actual_open": 203.91501287026546,
+    "predicted_open": 203.91632080078125,
+    "sentiment": 0.36372727272727273
+  },
+  {
+    "date": "2024-08-06",
+    "actual_open": 205.5042262843129,
+    "predicted_open": 205.35023498535156,
+    "sentiment": 0.52284375
+  },
+  {
+    "date": "2024-08-07",
+    "actual_open": 211.67233918968967,
+    "predicted_open": 211.56591796875,
+    "sentiment": 0.7102
+  },
+  {
+    "date": "2024-08-08",
+    "actual_open": 210.66917905420067,
+    "predicted_open": 210.6913604736328,
+    "sentiment": 0.45263636363636367
+  },
+  {
+    "date": "2024-08-09",
+    "actual_open": 214.86078610016068,
+    "predicted_open": 214.87818908691406,
+    "sentiment": 0.7211176470588235
+  },
+  {
+    "date": "2024-08-12",
+    "actual_open": 217.7843155173404,
+    "predicted_open": 217.82254028320312,
+    "sentiment": 0.8346363636363635
+  },
+  {
+    "date": "2024-08-13",
+    "actual_open": 219.33559848009435,
+    "predicted_open": 219.8188018798828,
+    "sentiment": 0.7811739130434782
+  },
+  {
+    "date": "2024-08-14",
+    "actual_open": 223.3430482530648,
+    "predicted_open": 223.19866943359375,
+    "sentiment": 0.7359333333333333
+  },
+  {
+    "date": "2024-08-15",
+    "actual_open": 222.66684293368954,
+    "predicted_open": 222.9077606201172,
+    "sentiment": 0.923
+  },
+  {
+    "date": "2024-08-16",
+    "actual_open": 224.45676193958974,
+    "predicted_open": 224.04324340820312,
+    "sentiment": 0.8994285714285715
+  },
+  {
+    "date": "2024-08-19",
+    "actual_open": 224.50649118022673,
+    "predicted_open": 224.4355926513672,
+    "sentiment": 0.6391176470588236
+  },
+  {
+    "date": "2024-08-20",
+    "actual_open": 225.25230383574092,
+    "predicted_open": 225.22804260253906,
+    "sentiment": 0.806875
+  },
+  {
+    "date": "2024-08-21",
+    "actual_open": 226.51517227009805,
+    "predicted_open": 226.5336456298828,
+    "sentiment": 0.6507222222222222
+  },
+  {
+    "date": "2024-08-22",
+    "actual_open": 224.39710671028325,
+    "predicted_open": 224.45846557617188,
+    "sentiment": 0.733
+  },
+  {
+    "date": "2024-08-23",
+    "actual_open": 225.49095216733542,
+    "predicted_open": 225.41635131835938,
+    "sentiment": 0.6806
+  },
+  {
+    "date": "2024-08-26",
+    "actual_open": 224.73520717839608,
+    "predicted_open": 224.79209899902344,
+    "sentiment": 0.7600714285714286
+  },
+  {
+    "date": "2024-08-27",
+    "actual_open": 226.64446298605537,
+    "predicted_open": 226.79385375976562,
+    "sentiment": 0.624764705882353
+  },
+  {
+    "date": "2024-08-28",
+    "actual_open": 228.8122756660522,
+    "predicted_open": 228.8095245361328,
+    "sentiment": 0.6826666666666666
+  },
+  {
+    "date": "2024-08-29",
+    "actual_open": 228.90175696593346,
+    "predicted_open": 228.87338256835938,
+    "sentiment": 0.6439285714285715
+  },
+  {
+    "date": "2024-08-30",
+    "actual_open": 227.2709519194148,
+    "predicted_open": 227.32643127441406,
+    "sentiment": 0.7249285714285715
+  },
+  {
+    "date": "2024-09-03",
+    "actual_open": 220.41949337418052,
+    "predicted_open": 220.68238830566406,
+    "sentiment": 0.8472857142857143
+  },
+  {
+    "date": "2024-09-04",
+    "actual_open": 220.38966486266608,
+    "predicted_open": 220.70335388183594,
+    "sentiment": 0.7897777777777777
+  },
+  {
+    "date": "2024-09-05",
+    "actual_open": 222.69667077468378,
+    "predicted_open": 222.63929748535156,
+    "sentiment": 0.7936
+  },
+  {
+    "date": "2024-09-06",
+    "actual_open": 219.58419811845144,
+    "predicted_open": 219.48719787597656,
+    "sentiment": 0.5132777777777777
+  },
+  {
+    "date": "2024-09-09",
+    "actual_open": 217.69483113354613,
+    "predicted_open": 217.76234436035156,
+    "sentiment": 0.6798928571428571
+  },
+  {
+    "date": "2024-09-10",
+    "actual_open": 220.22062862304543,
+    "predicted_open": 219.91293334960938,
+    "sentiment": 0.6030588235294118
+  },
+  {
+    "date": "2024-09-11",
+    "actual_open": 221.2548069431359,
+    "predicted_open": 221.23411560058594,
+    "sentiment": 0.6980625
+  },
+  {
+    "date": "2024-09-12",
+    "actual_open": 222.32874892129448,
+    "predicted_open": 222.2615966796875,
+    "sentiment": 0.8403684210526317
+  },
+  {
+    "date": "2024-09-13",
+    "actual_open": 215.32814508742544,
+    "predicted_open": 215.52532958984375,
+    "sentiment": 0.535
+  },
+  {
+    "date": "2024-09-16",
+    "actual_open": 214.54254826078727,
+    "predicted_open": 214.51028442382812,
+    "sentiment": 0.4711
+  },
+  {
+    "date": "2024-09-17",
+    "actual_open": 216.33251398665766,
+    "predicted_open": 216.12847900390625,
+    "sentiment": 0.7582
+  },
+  {
+    "date": "2024-09-18",
+    "actual_open": 223.7308662842885,
+    "predicted_open": 223.26817321777344,
+    "sentiment": 0.6587368421052632
+  },
+  {
+    "date": "2024-09-19",
+    "actual_open": 228.6829959505254,
+    "predicted_open": 228.4916534423828,
+    "sentiment": 0.64885
+  },
+  {
+    "date": "2024-09-20",
+    "actual_open": 226.06771724362264,
+    "predicted_open": 226.0186767578125,
+    "sentiment": 0.6797619047619048
+  },
+  {
+    "date": "2024-09-23",
+    "actual_open": 227.37036953161189,
+    "predicted_open": 227.31341552734375,
+    "sentiment": 0.8442307692307692
+  },
+  {
+    "date": "2024-09-24",
+    "actual_open": 223.6711754067507,
+    "predicted_open": 223.86497497558594,
+    "sentiment": 0.5876666666666667
+  },
+  {
+    "date": "2024-09-25",
+    "actual_open": 226.02791885863684,
+    "predicted_open": 225.91371154785156,
+    "sentiment": 0.7841666666666667
+  },
+  {
+    "date": "2024-09-26",
+    "actual_open": 227.18143093581907,
+    "predicted_open": 227.24192810058594,
+    "sentiment": 0.5579166666666667
+  },
+  {
+    "date": "2024-09-27",
+    "actual_open": 228.75258844686658,
+    "predicted_open": 228.45899963378906,
+    "sentiment": 0.5362857142857143
+  },
+  {
+    "date": "2024-09-30",
+    "actual_open": 228.2355040411627,
+    "predicted_open": 228.10304260253906,
+    "sentiment": 0.5077692307692308
+  },
+  {
+    "date": "2024-10-01",
+    "actual_open": 224.62581519597003,
+    "predicted_open": 228.74020385742188,
+    "sentiment": 0.4922916666666666
+  },
+  {
+    "date": "2024-10-02",
+    "actual_open": 223.88001079844628,
+    "predicted_open": 226.5458221435547,
+    "sentiment": 0.653875
+  },
+  {
+    "date": "2024-10-03",
+    "actual_open": 226.6245506840192,
+    "predicted_open": 223.6935272216797,
+    "sentiment": 0.7595000000000001
+  },
+  {
+    "date": "2024-10-04",
+    "actual_open": 223.24361256318196,
+    "predicted_open": 228.00949096679688,
+    "sentiment": 0.7874
+  },
+  {
+    "date": "2024-10-07",
+    "actual_open": 223.0447257693685,
+    "predicted_open": 218.71322631835938,
+    "sentiment": 0.5635625
+  },
+  {
+    "date": "2024-10-08",
+    "actual_open": 223.96950943919006,
+    "predicted_open": 222.9342498779297,
+    "sentiment": 0.9031818181818182
+  },
+  {
+    "date": "2024-10-09",
+    "actual_open": 226.50523572074002,
+    "predicted_open": 223.00177001953125,
+    "sentiment": 0.5970666666666666
+  },
+  {
+    "date": "2024-10-10",
+    "actual_open": 228.01675665509578,
+    "predicted_open": 223.4320526123047,
+    "sentiment": 0.7905333333333334
+  },
+  {
+    "date": "2024-10-11",
+    "actual_open": 227.42011387416335,
+    "predicted_open": 227.00274658203125,
+    "sentiment": 0.38492307692307687
+  },
+  {
+    "date": "2024-10-14",
+    "actual_open": 232.30261271123658,
+    "predicted_open": 230.0768280029297,
+    "sentiment": 0.7184545454545455
+  },
+  {
+    "date": "2024-10-15",
+    "actual_open": 230.30386376880503,
+    "predicted_open": 225.6505584716797,
+    "sentiment": 0.9492666666666667
+  },
+  {
+    "date": "2024-10-16",
+    "actual_open": 232.12361966628396,
+    "predicted_open": 222.3227996826172,
+    "sentiment": 0.7970344827586208
+  },
+  {
+    "date": "2024-10-17",
+    "actual_open": 234.8582185948981,
+    "predicted_open": 222.52017211914062,
+    "sentiment": 0.8169032258064516
+  },
+  {
+    "date": "2024-10-18",
+    "actual_open": 233.1378868595546,
+    "predicted_open": 227.1162567138672,
+    "sentiment": 0.9113076923076923
+  },
+  {
+    "date": "2024-10-21",
+    "actual_open": 232.5810627118631,
+    "predicted_open": 228.46449279785156,
+    "sentiment": 0.6547142857142857
+  },
+  {
+    "date": "2024-10-22",
+    "actual_open": 232.76997861721128,
+    "predicted_open": 224.66294860839844,
+    "sentiment": 0.39466666666666667
+  },
+  {
+    "date": "2024-10-23",
+    "actual_open": 228.69293816499177,
+    "predicted_open": 226.06727600097656,
+    "sentiment": 0.04049999999999999
+  },
+  {
+    "date": "2024-10-24",
+    "actual_open": 228.4542922398222,
+    "predicted_open": 229.10372924804688,
+    "sentiment": 0.53375
+  },
+  {
+    "date": "2024-10-25",
+    "actual_open": 232.0142568404043,
+    "predicted_open": 229.40162658691406,
+    "sentiment": 0.4656666666666667
+  },
+  {
+    "date": "2024-10-28",
+    "actual_open": 231.7954872619061,
+    "predicted_open": 231.89862060546875,
+    "sentiment": 0.0
+  },
+  {
+    "date": "2024-10-29",
+    "actual_open": 231.30821865562254,
+    "predicted_open": 228.38365173339844,
+    "sentiment": 0.3233333333333333
+  },
+  {
+    "date": "2024-10-30",
+    "actual_open": 228.05650301771783,
+    "predicted_open": 227.60289001464844,
+    "sentiment": 0.7909999999999999
+  },
+  {
+    "date": "2024-10-31",
+    "actual_open": 219.7333456007168,
+    "predicted_open": 231.26290893554688,
+    "sentiment": 0.6596
+  },
+  {
+    "date": "2024-11-01",
+    "actual_open": 219.7532516264011,
+    "predicted_open": 216.02183532714844,
+    "sentiment": 0.2825
+  },
+  {
+    "date": "2024-11-04",
+    "actual_open": 220.55873344878196,
+    "predicted_open": 219.99722290039062,
+    "sentiment": -0.141
+  },
+  {
+    "date": "2024-11-05",
+    "actual_open": 221.36417152277414,
+    "predicted_open": 216.86019897460938,
+    "sentiment": 0.42400000000000004
+  },
+  {
+    "date": "2024-11-06",
+    "actual_open": 223.37288331058951,
+    "predicted_open": 221.13087463378906,
+    "sentiment": 0.0756
+  },
+  {
+    "date": "2024-11-07",
+    "actual_open": 226.1471868576639,
+    "predicted_open": 222.56979370117188,
+    "sentiment": 0.14400000000000002
+  },
+  {
+    "date": "2024-11-08",
+    "actual_open": 223.98696589218596,
+    "predicted_open": 230.69386291503906,
+    "sentiment": 0.211
+  },
+  {
+    "date": "2024-11-11",
+    "actual_open": 223.53899499841924,
+    "predicted_open": 220.88648986816406,
+    "sentiment": 0.426
+  },
+  {
+    "date": "2024-11-12",
+    "actual_open": 223.00139666804327,
+    "predicted_open": 224.6175079345703,
+    "sentiment": -0.201
+  },
+  {
+    "date": "2024-11-13",
+    "actual_open": 224.00686988588794,
+    "predicted_open": 217.99295043945312,
+    "sentiment": 0.3245
+  },
+  {
+    "date": "2024-11-14",
+    "actual_open": 225.38065961406878,
+    "predicted_open": 221.71951293945312,
+    "sentiment": 0.17
+  },
+  {
+    "date": "2024-11-15",
+    "actual_open": 224.23582987715278,
+    "predicted_open": 221.91677856445312,
+    "sentiment": 0.5445
+  },
+  {
+    "date": "2024-11-19",
+    "actual_open": 227.0331781982001,
+    "predicted_open": 222.75439453125,
+    "sentiment": 0.527
+  },
+  {
+    "date": "2024-11-20",
+    "actual_open": 227.8494991340082,
+    "predicted_open": 231.01324462890625,
+    "sentiment": 0.0
+  },
+  {
+    "date": "2024-11-22",
+    "actual_open": 230.41787789282506,
+    "predicted_open": 229.423583984375,
+    "sentiment": 0.3185
+  },
+  {
+    "date": "2024-11-25",
+    "actual_open": 232.2794717613211,
+    "predicted_open": 231.89862060546875,
+    "sentiment": 0.0
+  },
+  {
+    "date": "2024-11-26",
+    "actual_open": 233.41431778082386,
+    "predicted_open": 231.89862060546875,
+    "sentiment": 0.0
+  },
+  {
+    "date": "2024-11-27",
+    "actual_open": 233.75278591990275,
+    "predicted_open": 231.89862060546875,
+    "sentiment": 0.0
+  },
+  {
+    "date": "2025-12-23",
+    "actual_open": 272.3399963378906,
+    "predicted_open": 224.52317810058594,
+    "sentiment": 0.29853458078578116
+  },
+  {
+    "date": "2025-12-30",
+    "actual_open": NaN,
+    "predicted_open": 224.15016174316406,
+    "sentiment": 0.11805181289091707
+  }
+]
