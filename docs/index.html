@@ -93,6 +93,9 @@
                 // But since index.html and predictions.json are in the same folder, simple filename should work.
                 // However, let's add a cache buster to prevent stale data issues.
                 const response = await fetch('predictions.json?t=' + new Date().getTime());
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
                 const data = await response.json();
                 
                 // Sort data by date
