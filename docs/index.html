@@ -57,12 +57,58 @@
             font-size: 12px;
             margin-top: 20px;
         }
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+        select, button {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        button {
+            background-color: #2196F3;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #1976D2;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>AAPL Stock Price Prediction & Sentiment Analysis</h1>
         
+        <div class="controls">
+            <select id="yearSelect">
+                <option value="all">All Years</option>
+            </select>
+            <select id="monthSelect">
+                <option value="all">All Months</option>
+                <option value="0">January</option>
+                <option value="1">February</option>
+                <option value="2">March</option>
+                <option value="3">April</option>
+                <option value="4">May</option>
+                <option value="5">June</option>
+                <option value="6">July</option>
+                <option value="7">August</option>
+                <option value="8">September</option>
+                <option value="9">October</option>
+                <option value="10">November</option>
+                <option value="11">December</option>
+            </select>
+            <button onclick="resetFilters()">Reset to Latest</button>
+        </div>
+
         <div class="chart-container">
             <canvas id="predictionChart"></canvas>
         </div>
@@ -86,138 +132,188 @@
     </div>
 
     <script>
+        let allData = [];
+        let chartInstance = null;
+
         async function loadData() {
             try {
-                // Use relative path that works for both local and GitHub Pages
-                // GitHub Pages serves from root of repo if configured that way, or /repo-name/
-                // But since index.html and predictions.json are in the same folder, simple filename should work.
-                // However, let's add a cache buster to prevent stale data issues.
                 const response = await fetch('./predictions.json?t=' + new Date().getTime());
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
-                const data = await response.json();
+                allData = await response.json();
                 
                 // Sort data by date
-                data.sort((a, b) => new Date(a.date) - new Date(b.date));
+                allData.sort((a, b) => new Date(a.date) - new Date(b.date));
 
-                // Filter for 2025 data only (as requested) or show all if sparse
-                // Let's show last 90 days by default to keep it readable
-                const recentData = data.slice(-90); 
-
-                const dates = recentData.map(d => d.date);
-                // Use 'current_open' for the price on that day. 
-                // 'future_open' is the target (next day), which is NaN for the last entry.
-                const actualPrices = recentData.map(d => d.current_open);
-                const predictedPrices = recentData.map(d => d.predicted_open);
-                const sentiments = recentData.map(d => d.sentiment);
-
-                // Update Stats
-                const last = recentData[recentData.length - 1];
-                
-                // Display the price on the LATEST date (current_open)
-                document.getElementById('latestPrice').textContent = last.current_open ? 
-                    `$${last.current_open.toFixed(2)}` : 'N/A';
-                
-                document.getElementById('latestPred').textContent = `$${last.predicted_open.toFixed(2)}`;
-                
-                const sentVal = last.sentiment;
-                const sentText = sentVal > 0.1 ? 'Positive' : (sentVal < -0.1 ? 'Negative' : 'Neutral');
-                const sentColor = sentVal > 0.1 ? 'green' : (sentVal < -0.1 ? 'red' : 'gray');
-                
-                const sentEl = document.getElementById('latestSentiment');
-                sentEl.textContent = `${sentText} (${sentVal.toFixed(2)})`;
-                sentEl.style.color = sentColor;
-
-                document.getElementById('lastUpdated').textContent = `Last Updated: ${new Date().toLocaleString()}`;
-
-                // Chart
-                const ctx = document.getElementById('predictionChart').getContext('2d');
-                new Chart(ctx, {
-                    type: 'line',
-                    data: {
-                        labels: dates,
-                        datasets: [
-                            {
-                                label: 'Actual Opening Price',
-                                data: actualPrices,
-                                borderColor: '#2196F3',
-                                backgroundColor: 'rgba(33, 150, 243, 0.1)',
-                                borderWidth: 2,
-                                tension: 0.1,
-                                yAxisID: 'y'
-                            },
-                            {
-                                label: 'Predicted Opening Price',
-                                data: predictedPrices,
-                                borderColor: '#FF9800',
-                                borderDash: [5, 5],
-                                borderWidth: 2,
-                                tension: 0.1,
-                                yAxisID: 'y'
-                            },
-                            {
-                                label: 'Sentiment Polarity',
-                                data: sentiments,
-                                type: 'bar',
-                                backgroundColor: (context) => {
-                                    const value = context.raw;
-                                    return value >= 0 ? 'rgba(76, 175, 80, 0.3)' : 'rgba(244, 67, 54, 0.3)';
-                                },
-                                yAxisID: 'y1',
-                                barThickness: 5
-                            }
-                        ]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        interaction: {
-                            mode: 'index',
-                            intersect: false,
-                        },
-                        scales: {
-                            x: {
-                                type: 'time',
-                                time: {
-                                    unit: 'day'
-                                },
-                                title: {
-                                    display: true,
-                                    text: 'Date'
-                                }
-                            },
-                            y: {
-                                type: 'linear',
-                                display: true,
-                                position: 'left',
-                                title: {
-                                    display: true,
-                                    text: 'Price ($)'
-                                }
-                            },
-                            y1: {
-                                type: 'linear',
-                                display: true,
-                                position: 'right',
-                                title: {
-                                    display: true,
-                                    text: 'Sentiment Score'
-                                },
-                                grid: {
-                                    drawOnChartArea: false
-                                },
-                                min: -1,
-                                max: 1
-                            }
-                        }
-                    }
-                });
-
+                initDashboard();
             } catch (error) {
                 console.error('Error loading data:', error);
                 document.querySelector('.container').innerHTML += `<p style="color:red; text-align:center">Error loading predictions.json: ${error.message}</p>`;
             }
+        }
+
+        function initDashboard() {
+            // Populate Year Dropdown
+            const years = [...new Set(allData.map(d => new Date(d.date).getFullYear()))];
+            const yearSelect = document.getElementById('yearSelect');
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearSelect.appendChild(option);
+            });
+
+            // Add Event Listeners
+            document.getElementById('yearSelect').addEventListener('change', updateDashboard);
+            document.getElementById('monthSelect').addEventListener('change', updateDashboard);
+
+            // Initial Load (Latest 90 days)
+            resetFilters();
+        }
+
+        function resetFilters() {
+            document.getElementById('yearSelect').value = 'all';
+            document.getElementById('monthSelect').value = 'all';
+            
+            // Default view: Last 90 days
+            const recentData = allData.slice(-90);
+            renderDashboard(recentData);
+        }
+
+        function updateDashboard() {
+            const selectedYear = document.getElementById('yearSelect').value;
+            const selectedMonth = document.getElementById('monthSelect').value;
+
+            let filteredData = allData;
+
+            if (selectedYear !== 'all') {
+                filteredData = filteredData.filter(d => new Date(d.date).getFullYear() == selectedYear);
+            }
+
+            if (selectedMonth !== 'all') {
+                filteredData = filteredData.filter(d => new Date(d.date).getMonth() == selectedMonth);
+            }
+
+            renderDashboard(filteredData);
+        }
+
+        function renderDashboard(data) {
+            if (data.length === 0) {
+                // Handle empty data case if needed
+                return;
+            }
+
+            const dates = data.map(d => d.date);
+            const actualPrices = data.map(d => d.current_open);
+            const predictedPrices = data.map(d => d.predicted_open);
+            const sentiments = data.map(d => d.sentiment);
+
+            // Update Stats (using the last available data point in the filtered set)
+            const last = data[data.length - 1];
+            
+            document.getElementById('latestPrice').textContent = last.current_open ? 
+                `$${last.current_open.toFixed(2)}` : 'N/A';
+            
+            document.getElementById('latestPred').textContent = `$${last.predicted_open.toFixed(2)}`;
+            
+            const sentVal = last.sentiment;
+            const sentText = sentVal > 0.1 ? 'Positive' : (sentVal < -0.1 ? 'Negative' : 'Neutral');
+            const sentColor = sentVal > 0.1 ? 'green' : (sentVal < -0.1 ? 'red' : 'gray');
+            
+            const sentEl = document.getElementById('latestSentiment');
+            sentEl.textContent = `${sentText} (${sentVal.toFixed(2)})`;
+            sentEl.style.color = sentColor;
+
+            document.getElementById('lastUpdated').textContent = `Last Updated: ${new Date().toLocaleString()}`;
+
+            // Chart
+            const ctx = document.getElementById('predictionChart').getContext('2d');
+
+            if (chartInstance) {
+                chartInstance.destroy();
+            }
+
+            chartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: dates,
+                    datasets: [
+                        {
+                            label: 'Actual Opening Price',
+                            data: actualPrices,
+                            borderColor: '#2196F3',
+                            backgroundColor: 'rgba(33, 150, 243, 0.1)',
+                            borderWidth: 2,
+                            tension: 0.1,
+                            yAxisID: 'y'
+                        },
+                        {
+                            label: 'Predicted Opening Price',
+                            data: predictedPrices,
+                            borderColor: '#FF9800',
+                            borderDash: [5, 5],
+                            borderWidth: 2,
+                            tension: 0.1,
+                            yAxisID: 'y'
+                        },
+                        {
+                            label: 'Sentiment Polarity',
+                            data: sentiments,
+                            type: 'bar',
+                            backgroundColor: (context) => {
+                                const value = context.raw;
+                                return value >= 0 ? 'rgba(76, 175, 80, 0.3)' : 'rgba(244, 67, 54, 0.3)';
+                            },
+                            yAxisID: 'y1',
+                            barThickness: 5
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    interaction: {
+                        mode: 'index',
+                        intersect: false,
+                    },
+                    scales: {
+                        x: {
+                            type: 'time',
+                            time: {
+                                unit: 'day'
+                            },
+                            title: {
+                                display: true,
+                                text: 'Date'
+                            }
+                        },
+                        y: {
+                            type: 'linear',
+                            display: true,
+                            position: 'left',
+                            title: {
+                                display: true,
+                                text: 'Price ($)'
+                            }
+                        },
+                        y1: {
+                            type: 'linear',
+                            display: true,
+                            position: 'right',
+                            title: {
+                                display: true,
+                                text: 'Sentiment Score'
+                            },
+                            grid: {
+                                drawOnChartArea: false
+                            },
+                            min: -1,
+                            max: 1
+                        }
+                    }
+                }
+            });
         }
 
         loadData();
