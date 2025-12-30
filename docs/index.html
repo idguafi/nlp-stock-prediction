@@ -92,7 +92,7 @@
                 // GitHub Pages serves from root of repo if configured that way, or /repo-name/
                 // But since index.html and predictions.json are in the same folder, simple filename should work.
                 // However, let's add a cache buster to prevent stale data issues.
-                const response = await fetch('predictions.json?t=' + new Date().getTime());
+                const response = await fetch('./predictions.json?t=' + new Date().getTime());
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -216,7 +216,7 @@
 
             } catch (error) {
                 console.error('Error loading data:', error);
-                document.querySelector('.container').innerHTML += `<p style="color:red; text-align:center">Error loading predictions.json. Make sure the file exists.</p>`;
+                document.querySelector('.container').innerHTML += `<p style="color:red; text-align:center">Error loading predictions.json: ${error.message}</p>`;
             }
         }
 
