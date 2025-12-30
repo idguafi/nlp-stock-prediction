@@ -19,7 +19,7 @@ Faker
 invoke
 python-dotenv
 torch
-tochvision
+torchvision
 torchaudio
 transformers
 yfinance
