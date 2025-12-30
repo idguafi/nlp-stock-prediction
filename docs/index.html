@@ -88,7 +88,11 @@
     <script>
         async function loadData() {
             try {
-                const response = await fetch('predictions.json');
+                // Use relative path that works for both local and GitHub Pages
+                // GitHub Pages serves from root of repo if configured that way, or /repo-name/
+                // But since index.html and predictions.json are in the same folder, simple filename should work.
+                // However, let's add a cache buster to prevent stale data issues.
+                const response = await fetch('predictions.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
                 // Sort data by date
