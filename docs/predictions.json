@@ -7940,8 +7940,15 @@
   {
     "date": "2025-12-30",
     "current_open": 272.80999755859375,
-    "future_open": null,
+    "future_open": 273.05999755859375,
     "predicted_open": 224.15016174316406,
     "sentiment": 0.11805181289091707
+  },
+  {
+    "date": "2025-12-31",
+    "current_open": 273.05999755859375,
+    "future_open": null,
+    "predicted_open": 223.42112731933594,
+    "sentiment": 0.2388412645086646
   }
 ]
