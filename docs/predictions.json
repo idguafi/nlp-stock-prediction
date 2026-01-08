@@ -7975,8 +7975,15 @@
   {
     "date": "2026-01-07",
     "current_open": 263.2699890136719,
-    "future_open": null,
+    "future_open": 256.9949951171875,
     "predicted_open": 224.1400909423828,
     "sentiment": -0.011625840701162815
+  },
+  {
+    "date": "2026-01-08",
+    "current_open": 256.9949951171875,
+    "future_open": null,
+    "predicted_open": 222.73805236816406,
+    "sentiment": 0.20775756221264602
   }
 ]
