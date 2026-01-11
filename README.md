@@ -12,9 +12,13 @@ Furthermore, it would be hard to find historical sentiment data for ALL stocks, 
 ##### TLDR: 
 The original idea was too ambitious/unfeasible, and we decided to make the best of the situation by scaling back the scope, and applying a similar idea to the AAPL stock as a proof of concept.
 
-# Data, model + training and inference
+# Technologies, data, model, training and inference
 
-#### Historical data and training
+#### Technologies used
+
+For the feature store/model registry we used hopsworks (cheers, jim!). Sentiment analysis model was finbert via huggingface, which can be found here: https://huggingface.co/ProsusAI/finbert. Lastly, we used github pages to display our model's predictions. 
+
+#### Historical (static) data and training
 
 The historical datasets used were: 
 
@@ -25,7 +29,7 @@ Which were joined together as a pandas dataframe. We also added the target varia
 
 This data was then backfilled into a hopsworks feature store and was later used to train our xgboost model. 
 
-#### Dynamic data
+#### Dynamic data - yfinance articles
 
 For the dynamic data source, we ingested daily articles about AAPL via the yfinance library, along with todays opening price for plotting and accuracy measurement. 
 The ingested articles were then fed through the FinBert NLP model that scored the sentiment and sentiment polarity for today which was then used to predict tomorrows price. 
@@ -33,13 +37,61 @@ The ingested articles were then fed through the FinBert NLP model that scored th
 
 # Model performance 
 
-The model is quite off when it comes to its predictions, as shown by the gap between the predicted opening price and the actual opening price. 
-Now, why could this be the case? Our best guess is that this is probably due to the fact that AAPL traded at much lower prices for a majority of the data that we have access to. 
+The model is slightly off when it comes to the opening price predictions, as shown by the gap between the predicted opening price and the actual opening price. 
+Why is this the case? Our best guess is that it's due to the fact that AAPL traded at much lower prices for a majority of the data that we have access to. 
 Looking at the apple stock price in january of 2024 compared to december the same year (which is the last year we had access to) you can see an astronimical leap from trading at 180 USD to 253 USD. 
 
-I can hear you thinking that we easily could have accessed data for 2025 as well, and that is true, but the issue is that we didn't have historical sentiment for 2025 to go along with it, which means that it wouldn't have worked within the scope of our project.
+I can hear you thinking that we easily could have accessed stock data for 2025 as well, and that is true, but the issue is that we didn't have historical sentiment for 2025 to go along with it, which means that it wouldn't have worked within the scope of our project.
 
 ##### TLDR: 
 Major shift in prices in 2024, sustained at that level in 2025/26. 
 Limited data at that price with associated sentiment score which affects predictive quality.
 
+
+# High level architecture
+```mermaid
+graph TD
+    %% Nodes
+    subgraph Sources ["External Sources"]
+        YF[Yahoo Finance API]
+        HF[Hugging Face API]
+        CSV[apple_news_data.csv]
+    end
+
+    subgraph Ingestion ["Ingestion & Processing"]
+        DAILY[daily_data.ipynb]
+        BACK[backfill.ipynb]
+    end
+
+    subgraph Platform ["Hopsworks Platform"]
+        FS[("Feature Store<br/>(Sentiments & Prices)")]
+        MR[Model Registry]
+    end
+
+    subgraph ML ["Machine Learning"]
+        TRAIN[model_training.ipynb]
+        INFER[inference.ipynb]
+    end
+
+    subgraph Web ["Dashboard"]
+        JSON[docs/predictions.json]
+        HTML[docs/index.html]
+    end
+
+    %% Edges
+    YF --> DAILY & BACK
+    HF --> DAILY & BACK
+    CSV --> BACK
+    
+    DAILY --> FS
+    BACK --> FS
+
+    FS --> TRAIN
+    TRAIN -- Save Model --> MR
+    
+    MR -- Load Model --> INFER
+    FS -- Load Features --> INFER
+    
+    INFER --> JSON
+    JSON --> HTML
+```
