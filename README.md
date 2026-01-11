@@ -2,17 +2,21 @@
 
 By Sam Barati Bakhtiiari and Joel Maharena. Project for ID2223. 
 
-In this project we built an ML-pipeline that ingests daily AAPL stock data and articles from the yfinance library and outputs a prediction of tomorrows opening stock price. 
+#### Aim of the project
+The aim of this project was to build an ML-pipeline that uses sentiment analysis to output a prediction of tomorrows opening trading price for AAPL.
 We display this information in a github page that is updated whenever a new inference is made. See screenshots or follow the link below. 
 https://idguafi.github.io/nlp-stock-prediction/ 
 
-### A note on why this project differs from our original proposition: 
+<img width="1059" height="811" alt="Screenshot 2026-01-11 at 19 28 16" src="https://github.com/user-attachments/assets/e2373b93-9c61-435a-b75b-db4f7cb46769" />
 
-We originally aimed to build a sentiment analysis predictor that ingested reddit sentiments via PRAW and predicted whether or not the price of said stock would see a 1% uptick or not. 
+
+#### A note on why this project differs from our original proposition
+
+We originally aimed to build a general sentiment analysis predictor that ingested reddit sentiments via PRAW and predicted whether or not the price of said stock would see a 1% uptick or not. 
 This, however, we realised was not possible due to the reddit API being unavailable to us. We tried applying for a token, but were denied access. 
 Furthermore, it would be hard to find historical sentiment data for ALL stocks, which is another problem with our idea... 
 ##### TLDR: 
-The original idea was too ambitious/unfeasible, and we decided to make the best of the situation by scaling back the scope, and applying a similar idea to the AAPL stock as a proof of concept.
+The original idea was too ambitious/unfeasible, so we settled to make the best of the situation by scaling back the scope, and applying a similar idea to the AAPL stock as a proof of concept. Instead of predicting the 1% increase, we instead decided to predict the following days opening price.
 
 # Technologies, data, model, training and inference
 
@@ -26,8 +30,6 @@ The historical datasets used were:
 
 1. https://www.kaggle.com/datasets/frankossai/apple-stock-aapl-historical-financial-news-data which consisted of apple articles with corresponding sentiment scores
 2. yfinance historical stock prices
-
-Which were joined together as a pandas dataframe. We also added the target variable ('target_open') which we aimed to predict.
 
 This data was then backfilled into a hopsworks feature store and was later used to train our xgboost model. 
 
