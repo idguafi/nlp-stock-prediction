@@ -97,3 +97,36 @@ graph TD
     INFER --> JSON
     JSON --> HTML
 ```
+
+# How to Run This Yourself
+
+Follow these steps to set up the project locally and run the prediction pipeline.
+
+#### 1. Prerequisites
+- **Python 3.8+** installed.
+- **Hopsworks Account**: You need a [Hopsworks](https://www.hopsworks.ai/) account (serverless is free) to manage the Feature Store and Model Registry.
+
+#### 2. Installation
+Clone the repository and install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+#### 3. API Key Configuration
+The scripts require a Hopsworks API Key to authenticate. 
+1. Generate an API Key in your Hopsworks project settings.
+2. When you run the scripts, the `hopsworks.login()` function will prompt you to enter your API Key.
+3. **(Optional)** To avoid manual entry, you can create a .env file in the root directory or export it as an environment variable:
+   ```bash
+   export HOPSWORKS_API_KEY='your_api_key_here'
+   ```
+
+
+### 4. Project Workflow
+The core logic is divided into Jupyter notebooks located in the notebooks directory. For a complete deployment, they are typically executed in this order:
+
+1.  **`backfill.ipynb`**: Populates the Feature Store with historical stock price and sentiment data.
+2.  **`daily_data.ipynb`**: Designed to run daily (e.g., via GitHub Actions) to fetch the latest data and update the Feature Store.
+3.  **`model_training.ipynb`**: Trains the XGBoost model using data from the Feature Store and saves it to the Model Registry.
+4.  **`inference.ipynb`**: Loads the latest model, fetches batch data, and performs stock price predictions.
