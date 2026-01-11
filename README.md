@@ -3,7 +3,7 @@
 By Sam Barati Bakhtiiari and Joel Maharena. Project for ID2223. 
 
 #### Aim of the project
-The aim of this project was to build an ML-pipeline that uses sentiment analysis to output a prediction of tomorrows opening trading price for AAPL.
+The aim of this project was to build an ML-pipeline that utilises sentiment scores + todays opening trading price to output a prediction of tomorrows opening trading price for AAPL.
 We display this information in a github page that is updated whenever a new inference is made. See screenshots or follow the link below. 
 https://idguafi.github.io/nlp-stock-prediction/ 
 
