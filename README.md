@@ -1,5 +1,7 @@
 # AAPL stock price predictor using sentiment analysis
 
+By Sam Barati Bakhtiiari and Joel Maharena. Project for ID2223. 
+
 In this project we built an ML-pipeline that ingests daily AAPL stock data and articles from the yfinance library and outputs a prediction of tomorrows opening stock price. 
 We display this information in a github page that is updated whenever a new inference is made. See screenshots or follow the link below. 
 https://idguafi.github.io/nlp-stock-prediction/ 
